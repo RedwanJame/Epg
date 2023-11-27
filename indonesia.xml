@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231127">
 <channel id="ANTVHD.id"><display-name>ANTV</display-name><url>https://mncvision.id</url></channel>
 <channel id="ArirangHD.id"><display-name>Arirang</display-name><url>https://mncvision.id</url></channel>
+<channel id="BBCNewsAsiaPacific"><display-name>BBC News Asia</display-name><url>https://mncvision.id</url></channel>
 <channel id="CelebritiesTV.id"><display-name>Celebrities TV</display-name><url>https://mncvision.id</url></channel>
 <channel id="CGTNDocumentaryHD.id"><display-name>CGTN Documentary</display-name><url>https://mncvision.id</url></channel>
 <channel id="CGTNHD.id"><display-name>CGTN</display-name><url>https://mncvision.id</url></channel>
@@ -12,6 +13,8 @@
 <channel id="DWEnglish.id"><display-name>DW English</display-name><url>https://mncvision.id</url></channel>
 <channel id="Entertainment.id"><display-name>Entertainment</display-name><icon src="https://i.imgur.com/VtBLWiv.png"/><url>https://mncvision.id</url></channel>
 <channel id="FightSports.id"><display-name>Fight Sports</display-name><url>https://mncvision.id</url></channel>
+<channel id="FoxNews"><display-name>Fox News</display-name><url>https://mncvision.id</url></channel>
+<channel id="France24English"><display-name>France 24 English</display-name><url>https://mncvision.id</url></channel>
 <channel id="Galaxy.id"><display-name>Galaxy</display-name><icon src="https://i.imgur.com/205RLbh.png"/><url>https://mncvision.id</url></channel>
 <channel id="GalaxyPremium.id"><display-name>Galaxy Premium</display-name><icon src="https://i.imgur.com/oGKtYYG.png"/><url>https://mncvision.id</url></channel>
 <channel id="GTVHD.id"><display-name>GTV HD</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://mncvision.id</url></channel>
@@ -19,6 +22,7 @@
 <channel id="IndosiarHD.id"><display-name>Indosiar</display-name><url>https://mncvision.id</url></channel>
 <channel id="iNewsHD.id"><display-name>iNews HD</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://mncvision.id</url></channel>
 <channel id="JakTVHD.id"><display-name>JAKTV</display-name><url>https://mncvision.id</url></channel>
+<channel id="KidsTV.id"><display-name>Kids TV</display-name><icon src="https://i.imgur.com/B5YiUIP.png"/><url>https://mncvision.id</url></channel>
 <channel id="KIXHD.id"><display-name>KIX</display-name><url>https://mncvision.id</url></channel>
 <channel id="MNCTVHD.id"><display-name>MNCTV HD</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://mncvision.id</url></channel>
 <channel id="MTV90s.uk"><display-name>MTV 90s</display-name><icon src="https://i.imgur.com/au5zhwP.png"/><url>https://mncvision.id</url></channel>
@@ -40,7 +44,7 @@
 <channel id="TVRIHD.id"><display-name>TVRI</display-name><url>https://mncvision.id</url></channel>
 <channel id="VisionPrimeHD.id"><display-name>Vision Prime HD</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/><url>https://mncvision.id</url></channel>
 <channel id="ZeeBioskopHD.id"><display-name>Zee Bioskop</display-name><url>https://mncvision.id</url></channel>
-<channel id="ZooMooHD.id"><display-name>Zoomoo</display-name><url>https://mncvision.id</url></channel>
+<channel id="ZooMooHD.id"><display-name>ZooMoo</display-name><url>https://mncvision.id</url></channel>
 <programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="ANTVHD.id"><title lang="en">Pacarku Kuntilanak Kembar</title></programme>
 <programme start="20231126190000 +0000" stop="20231126191500 +0000" channel="ANTVHD.id"><title lang="en">Lensa Olahraga</title></programme>
 <programme start="20231126191500 +0000" stop="20231126201500 +0000" channel="ANTVHD.id"><title lang="en">Test Case</title></programme>
@@ -358,6 +362,256 @@
 <programme start="20231201150000 +0000" stop="20231201153000 +0000" channel="ArirangHD.id"><title lang="en">Within The Frame</title></programme>
 <programme start="20231201153000 +0000" stop="20231201154000 +0000" channel="ArirangHD.id"><title lang="en">SmartBiz Accelerators 2</title></programme>
 <programme start="20231201154000 +0000" stop="20231201155000 +0000" channel="ArirangHD.id"><title lang="en">1Day 1Korea: K-Stage</title></programme>
+<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126180000 +0000" stop="20231126183000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126183000 +0000" stop="20231126190000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Rising Tides, Shifting Futures</title></programme>
+<programme start="20231126190000 +0000" stop="20231126193000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126193000 +0000" stop="20231126200000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Spirit Of Yachting: Middle Sea</title></programme>
+<programme start="20231126200000 +0000" stop="20231126203000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126203000 +0000" stop="20231126210000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Click</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126213000 +0000" stop="20231126220000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC 100 Women In...</title></programme>
+<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231126223000 +0000" stop="20231126230000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Influential...: Ina Garten</title></programme>
+<programme start="20231126230000 +0000" stop="20231126233000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231126233000 +0000" stop="20231126234500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231126234500 +0000" stop="20231127000000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231127000000 +0000" stop="20231127003000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231127003000 +0000" stop="20231127004500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231127004500 +0000" stop="20231127010000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231127010000 +0000" stop="20231127013000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231127013000 +0000" stop="20231127014500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231127014500 +0000" stop="20231127020000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231127020000 +0000" stop="20231127023000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127023000 +0000" stop="20231127024500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231127024500 +0000" stop="20231127030000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231127030000 +0000" stop="20231127033000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127033000 +0000" stop="20231127034500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231127034500 +0000" stop="20231127040000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231127040000 +0000" stop="20231127043000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127043000 +0000" stop="20231127050000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231127050000 +0000" stop="20231127053000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127053000 +0000" stop="20231127060000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231127060000 +0000" stop="20231127063000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127063000 +0000" stop="20231127070000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231127070000 +0000" stop="20231127073000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127073000 +0000" stop="20231127080000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231127080000 +0000" stop="20231127083000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127083000 +0000" stop="20231127090000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Talking Business</title></programme>
+<programme start="20231127090000 +0000" stop="20231127093000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127093000 +0000" stop="20231127100000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127100000 +0000" stop="20231127103000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127103000 +0000" stop="20231127110000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231127110000 +0000" stop="20231127113000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127113000 +0000" stop="20231127114500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231127114500 +0000" stop="20231127120000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231127120000 +0000" stop="20231127123000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127123000 +0000" stop="20231127130000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127130000 +0000" stop="20231127133000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127133000 +0000" stop="20231127140000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127140000 +0000" stop="20231127143000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127143000 +0000" stop="20231127144500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231127144500 +0000" stop="20231127150000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231127170000 +0000" stop="20231127173000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Verified Live</title></programme>
+<programme start="20231127173000 +0000" stop="20231127180000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Focus On Africa</title></programme>
+<programme start="20231127180000 +0000" stop="20231127183000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231127183000 +0000" stop="20231127190000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231127190000 +0000" stop="20231127193000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231127193000 +0000" stop="20231127200000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231127200000 +0000" stop="20231127203000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231127213000 +0000" stop="20231127220000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20231127223000 +0000" stop="20231127230000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231127230000 +0000" stop="20231127233000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231127233000 +0000" stop="20231127234500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231127234500 +0000" stop="20231128000000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231128000000 +0000" stop="20231128003000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231128003000 +0000" stop="20231128004500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231128004500 +0000" stop="20231128010000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231128010000 +0000" stop="20231128013000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231128013000 +0000" stop="20231128014500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231128014500 +0000" stop="20231128020000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231128020000 +0000" stop="20231128023000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128023000 +0000" stop="20231128024500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231128024500 +0000" stop="20231128030000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231128030000 +0000" stop="20231128033000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128033000 +0000" stop="20231128034500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231128034500 +0000" stop="20231128040000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231128040000 +0000" stop="20231128043000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128043000 +0000" stop="20231128050000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231128050000 +0000" stop="20231128053000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128053000 +0000" stop="20231128060000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231128060000 +0000" stop="20231128063000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128063000 +0000" stop="20231128070000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231128070000 +0000" stop="20231128073000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128073000 +0000" stop="20231128080000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231128080000 +0000" stop="20231128083000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128083000 +0000" stop="20231128090000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Travel Show: Japan, Pt 2</title></programme>
+<programme start="20231128090000 +0000" stop="20231128093000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128093000 +0000" stop="20231128100000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128100000 +0000" stop="20231128103000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128103000 +0000" stop="20231128110000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231128110000 +0000" stop="20231128113000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128113000 +0000" stop="20231128114500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231128114500 +0000" stop="20231128120000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231128120000 +0000" stop="20231128123000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231128123000 +0000" stop="20231128130000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231128130000 +0000" stop="20231128133000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231128133000 +0000" stop="20231128140000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231128140000 +0000" stop="20231128143000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231128143000 +0000" stop="20231128144500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231128170000 +0000" stop="20231128173000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Verified Live</title></programme>
+<programme start="20231128173000 +0000" stop="20231128180000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Focus On Africa</title></programme>
+<programme start="20231128180000 +0000" stop="20231128183000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231128183000 +0000" stop="20231128190000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231128190000 +0000" stop="20231128193000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231128193000 +0000" stop="20231128200000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231128200000 +0000" stop="20231128203000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231128203000 +0000" stop="20231128210000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231128210000 +0000" stop="20231128213000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231128213000 +0000" stop="20231128220000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231128220000 +0000" stop="20231128223000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20231128223000 +0000" stop="20231128230000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231128230000 +0000" stop="20231128233000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231128233000 +0000" stop="20231128234500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231128234500 +0000" stop="20231129000000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231129000000 +0000" stop="20231129003000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231129003000 +0000" stop="20231129004500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231129004500 +0000" stop="20231129010000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231129010000 +0000" stop="20231129013000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231129013000 +0000" stop="20231129014500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231129014500 +0000" stop="20231129020000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231129020000 +0000" stop="20231129023000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129023000 +0000" stop="20231129024500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231129024500 +0000" stop="20231129030000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231129030000 +0000" stop="20231129033000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129033000 +0000" stop="20231129034500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231129034500 +0000" stop="20231129040000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231129040000 +0000" stop="20231129043000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129043000 +0000" stop="20231129050000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231129050000 +0000" stop="20231129053000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129053000 +0000" stop="20231129060000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231129060000 +0000" stop="20231129063000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129063000 +0000" stop="20231129070000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231129070000 +0000" stop="20231129073000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129073000 +0000" stop="20231129080000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231129080000 +0000" stop="20231129083000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129083000 +0000" stop="20231129090000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Talking Business</title></programme>
+<programme start="20231129090000 +0000" stop="20231129093000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129093000 +0000" stop="20231129100000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129100000 +0000" stop="20231129103000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129103000 +0000" stop="20231129110000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231129110000 +0000" stop="20231129113000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129113000 +0000" stop="20231129114500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231129114500 +0000" stop="20231129120000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231129120000 +0000" stop="20231129123000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231129123000 +0000" stop="20231129130000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231129130000 +0000" stop="20231129133000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231129133000 +0000" stop="20231129140000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231129140000 +0000" stop="20231129143000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231129143000 +0000" stop="20231129144500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231129170000 +0000" stop="20231129173000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Verified Live</title></programme>
+<programme start="20231129173000 +0000" stop="20231129180000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Focus On Africa</title></programme>
+<programme start="20231129180000 +0000" stop="20231129183000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231129183000 +0000" stop="20231129190000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231129190000 +0000" stop="20231129193000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231129193000 +0000" stop="20231129200000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231129200000 +0000" stop="20231129203000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231129203000 +0000" stop="20231129210000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231129210000 +0000" stop="20231129213000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231129213000 +0000" stop="20231129220000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231129220000 +0000" stop="20231129223000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20231129223000 +0000" stop="20231129230000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231129230000 +0000" stop="20231129233000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231129233000 +0000" stop="20231129234500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231129234500 +0000" stop="20231130000000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231130000000 +0000" stop="20231130003000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231130003000 +0000" stop="20231130004500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231130004500 +0000" stop="20231130010000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231130010000 +0000" stop="20231130013000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231130013000 +0000" stop="20231130014500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231130014500 +0000" stop="20231130020000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231130020000 +0000" stop="20231130023000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130023000 +0000" stop="20231130024500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231130024500 +0000" stop="20231130030000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231130030000 +0000" stop="20231130033000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130033000 +0000" stop="20231130034500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231130034500 +0000" stop="20231130040000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231130040000 +0000" stop="20231130043000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130043000 +0000" stop="20231130050000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231130050000 +0000" stop="20231130053000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130053000 +0000" stop="20231130060000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231130060000 +0000" stop="20231130063000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130063000 +0000" stop="20231130070000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231130070000 +0000" stop="20231130073000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130073000 +0000" stop="20231130080000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231130080000 +0000" stop="20231130083000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130083000 +0000" stop="20231130090000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Click</title></programme>
+<programme start="20231130090000 +0000" stop="20231130093000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130093000 +0000" stop="20231130100000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130100000 +0000" stop="20231130103000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130103000 +0000" stop="20231130110000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231130110000 +0000" stop="20231130113000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130113000 +0000" stop="20231130114500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231130114500 +0000" stop="20231130120000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231130120000 +0000" stop="20231130123000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231130123000 +0000" stop="20231130130000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231130130000 +0000" stop="20231130133000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231130133000 +0000" stop="20231130140000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231130140000 +0000" stop="20231130143000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231130143000 +0000" stop="20231130144500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231130170000 +0000" stop="20231130173000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Verified Live</title></programme>
+<programme start="20231130173000 +0000" stop="20231130180000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Focus On Africa</title></programme>
+<programme start="20231130180000 +0000" stop="20231130183000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231130183000 +0000" stop="20231130190000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231130190000 +0000" stop="20231130193000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231130193000 +0000" stop="20231130200000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Daily Global</title></programme>
+<programme start="20231130200000 +0000" stop="20231130203000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231130203000 +0000" stop="20231130210000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231130210000 +0000" stop="20231130213000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231130213000 +0000" stop="20231130220000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20231130220000 +0000" stop="20231130223000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20231130223000 +0000" stop="20231130230000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231130230000 +0000" stop="20231130233000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231130233000 +0000" stop="20231130234500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231130234500 +0000" stop="20231201000000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231201000000 +0000" stop="20231201003000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231201003000 +0000" stop="20231201004500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231201004500 +0000" stop="20231201010000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231201010000 +0000" stop="20231201013000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Newsday</title></programme>
+<programme start="20231201013000 +0000" stop="20231201014500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231201014500 +0000" stop="20231201020000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231201020000 +0000" stop="20231201023000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201023000 +0000" stop="20231201024500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Asia Business Report</title></programme>
+<programme start="20231201024500 +0000" stop="20231201030000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Sportsday</title></programme>
+<programme start="20231201030000 +0000" stop="20231201033000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201033000 +0000" stop="20231201040000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">Influential...: Anthony Fauci</title></programme>
+<programme start="20231201040000 +0000" stop="20231201043000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201043000 +0000" stop="20231201050000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231201050000 +0000" stop="20231201053000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201053000 +0000" stop="20231201060000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231201060000 +0000" stop="20231201063000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201063000 +0000" stop="20231201070000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231201070000 +0000" stop="20231201073000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201073000 +0000" stop="20231201080000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231201080000 +0000" stop="20231201083000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201083000 +0000" stop="20231201090000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">The Travel Show: Japan, Pt 2</title></programme>
+<programme start="20231201090000 +0000" stop="20231201093000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201093000 +0000" stop="20231201100000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201100000 +0000" stop="20231201103000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201103000 +0000" stop="20231201110000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">HARDtalk</title></programme>
+<programme start="20231201110000 +0000" stop="20231201113000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201113000 +0000" stop="20231201114500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231201114500 +0000" stop="20231201120000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20231201120000 +0000" stop="20231201123000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231201123000 +0000" stop="20231201130000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231201130000 +0000" stop="20231201133000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231201133000 +0000" stop="20231201140000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231201140000 +0000" stop="20231201143000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
+<programme start="20231201143000 +0000" stop="20231201144500 +0000" channel="BBCNewsAsiaPacific"><title lang="en">World Business Report</title></programme>
+<programme start="20231201144500 +0000" stop="20231201150000 +0000" channel="BBCNewsAsiaPacific"><title lang="en">BBC News Now</title></programme>
 <programme start="20231126173000 +0000" stop="20231126181500 +0000" channel="CelebritiesTV.id"><title lang="en">Barista</title></programme>
 <programme start="20231126181500 +0000" stop="20231126184500 +0000" channel="CelebritiesTV.id"><title lang="en">Top Of The Top</title></programme>
 <programme start="20231126184500 +0000" stop="20231126194500 +0000" channel="CelebritiesTV.id"><title lang="en">Dapur Ngebor</title></programme>
@@ -1735,6 +1989,376 @@
 <programme start="20231201150000 +0000" stop="20231201153000 +0000" channel="FightSports.id"><title lang="en">World Karate Federation, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20231201153000 +0000" stop="20231201160000 +0000" channel="FightSports.id"><title lang="en">MMA 30 S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
 <programme start="20231201160000 +0000" stop="20231201170000 +0000" channel="FightSports.id"><title lang="en">FS MMA: Rodrigues Jr. Vs Bedorf</title></programme>
+<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="FoxNews"><title lang="en">Fox News Live</title></programme>
+<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="FoxNews"><title lang="en">Fox News Live</title></programme>
+<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="FoxNews"><title lang="en">Fox News Sunday</title></programme>
+<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="FoxNews"><title lang="en">Sunday Morning Futures</title></programme>
+<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="FoxNews"><title lang="en">Fox News Live</title></programme>
+<programme start="20231126220000 +0000" stop="20231126230000 +0000" channel="FoxNews"><title lang="en">Fox News Saturday Night</title></programme>
+<programme start="20231126230000 +0000" stop="20231127000000 +0000" channel="FoxNews"><title lang="en">Fox Report With Jon Scott</title></programme>
+<programme start="20231127000000 +0000" stop="20231127010000 +0000" channel="FoxNews"><title lang="en">The Big Weekend Show</title></programme>
+<programme start="20231127010000 +0000" stop="20231127020000 +0000" channel="FoxNews"><title lang="en">Life, Liberty &amp; Levin</title></programme>
+<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="FoxNews"><title lang="en">Sunday Night In America</title></programme>
+<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="FoxNews"><title lang="en">Fox Nation Presents The Patriot</title></programme>
+<programme start="20231127040000 +0000" stop="20231127050000 +0000" channel="FoxNews"><title lang="en">Life, Liberty &amp; Levin</title></programme>
+<programme start="20231127050000 +0000" stop="20231127060000 +0000" channel="FoxNews"><title lang="en">Sunday Night In America</title></programme>
+<programme start="20231127060000 +0000" stop="20231127070000 +0000" channel="FoxNews"><title lang="en">Fox Nation Presents The Patriot</title></programme>
+<programme start="20231127070000 +0000" stop="20231127080000 +0000" channel="FoxNews"><title lang="en">Fox News Sunday</title></programme>
+<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="FoxNews"><title lang="en">Life, Liberty &amp; Levin</title></programme>
+<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="FoxNews"><title lang="en">Sunday Night In America</title></programme>
+<programme start="20231127100000 +0000" stop="20231127110000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends First</title></programme>
+<programme start="20231127110000 +0000" stop="20231127120000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231127120000 +0000" stop="20231127130000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231127130000 +0000" stop="20231127140000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231127140000 +0000" stop="20231127150000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231127160000 +0000" stop="20231127170000 +0000" channel="FoxNews"><title lang="en">The Faulkner Focus</title></programme>
+<programme start="20231127170000 +0000" stop="20231127180000 +0000" channel="FoxNews"><title lang="en">Outnumbered</title></programme>
+<programme start="20231127180000 +0000" stop="20231127190000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231127190000 +0000" stop="20231127200000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="FoxNews"><title lang="en">The Story</title></programme>
+<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="FoxNews"><title lang="en">Your World</title></programme>
+<programme start="20231127220000 +0000" stop="20231127230000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="FoxNews"><title lang="en">Special Report With Bret Baier</title></programme>
+<programme start="20231128000000 +0000" stop="20231128010000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231128010000 +0000" stop="20231128020000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231128040000 +0000" stop="20231128050000 +0000" channel="FoxNews"><title lang="en">Fox News At Night</title></programme>
+<programme start="20231128050000 +0000" stop="20231128060000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231128060000 +0000" stop="20231128070000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231128070000 +0000" stop="20231128080000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231128100000 +0000" stop="20231128110000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends First</title></programme>
+<programme start="20231128110000 +0000" stop="20231128120000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231128120000 +0000" stop="20231128130000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231128130000 +0000" stop="20231128140000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231128140000 +0000" stop="20231128150000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231128160000 +0000" stop="20231128170000 +0000" channel="FoxNews"><title lang="en">The Faulkner Focus</title></programme>
+<programme start="20231128170000 +0000" stop="20231128180000 +0000" channel="FoxNews"><title lang="en">Outnumbered</title></programme>
+<programme start="20231128180000 +0000" stop="20231128190000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231128190000 +0000" stop="20231128200000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231128200000 +0000" stop="20231128210000 +0000" channel="FoxNews"><title lang="en">The Story</title></programme>
+<programme start="20231128210000 +0000" stop="20231128220000 +0000" channel="FoxNews"><title lang="en">Your World</title></programme>
+<programme start="20231128220000 +0000" stop="20231128230000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231128230000 +0000" stop="20231129000000 +0000" channel="FoxNews"><title lang="en">Special Report With Bret Baier</title></programme>
+<programme start="20231129000000 +0000" stop="20231129010000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231129010000 +0000" stop="20231129020000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231129020000 +0000" stop="20231129030000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231129030000 +0000" stop="20231129040000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231129040000 +0000" stop="20231129050000 +0000" channel="FoxNews"><title lang="en">Fox News At Night</title></programme>
+<programme start="20231129050000 +0000" stop="20231129060000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231129060000 +0000" stop="20231129070000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231129070000 +0000" stop="20231129080000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231129080000 +0000" stop="20231129090000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231129090000 +0000" stop="20231129100000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231129100000 +0000" stop="20231129110000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends First</title></programme>
+<programme start="20231129110000 +0000" stop="20231129120000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231129120000 +0000" stop="20231129130000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231129130000 +0000" stop="20231129140000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231129140000 +0000" stop="20231129150000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231129150000 +0000" stop="20231129160000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231129160000 +0000" stop="20231129170000 +0000" channel="FoxNews"><title lang="en">The Faulkner Focus</title></programme>
+<programme start="20231129170000 +0000" stop="20231129180000 +0000" channel="FoxNews"><title lang="en">Outnumbered</title></programme>
+<programme start="20231129180000 +0000" stop="20231129190000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231129190000 +0000" stop="20231129200000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231129200000 +0000" stop="20231129210000 +0000" channel="FoxNews"><title lang="en">The Story</title></programme>
+<programme start="20231129210000 +0000" stop="20231129220000 +0000" channel="FoxNews"><title lang="en">Your World</title></programme>
+<programme start="20231129220000 +0000" stop="20231129230000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231129230000 +0000" stop="20231130000000 +0000" channel="FoxNews"><title lang="en">Special Report With Bret Baier</title></programme>
+<programme start="20231130000000 +0000" stop="20231130010000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231130010000 +0000" stop="20231130020000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231130020000 +0000" stop="20231130030000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231130030000 +0000" stop="20231130040000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231130040000 +0000" stop="20231130050000 +0000" channel="FoxNews"><title lang="en">Fox News At Night</title></programme>
+<programme start="20231130050000 +0000" stop="20231130060000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231130060000 +0000" stop="20231130070000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231130070000 +0000" stop="20231130080000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231130080000 +0000" stop="20231130090000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231130090000 +0000" stop="20231130100000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231130100000 +0000" stop="20231130110000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends First</title></programme>
+<programme start="20231130110000 +0000" stop="20231130120000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231130120000 +0000" stop="20231130130000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231130130000 +0000" stop="20231130140000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231130140000 +0000" stop="20231130150000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231130150000 +0000" stop="20231130160000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231130160000 +0000" stop="20231130170000 +0000" channel="FoxNews"><title lang="en">The Faulkner Focus</title></programme>
+<programme start="20231130170000 +0000" stop="20231130180000 +0000" channel="FoxNews"><title lang="en">Outnumbered</title></programme>
+<programme start="20231130180000 +0000" stop="20231130190000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231130190000 +0000" stop="20231130200000 +0000" channel="FoxNews"><title lang="en">America Reports</title></programme>
+<programme start="20231130200000 +0000" stop="20231130210000 +0000" channel="FoxNews"><title lang="en">The Story</title></programme>
+<programme start="20231130210000 +0000" stop="20231130220000 +0000" channel="FoxNews"><title lang="en">Your World</title></programme>
+<programme start="20231130220000 +0000" stop="20231130230000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231130230000 +0000" stop="20231201000000 +0000" channel="FoxNews"><title lang="en">Special Report With Bret Baier</title></programme>
+<programme start="20231201000000 +0000" stop="20231201010000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231201010000 +0000" stop="20231201020000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231201020000 +0000" stop="20231201030000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231201030000 +0000" stop="20231201040000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231201040000 +0000" stop="20231201050000 +0000" channel="FoxNews"><title lang="en">Fox News At Night</title></programme>
+<programme start="20231201050000 +0000" stop="20231201060000 +0000" channel="FoxNews"><title lang="en">The Five</title></programme>
+<programme start="20231201060000 +0000" stop="20231201070000 +0000" channel="FoxNews"><title lang="en">Jesse Watters Primetime</title></programme>
+<programme start="20231201070000 +0000" stop="20231201080000 +0000" channel="FoxNews"><title lang="en">Hannity</title></programme>
+<programme start="20231201080000 +0000" stop="20231201090000 +0000" channel="FoxNews"><title lang="en">Gutfeld!</title></programme>
+<programme start="20231201090000 +0000" stop="20231201100000 +0000" channel="FoxNews"><title lang="en">The Ingraham Angle</title></programme>
+<programme start="20231201100000 +0000" stop="20231201110000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends First</title></programme>
+<programme start="20231201110000 +0000" stop="20231201120000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231201120000 +0000" stop="20231201130000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231201130000 +0000" stop="20231201140000 +0000" channel="FoxNews"><title lang="en">Fox &amp; Friends</title></programme>
+<programme start="20231201140000 +0000" stop="20231201150000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231201150000 +0000" stop="20231201160000 +0000" channel="FoxNews"><title lang="en">America&apos;s Newsroom</title></programme>
+<programme start="20231201160000 +0000" stop="20231201170000 +0000" channel="FoxNews"><title lang="en">The Faulkner Focus</title></programme>
+<programme start="20231126170000 +0000" stop="20231126171500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126171500 +0000" stop="20231126173000 +0000" channel="France24English"><title lang="en">Reporters</title></programme>
+<programme start="20231126173000 +0000" stop="20231126174500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126174500 +0000" stop="20231126180000 +0000" channel="France24English"><title lang="en">Access Asia</title></programme>
+<programme start="20231126180000 +0000" stop="20231126181500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126181500 +0000" stop="20231126183000 +0000" channel="France24English"><title lang="en">Sports Sunday (L)</title></programme>
+<programme start="20231126183000 +0000" stop="20231126184500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126184500 +0000" stop="20231126190000 +0000" channel="France24English"><title lang="en">France In Focus</title></programme>
+<programme start="20231126190000 +0000" stop="20231126191000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126191000 +0000" stop="20231126193000 +0000" channel="France24English"><title lang="en">Revisited</title></programme>
+<programme start="20231126193000 +0000" stop="20231126194000 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126194000 +0000" stop="20231126195200 +0000" channel="France24English"><title lang="en">The 51%</title></programme>
+<programme start="20231126195200 +0000" stop="20231126200000 +0000" channel="France24English"><title lang="en">The Observers</title></programme>
+<programme start="20231126200000 +0000" stop="20231126201500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126201500 +0000" stop="20231126203000 +0000" channel="France24English"><title lang="en">Across Africa</title></programme>
+<programme start="20231126203000 +0000" stop="20231126204500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126204500 +0000" stop="20231126210000 +0000" channel="France24English"><title lang="en">People &amp; Profit</title></programme>
+<programme start="20231126210000 +0000" stop="20231126211000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126211000 +0000" stop="20231126212000 +0000" channel="France24English"><title lang="en">Sports Sunday (L)</title></programme>
+<programme start="20231126212000 +0000" stop="20231126213000 +0000" channel="France24English"><title lang="en">Fashion</title></programme>
+<programme start="20231126213000 +0000" stop="20231126214000 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126214000 +0000" stop="20231126220000 +0000" channel="France24English"><title lang="en">Reporters</title></programme>
+<programme start="20231126220000 +0000" stop="20231126221500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126221500 +0000" stop="20231126223000 +0000" channel="France24English"><title lang="en">Sports Sunday</title></programme>
+<programme start="20231126223000 +0000" stop="20231126224500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126224500 +0000" stop="20231126230000 +0000" channel="France24English"><title lang="en">The 51%</title></programme>
+<programme start="20231126230000 +0000" stop="20231126231500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231126231500 +0000" stop="20231126233000 +0000" channel="France24English"><title lang="en">Sports Sunday</title></programme>
+<programme start="20231126233000 +0000" stop="20231126234500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231126234500 +0000" stop="20231127000000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231127000000 +0000" stop="20231127001500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127001500 +0000" stop="20231127002000 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231127002000 +0000" stop="20231127003000 +0000" channel="France24English"><title lang="en">The Observers</title></programme>
+<programme start="20231127003000 +0000" stop="20231127004500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231127004500 +0000" stop="20231127010000 +0000" channel="France24English"><title lang="en">People &amp; Profit</title></programme>
+<programme start="20231127010000 +0000" stop="20231127011500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127011500 +0000" stop="20231127013000 +0000" channel="France24English"><title lang="en">Talking Europe, Pt 1</title></programme>
+<programme start="20231127013000 +0000" stop="20231127014500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231127014500 +0000" stop="20231127020000 +0000" channel="France24English"><title lang="en">Talking Europe, Pt 2</title></programme>
+<programme start="20231127020000 +0000" stop="20231127021000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127021000 +0000" stop="20231127021500 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231127021500 +0000" stop="20231127023000 +0000" channel="France24English"><title lang="en">Across Africa</title></programme>
+<programme start="20231127023000 +0000" stop="20231127024000 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231127024000 +0000" stop="20231127030000 +0000" channel="France24English"><title lang="en">Revisited</title></programme>
+<programme start="20231127030000 +0000" stop="20231127031500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127031500 +0000" stop="20231127033000 +0000" channel="France24English"><title lang="en">Down To Earth</title></programme>
+<programme start="20231127033000 +0000" stop="20231127034500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231127034500 +0000" stop="20231127040000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231127040000 +0000" stop="20231127041500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127041500 +0000" stop="20231127041600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127170000 +0000" stop="20231127171000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127171000 +0000" stop="20231127180000 +0000" channel="France24English"><title lang="en">The Debate (L)</title></programme>
+<programme start="20231127180000 +0000" stop="20231127181500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127181500 +0000" stop="20231127181600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127181600 +0000" stop="20231127182100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231127182100 +0000" stop="20231127183000 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231127183000 +0000" stop="20231127184500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127184500 +0000" stop="20231127184600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127184600 +0000" stop="20231127185100 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231127185100 +0000" stop="20231127190000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231127190000 +0000" stop="20231127191700 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127191700 +0000" stop="20231127191800 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127191800 +0000" stop="20231127193000 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231127193000 +0000" stop="20231127194400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127194400 +0000" stop="20231127194600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127194600 +0000" stop="20231127200000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231127200000 +0000" stop="20231127201500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127201500 +0000" stop="20231127201600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127201600 +0000" stop="20231127202100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231127202100 +0000" stop="20231127203000 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231127203000 +0000" stop="20231127204400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127204400 +0000" stop="20231127204600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127204600 +0000" stop="20231127210000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231127210000 +0000" stop="20231127211500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127211500 +0000" stop="20231127211700 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127211700 +0000" stop="20231127213000 +0000" channel="France24English"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20231127213000 +0000" stop="20231127214500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127214500 +0000" stop="20231127214600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231127214600 +0000" stop="20231127215100 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231127215100 +0000" stop="20231127220000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231127220000 +0000" stop="20231127221100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127221100 +0000" stop="20231127230000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231127230000 +0000" stop="20231127231500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231127231500 +0000" stop="20231127232000 +0000" channel="France24English"><title lang="en">Business</title></programme>
+<programme start="20231127232000 +0000" stop="20231127233000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231127233000 +0000" stop="20231127234500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231127234500 +0000" stop="20231128000000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231128000000 +0000" stop="20231128001500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128001500 +0000" stop="20231128002000 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231128002000 +0000" stop="20231128003000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231128003000 +0000" stop="20231128004500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231128004500 +0000" stop="20231128010000 +0000" channel="France24English"><title lang="en">Eye On Africa</title></programme>
+<programme start="20231128010000 +0000" stop="20231128011100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128011100 +0000" stop="20231128020000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231128020000 +0000" stop="20231128021500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128021500 +0000" stop="20231128023000 +0000" channel="France24English"><title lang="en">France In Focus</title></programme>
+<programme start="20231128023000 +0000" stop="20231128024500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231128024500 +0000" stop="20231128030000 +0000" channel="France24English"><title lang="en">The 51%</title></programme>
+<programme start="20231128030000 +0000" stop="20231128031500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128031500 +0000" stop="20231128033000 +0000" channel="France24English"><title lang="en">Eye On Africa</title></programme>
+<programme start="20231128170000 +0000" stop="20231128171000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128171000 +0000" stop="20231128180000 +0000" channel="France24English"><title lang="en">The Debate (L)</title></programme>
+<programme start="20231128180000 +0000" stop="20231128181500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128181500 +0000" stop="20231128181600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128181600 +0000" stop="20231128182100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231128182100 +0000" stop="20231128183000 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231128183000 +0000" stop="20231128184500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128184500 +0000" stop="20231128184600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128184600 +0000" stop="20231128185100 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231128185100 +0000" stop="20231128190000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231128190000 +0000" stop="20231128191700 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128191700 +0000" stop="20231128191800 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128191800 +0000" stop="20231128193000 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231128193000 +0000" stop="20231128194400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128194400 +0000" stop="20231128194600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128194600 +0000" stop="20231128200000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231128200000 +0000" stop="20231128201500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128201500 +0000" stop="20231128201600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128201600 +0000" stop="20231128202100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231128202100 +0000" stop="20231128203000 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231128203000 +0000" stop="20231128204400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128204400 +0000" stop="20231128204600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128204600 +0000" stop="20231128210000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231128210000 +0000" stop="20231128211500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128211500 +0000" stop="20231128211700 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128211700 +0000" stop="20231128213000 +0000" channel="France24English"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20231128213000 +0000" stop="20231128214500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128214500 +0000" stop="20231128214600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231128214600 +0000" stop="20231128215100 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231128215100 +0000" stop="20231128220000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231128220000 +0000" stop="20231128221100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128221100 +0000" stop="20231128230000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231128230000 +0000" stop="20231128231500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231128231500 +0000" stop="20231128232000 +0000" channel="France24English"><title lang="en">Business</title></programme>
+<programme start="20231128232000 +0000" stop="20231128233000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231128233000 +0000" stop="20231128234500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231128234500 +0000" stop="20231129000000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231129000000 +0000" stop="20231129001500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129001500 +0000" stop="20231129002000 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231129002000 +0000" stop="20231129003000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231129003000 +0000" stop="20231129004500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231129004500 +0000" stop="20231129010000 +0000" channel="France24English"><title lang="en">Eye On Africa</title></programme>
+<programme start="20231129010000 +0000" stop="20231129011100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129011100 +0000" stop="20231129020000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231129020000 +0000" stop="20231129021000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129021000 +0000" stop="20231129021500 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231129021500 +0000" stop="20231129023000 +0000" channel="France24English"><title lang="en">Middle East Matters</title></programme>
+<programme start="20231129023000 +0000" stop="20231129024000 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231129024000 +0000" stop="20231129030000 +0000" channel="France24English"><title lang="en">Reporters</title></programme>
+<programme start="20231129030000 +0000" stop="20231129031500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129170000 +0000" stop="20231129171000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129171000 +0000" stop="20231129180000 +0000" channel="France24English"><title lang="en">The Debate (L)</title></programme>
+<programme start="20231129180000 +0000" stop="20231129181500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129181500 +0000" stop="20231129181600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129181600 +0000" stop="20231129182100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231129182100 +0000" stop="20231129183000 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231129183000 +0000" stop="20231129184500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129184500 +0000" stop="20231129184600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129184600 +0000" stop="20231129185100 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231129185100 +0000" stop="20231129190000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231129190000 +0000" stop="20231129191700 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129191700 +0000" stop="20231129191800 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129191800 +0000" stop="20231129193000 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231129193000 +0000" stop="20231129194400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129194400 +0000" stop="20231129194600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129194600 +0000" stop="20231129200000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231129200000 +0000" stop="20231129201500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129201500 +0000" stop="20231129201600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129201600 +0000" stop="20231129202100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231129202100 +0000" stop="20231129203000 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231129203000 +0000" stop="20231129204400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129204400 +0000" stop="20231129204600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129204600 +0000" stop="20231129210000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231129210000 +0000" stop="20231129211500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129211500 +0000" stop="20231129211700 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129211700 +0000" stop="20231129213000 +0000" channel="France24English"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20231129213000 +0000" stop="20231129214500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129214500 +0000" stop="20231129214600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231129214600 +0000" stop="20231129215100 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231129215100 +0000" stop="20231129220000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231129220000 +0000" stop="20231129221100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129221100 +0000" stop="20231129230000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231129230000 +0000" stop="20231129231500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231129231500 +0000" stop="20231129232000 +0000" channel="France24English"><title lang="en">Business</title></programme>
+<programme start="20231129232000 +0000" stop="20231129233000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231129233000 +0000" stop="20231129234500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231129234500 +0000" stop="20231130000000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231130000000 +0000" stop="20231130001500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130001500 +0000" stop="20231130002000 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231130002000 +0000" stop="20231130003000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231130003000 +0000" stop="20231130004500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231130004500 +0000" stop="20231130010000 +0000" channel="France24English"><title lang="en">Eye On Africa</title></programme>
+<programme start="20231130010000 +0000" stop="20231130011100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130011100 +0000" stop="20231130020000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231130020000 +0000" stop="20231130021000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130021000 +0000" stop="20231130021500 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231130021500 +0000" stop="20231130023000 +0000" channel="France24English"><title lang="en">Inside The Americas</title></programme>
+<programme start="20231130023000 +0000" stop="20231130024000 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231130024000 +0000" stop="20231130030000 +0000" channel="France24English"><title lang="en">Revisited</title></programme>
+<programme start="20231130030000 +0000" stop="20231130031500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130170000 +0000" stop="20231130171000 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130171000 +0000" stop="20231130180000 +0000" channel="France24English"><title lang="en">The Debate (L)</title></programme>
+<programme start="20231130180000 +0000" stop="20231130181500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130181500 +0000" stop="20231130181600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130181600 +0000" stop="20231130182100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231130182100 +0000" stop="20231130183000 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231130183000 +0000" stop="20231130184500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130184500 +0000" stop="20231130184600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130184600 +0000" stop="20231130185100 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231130185100 +0000" stop="20231130190000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231130190000 +0000" stop="20231130191700 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130191700 +0000" stop="20231130191800 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130191800 +0000" stop="20231130193000 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231130193000 +0000" stop="20231130194400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130194400 +0000" stop="20231130194600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130194600 +0000" stop="20231130200000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231130200000 +0000" stop="20231130201500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130201500 +0000" stop="20231130201600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130201600 +0000" stop="20231130202100 +0000" channel="France24English"><title lang="en">Business (L)</title></programme>
+<programme start="20231130202100 +0000" stop="20231130203000 +0000" channel="France24English"><title lang="en">Truth Or Fake (L)</title></programme>
+<programme start="20231130203000 +0000" stop="20231130204400 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130204400 +0000" stop="20231130204600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130204600 +0000" stop="20231130210000 +0000" channel="France24English"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20231130210000 +0000" stop="20231130211500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130211500 +0000" stop="20231130211700 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130211700 +0000" stop="20231130213000 +0000" channel="France24English"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20231130213000 +0000" stop="20231130214500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130214500 +0000" stop="20231130214600 +0000" channel="France24English"><title lang="en">Headlines (L)</title></programme>
+<programme start="20231130214600 +0000" stop="20231130215100 +0000" channel="France24English"><title lang="en">Sports (L)</title></programme>
+<programme start="20231130215100 +0000" stop="20231130220000 +0000" channel="France24English"><title lang="en">Focus (L)</title></programme>
+<programme start="20231130220000 +0000" stop="20231130221100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130221100 +0000" stop="20231130230000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231130230000 +0000" stop="20231130231500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231130231500 +0000" stop="20231130232000 +0000" channel="France24English"><title lang="en">Business</title></programme>
+<programme start="20231130232000 +0000" stop="20231130233000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231130233000 +0000" stop="20231130234500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231130234500 +0000" stop="20231201000000 +0000" channel="France24English"><title lang="en">Arts24</title></programme>
+<programme start="20231201000000 +0000" stop="20231201001500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231201001500 +0000" stop="20231201002000 +0000" channel="France24English"><title lang="en">Focus</title></programme>
+<programme start="20231201002000 +0000" stop="20231201003000 +0000" channel="France24English"><title lang="en">Sports Soir</title></programme>
+<programme start="20231201003000 +0000" stop="20231201004500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231201004500 +0000" stop="20231201010000 +0000" channel="France24English"><title lang="en">Eye On Africa</title></programme>
+<programme start="20231201010000 +0000" stop="20231201011100 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231201011100 +0000" stop="20231201020000 +0000" channel="France24English"><title lang="en">The Debate</title></programme>
+<programme start="20231201020000 +0000" stop="20231201021500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
+<programme start="20231201021500 +0000" stop="20231201023000 +0000" channel="France24English"><title lang="en">Across Africa</title></programme>
+<programme start="20231201023000 +0000" stop="20231201024500 +0000" channel="France24English"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20231201024500 +0000" stop="20231201025100 +0000" channel="France24English"><title lang="en">The Observers</title></programme>
+<programme start="20231201025100 +0000" stop="20231201030000 +0000" channel="France24English"><title lang="en">Focus France</title></programme>
+<programme start="20231201030000 +0000" stop="20231201031500 +0000" channel="France24English"><title lang="en">News (L)</title></programme>
 <programme start="20231126180500 +0000" stop="20231126191500 +0000" channel="Galaxy.id"><title lang="en">American Muscle</title><desc lang="en">After serving hard time for 10 years, an ex-con has 24 hours to take his revenge on those who put him in prison.</desc></programme>
 <programme start="20231126191500 +0000" stop="20231126204000 +0000" channel="Galaxy.id"><title lang="en">47 Meter Down: Uncaged</title><desc lang="en">Four teen girls diving in a ruined underwater city quickly learn they&apos;ve entered the territory of the deadliest shark species in the claustrophobic labyrinth of submerged caves.</desc></programme>
 <programme start="20231126204000 +0000" stop="20231126221000 +0000" channel="Galaxy.id"><title lang="en">Masterminds</title><desc lang="en">A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history. Based on the October 1997 Loomis Fargo robbery.</desc></programme>
@@ -2317,6 +2941,209 @@
 <programme start="20231130140000 +0000" stop="20231130150000 +0000" channel="JakTVHD.id"><title lang="en">The Hermansyah Story</title></programme>
 <programme start="20231130150000 +0000" stop="20231130160000 +0000" channel="JakTVHD.id"><title lang="en">Kabar Misteri</title></programme>
 <programme start="20231130160000 +0000" stop="20231130230000 +0000" channel="JakTVHD.id"><title lang="en">News Room</title></programme>
+<programme start="20231126170000 +0000" stop="20231126173000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231126173000 +0000" stop="20231126180000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231126180000 +0000" stop="20231126183000 +0000" channel="KidsTV.id"><title lang="en">I Can Do It</title></programme>
+<programme start="20231126183000 +0000" stop="20231126190000 +0000" channel="KidsTV.id"><title lang="en">Kids Menu</title></programme>
+<programme start="20231126190000 +0000" stop="20231126193000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231126193000 +0000" stop="20231126200000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231126200000 +0000" stop="20231126203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231126203000 +0000" stop="20231126210000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231126213000 +0000" stop="20231126220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231126223000 +0000" stop="20231126230000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231126230000 +0000" stop="20231126233000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231126233000 +0000" stop="20231127003000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231127003000 +0000" stop="20231127010000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231127010000 +0000" stop="20231127013000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231127013000 +0000" stop="20231127020000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231127030000 +0000" stop="20231127033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231127033000 +0000" stop="20231127040000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231127040000 +0000" stop="20231127043000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127043000 +0000" stop="20231127050000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127050000 +0000" stop="20231127053000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231127053000 +0000" stop="20231127060000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231127060000 +0000" stop="20231127063000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231127063000 +0000" stop="20231127070000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231127070000 +0000" stop="20231127073000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231127073000 +0000" stop="20231127080000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231127080000 +0000" stop="20231127083000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231127083000 +0000" stop="20231127093000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231127093000 +0000" stop="20231127100000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231127100000 +0000" stop="20231127101500 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231127101500 +0000" stop="20231127123000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231127123000 +0000" stop="20231127130000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231127130000 +0000" stop="20231127133000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231127133000 +0000" stop="20231127140000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127140000 +0000" stop="20231127143000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127143000 +0000" stop="20231127150000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231127150000 +0000" stop="20231127153000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231127153000 +0000" stop="20231127160000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231127160000 +0000" stop="20231127163000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231127163000 +0000" stop="20231127170000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231127170000 +0000" stop="20231127173000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231127173000 +0000" stop="20231127180000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127180000 +0000" stop="20231127190000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231127190000 +0000" stop="20231127193000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231127193000 +0000" stop="20231127200000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231127200000 +0000" stop="20231127203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231127213000 +0000" stop="20231127220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231127223000 +0000" stop="20231127230000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231127230000 +0000" stop="20231127233000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231127233000 +0000" stop="20231128003000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231128003000 +0000" stop="20231128010000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231128010000 +0000" stop="20231128013000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231128013000 +0000" stop="20231128020000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231128030000 +0000" stop="20231128033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231128033000 +0000" stop="20231128040000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231128040000 +0000" stop="20231128043000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128043000 +0000" stop="20231128050000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128050000 +0000" stop="20231128053000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231128053000 +0000" stop="20231128060000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231128060000 +0000" stop="20231128063000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231128063000 +0000" stop="20231128070000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231128070000 +0000" stop="20231128073000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231128073000 +0000" stop="20231128080000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231128080000 +0000" stop="20231128083000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231128083000 +0000" stop="20231128093000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231128093000 +0000" stop="20231128100000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231128100000 +0000" stop="20231128101500 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231128101500 +0000" stop="20231128123000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231128123000 +0000" stop="20231128130000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231128130000 +0000" stop="20231128133000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231128133000 +0000" stop="20231128140000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128140000 +0000" stop="20231128143000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128143000 +0000" stop="20231128150000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231128150000 +0000" stop="20231128153000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231128153000 +0000" stop="20231128160000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231128160000 +0000" stop="20231128163000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231128163000 +0000" stop="20231128170000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231128170000 +0000" stop="20231128173000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231128173000 +0000" stop="20231128180000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128180000 +0000" stop="20231128190000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231128190000 +0000" stop="20231128193000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231128193000 +0000" stop="20231128200000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231128200000 +0000" stop="20231128203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231128203000 +0000" stop="20231128210000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231128210000 +0000" stop="20231128213000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231128213000 +0000" stop="20231128220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231128220000 +0000" stop="20231128223000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231128223000 +0000" stop="20231128230000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231128230000 +0000" stop="20231128233000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231128233000 +0000" stop="20231129003000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231129003000 +0000" stop="20231129010000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231129010000 +0000" stop="20231129013000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231129013000 +0000" stop="20231129020000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231129020000 +0000" stop="20231129030000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231129030000 +0000" stop="20231129033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231129033000 +0000" stop="20231129040000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231129040000 +0000" stop="20231129043000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129043000 +0000" stop="20231129050000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129050000 +0000" stop="20231129053000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231129053000 +0000" stop="20231129060000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231129060000 +0000" stop="20231129063000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231129063000 +0000" stop="20231129070000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231129070000 +0000" stop="20231129073000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231129073000 +0000" stop="20231129080000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231129080000 +0000" stop="20231129083000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231129083000 +0000" stop="20231129093000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231129093000 +0000" stop="20231129100000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231129100000 +0000" stop="20231129101500 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231129101500 +0000" stop="20231129123000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231129123000 +0000" stop="20231129130000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231129130000 +0000" stop="20231129133000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231129133000 +0000" stop="20231129140000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129140000 +0000" stop="20231129143000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129143000 +0000" stop="20231129150000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231129150000 +0000" stop="20231129153000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231129153000 +0000" stop="20231129160000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231129160000 +0000" stop="20231129163000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231129163000 +0000" stop="20231129170000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231129170000 +0000" stop="20231129173000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231129173000 +0000" stop="20231129180000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129180000 +0000" stop="20231129190000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231129190000 +0000" stop="20231129193000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231129193000 +0000" stop="20231129200000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231129200000 +0000" stop="20231129203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231129203000 +0000" stop="20231129210000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231129210000 +0000" stop="20231129213000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231129213000 +0000" stop="20231129220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231129220000 +0000" stop="20231129223000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231129223000 +0000" stop="20231129230000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231129230000 +0000" stop="20231129233000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231129233000 +0000" stop="20231130003000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231130003000 +0000" stop="20231130010000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231130010000 +0000" stop="20231130013000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231130013000 +0000" stop="20231130020000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231130020000 +0000" stop="20231130030000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231130030000 +0000" stop="20231130033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231130033000 +0000" stop="20231130040000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231130040000 +0000" stop="20231130043000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130043000 +0000" stop="20231130050000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130050000 +0000" stop="20231130053000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231130053000 +0000" stop="20231130060000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231130060000 +0000" stop="20231130063000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231130063000 +0000" stop="20231130070000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
+<programme start="20231130070000 +0000" stop="20231130073000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231130073000 +0000" stop="20231130080000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231130080000 +0000" stop="20231130083000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231130083000 +0000" stop="20231130093000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231130093000 +0000" stop="20231130100000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231130100000 +0000" stop="20231130101500 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231130101500 +0000" stop="20231130123000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231130123000 +0000" stop="20231130130000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231130130000 +0000" stop="20231130133000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231130133000 +0000" stop="20231130140000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130140000 +0000" stop="20231130143000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130143000 +0000" stop="20231130150000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231130150000 +0000" stop="20231130153000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231130153000 +0000" stop="20231130160000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231130160000 +0000" stop="20231130163000 +0000" channel="KidsTV.id"><title lang="en">Animasik</title></programme>
+<programme start="20231130163000 +0000" stop="20231130170000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231130170000 +0000" stop="20231130173000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231130173000 +0000" stop="20231130180000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130180000 +0000" stop="20231130190000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231130190000 +0000" stop="20231130193000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231130193000 +0000" stop="20231130200000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231130200000 +0000" stop="20231130203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231130203000 +0000" stop="20231130210000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231130210000 +0000" stop="20231130213000 +0000" channel="KidsTV.id"><title lang="en">Time Travelling: Dinosaur...</title></programme>
+<programme start="20231130213000 +0000" stop="20231130220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231130220000 +0000" stop="20231130223000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231130223000 +0000" stop="20231130230000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231130230000 +0000" stop="20231130233000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231130233000 +0000" stop="20231201013000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231201013000 +0000" stop="20231201030000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231201030000 +0000" stop="20231201033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231201033000 +0000" stop="20231201040000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231201040000 +0000" stop="20231201043000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231201043000 +0000" stop="20231201050000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231201050000 +0000" stop="20231201053000 +0000" channel="KidsTV.id"><title lang="en">Time Travelling: Dinosaur...</title></programme>
+<programme start="20231201053000 +0000" stop="20231201060000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231201060000 +0000" stop="20231201063000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231201063000 +0000" stop="20231201070000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231201070000 +0000" stop="20231201073000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231201073000 +0000" stop="20231201080000 +0000" channel="KidsTV.id"><title lang="en">Songgo Rubuh</title></programme>
+<programme start="20231201080000 +0000" stop="20231201083000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
+<programme start="20231201083000 +0000" stop="20231201093000 +0000" channel="KidsTV.id"><title lang="en">Kuraih Bintang</title></programme>
+<programme start="20231201093000 +0000" stop="20231201100000 +0000" channel="KidsTV.id"><title lang="en">Hafiz &amp; Hafizah</title></programme>
+<programme start="20231201100000 +0000" stop="20231201101500 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
+<programme start="20231201101500 +0000" stop="20231201123000 +0000" channel="KidsTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231201123000 +0000" stop="20231201130000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231201130000 +0000" stop="20231201133000 +0000" channel="KidsTV.id"><title lang="en">Cat &amp; Keet</title></programme>
+<programme start="20231201133000 +0000" stop="20231201140000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231201140000 +0000" stop="20231201143000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
+<programme start="20231201143000 +0000" stop="20231201150000 +0000" channel="KidsTV.id"><title lang="en">Lucky Comes With Lion</title></programme>
+<programme start="20231201150000 +0000" stop="20231201153000 +0000" channel="KidsTV.id"><title lang="en">BIMA-S</title></programme>
+<programme start="20231201153000 +0000" stop="20231201160000 +0000" channel="KidsTV.id"><title lang="en">Time Travelling: Dinosaur...</title></programme>
+<programme start="20231201160000 +0000" stop="20231201163000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
+<programme start="20231201163000 +0000" stop="20231201170000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
 <programme start="20231126171500 +0000" stop="20231126180500 +0000" channel="KIXHD.id"><title lang="en">The Ultimate BROcation, Ep 1</title><desc lang="en">Welcome to The Ultimate BROcation. A hilarious reality show about four celebrities on an all-expenses paid, tailor-made vacation for &apos;bros&apos;!</desc><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20231126180500 +0000" stop="20231126192000 +0000" channel="KIXHD.id"><title lang="en">Hangout With Yoo, Ep 104</title><desc lang="en">This popular Korean variety show stars MC Yoo Jae Seok. In each episode, celebrity guests join Yoo to perform different tasks and challenges. Hanging out with Yoo will certainly make you laugh very hard!</desc><episode-num system="xmltv_ns">0.103.0/1</episode-num><episode-num system="onscreen">S01E104</episode-num></programme>
 <programme start="20231126192000 +0000" stop="20231126202500 +0000" channel="KIXHD.id"><title lang="en">Dunia: Into A New World, Ep 11</title><desc lang="en">In this &apos;unrealistic&apos; variety show, a cast of 10 characters are thrown into the virtual world of Dunia. Where they must survive, while we learn about their dramatic stories.</desc><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
