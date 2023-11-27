@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231127">
-<channel id="ANTTV.id"><display-name>ANTV</display-name><url>https://mncvision.id</url></channel>
+<channel id="ANTVHD.id"><display-name>ANTV</display-name><url>https://mncvision.id</url></channel>
 <channel id="CelebritiesTV.id"><display-name>Celebrities TV</display-name><url>https://mncvision.id</url></channel>
 <channel id="Entertainment.id"><display-name>Entertainment</display-name><icon src="https://i.imgur.com/VtBLWiv.png"/><url>https://mncvision.id</url></channel>
-<channel id="GTTV.id"><display-name>GTV</display-name><url>https://mncvision.id</url></channel>
-<channel id="IIndosiar.id"><display-name>Indosiar</display-name><url>https://mncvision.id</url></channel>
+<channel id="GTVHD.id"><display-name>GTV HD</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://mncvision.id</url></channel>
 <channel id="IMC.id"><display-name>IMC</display-name><icon src="https://i.imgur.com/CbfrjO7.png"/><url>https://mncvision.id</url></channel>
-<channel id="MNCCTV.id"><display-name>MNCTV</display-name><url>https://mncvision.id</url></channel>
+<channel id="IndosiarHD.id"><display-name>Indosiar</display-name><url>https://mncvision.id</url></channel>
+<channel id="MNCTVHD.id"><display-name>MNCTV HD</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://mncvision.id</url></channel>
 <channel id="NETTV.id"><display-name>NET TV</display-name><url>https://mncvision.id</url></channel>
-<channel id="OKTTV.id"><display-name>OK TV</display-name><url>https://mncvision.id</url></channel>
-<programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="ANTTV.id"><title lang="en">Pacarku Kuntilanak Kembar</title></programme>
-<programme start="20231126190000 +0000" stop="20231126191500 +0000" channel="ANTTV.id"><title lang="en">Lensa Olahraga</title></programme>
-<programme start="20231126191500 +0000" stop="20231126201500 +0000" channel="ANTTV.id"><title lang="en">Test Case</title></programme>
-<programme start="20231126201500 +0000" stop="20231126210000 +0000" channel="ANTTV.id"><title lang="en">Pesona</title></programme>
-<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="ANTTV.id"><title lang="en">Senyum Iman</title></programme>
-<programme start="20231126213000 +0000" stop="20231126220000 +0000" channel="ANTTV.id"><title lang="en">Shy Shy Cat N Friends</title></programme>
-<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="ANTTV.id"><title lang="en">Cakrawala</title></programme>
-<programme start="20231126223000 +0000" stop="20231126230000 +0000" channel="ANTTV.id"><title lang="en">Kasus Viral</title></programme>
-<programme start="20231126230000 +0000" stop="20231127013000 +0000" channel="ANTTV.id"><title lang="en">Madagascar</title></programme>
-<programme start="20231127013000 +0000" stop="20231127030000 +0000" channel="ANTTV.id"><title lang="en">Takdir Cinta</title></programme>
-<programme start="20231127030000 +0000" stop="20231127043000 +0000" channel="ANTTV.id"><title lang="en">Nakee</title></programme>
-<programme start="20231127043000 +0000" stop="20231127063000 +0000" channel="ANTTV.id"><title lang="en">Anandhi</title></programme>
-<programme start="20231127063000 +0000" stop="20231127090000 +0000" channel="ANTTV.id"><title lang="en">Woh To Hai Albelaa</title></programme>
-<programme start="20231127090000 +0000" stop="20231127113000 +0000" channel="ANTTV.id"><title lang="en">Aparajita</title></programme>
-<programme start="20231127113000 +0000" stop="20231127140000 +0000" channel="ANTTV.id"><title lang="en">Nath</title></programme>
-<programme start="20231127140000 +0000" stop="20231127153000 +0000" channel="ANTTV.id"><title lang="en">Malam Satu Suro</title></programme>
-<programme start="20231127153000 +0000" stop="20231127173000 +0000" channel="ANTTV.id"><title lang="en">Ular Tangga</title></programme>
-<programme start="20231127173000 +0000" stop="20231127183000 +0000" channel="ANTTV.id"><title lang="en">Kepergok Pocong</title></programme>
-<programme start="20231127183000 +0000" stop="20231127190000 +0000" channel="ANTTV.id"><title lang="en">AB Shop Home Shopping</title></programme>
-<programme start="20231127190000 +0000" stop="20231127201500 +0000" channel="ANTTV.id"><title lang="en">Asmara Semusim</title></programme>
-<programme start="20231127201500 +0000" stop="20231127210000 +0000" channel="ANTTV.id"><title lang="en">Barbie Kecebur Lumpur</title></programme>
-<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="ANTTV.id"><title lang="en">Senyum Iman</title></programme>
-<programme start="20231127213000 +0000" stop="20231127220000 +0000" channel="ANTTV.id"><title lang="en">Shy Shy Cat N Friends</title></programme>
-<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="ANTTV.id"><title lang="en">Cakrawala</title></programme>
-<programme start="20231127223000 +0000" stop="20231127230000 +0000" channel="ANTTV.id"><title lang="en">Kasus Viral</title></programme>
-<programme start="20231127230000 +0000" stop="20231128013000 +0000" channel="ANTTV.id"><title lang="en">Madagascar</title></programme>
-<programme start="20231128013000 +0000" stop="20231128030000 +0000" channel="ANTTV.id"><title lang="en">Takdir Cinta</title></programme>
-<programme start="20231128030000 +0000" stop="20231128043000 +0000" channel="ANTTV.id"><title lang="en">Nakee</title></programme>
-<programme start="20231128043000 +0000" stop="20231128063000 +0000" channel="ANTTV.id"><title lang="en">Anandhi</title></programme>
-<programme start="20231128063000 +0000" stop="20231128090000 +0000" channel="ANTTV.id"><title lang="en">Woh To Hai Albelaa</title></programme>
-<programme start="20231128090000 +0000" stop="20231128113000 +0000" channel="ANTTV.id"><title lang="en">Aparajita</title></programme>
-<programme start="20231128113000 +0000" stop="20231128140000 +0000" channel="ANTTV.id"><title lang="en">Nath</title></programme>
-<programme start="20231128140000 +0000" stop="20231128153000 +0000" channel="ANTTV.id"><title lang="en">Pusaka Penyebar Maut</title></programme>
-<programme start="20231128153000 +0000" stop="20231128173000 +0000" channel="ANTTV.id"><title lang="en">Mama Minta Pulsa</title></programme>
+<channel id="OKTVHD.id"><display-name>OK TV</display-name><url>https://mncvision.id</url></channel>
+<programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="ANTVHD.id"><title lang="en">Pacarku Kuntilanak Kembar</title></programme>
+<programme start="20231126190000 +0000" stop="20231126191500 +0000" channel="ANTVHD.id"><title lang="en">Lensa Olahraga</title></programme>
+<programme start="20231126191500 +0000" stop="20231126201500 +0000" channel="ANTVHD.id"><title lang="en">Test Case</title></programme>
+<programme start="20231126201500 +0000" stop="20231126210000 +0000" channel="ANTVHD.id"><title lang="en">Pesona</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="ANTVHD.id"><title lang="en">Senyum Iman</title></programme>
+<programme start="20231126213000 +0000" stop="20231126220000 +0000" channel="ANTVHD.id"><title lang="en">Shy Shy Cat N Friends</title></programme>
+<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="ANTVHD.id"><title lang="en">Cakrawala</title></programme>
+<programme start="20231126223000 +0000" stop="20231126230000 +0000" channel="ANTVHD.id"><title lang="en">Kasus Viral</title></programme>
+<programme start="20231126230000 +0000" stop="20231127013000 +0000" channel="ANTVHD.id"><title lang="en">Madagascar</title></programme>
+<programme start="20231127013000 +0000" stop="20231127030000 +0000" channel="ANTVHD.id"><title lang="en">Takdir Cinta</title></programme>
+<programme start="20231127030000 +0000" stop="20231127043000 +0000" channel="ANTVHD.id"><title lang="en">Nakee</title></programme>
+<programme start="20231127043000 +0000" stop="20231127063000 +0000" channel="ANTVHD.id"><title lang="en">Anandhi</title></programme>
+<programme start="20231127063000 +0000" stop="20231127090000 +0000" channel="ANTVHD.id"><title lang="en">Woh To Hai Albelaa</title></programme>
+<programme start="20231127090000 +0000" stop="20231127113000 +0000" channel="ANTVHD.id"><title lang="en">Aparajita</title></programme>
+<programme start="20231127113000 +0000" stop="20231127140000 +0000" channel="ANTVHD.id"><title lang="en">Nath</title></programme>
+<programme start="20231127140000 +0000" stop="20231127153000 +0000" channel="ANTVHD.id"><title lang="en">Malam Satu Suro</title></programme>
+<programme start="20231127153000 +0000" stop="20231127173000 +0000" channel="ANTVHD.id"><title lang="en">Ular Tangga</title></programme>
+<programme start="20231127173000 +0000" stop="20231127183000 +0000" channel="ANTVHD.id"><title lang="en">Kepergok Pocong</title></programme>
+<programme start="20231127183000 +0000" stop="20231127190000 +0000" channel="ANTVHD.id"><title lang="en">AB Shop Home Shopping</title></programme>
+<programme start="20231127190000 +0000" stop="20231127201500 +0000" channel="ANTVHD.id"><title lang="en">Asmara Semusim</title></programme>
+<programme start="20231127201500 +0000" stop="20231127210000 +0000" channel="ANTVHD.id"><title lang="en">Barbie Kecebur Lumpur</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="ANTVHD.id"><title lang="en">Senyum Iman</title></programme>
+<programme start="20231127213000 +0000" stop="20231127220000 +0000" channel="ANTVHD.id"><title lang="en">Shy Shy Cat N Friends</title></programme>
+<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="ANTVHD.id"><title lang="en">Cakrawala</title></programme>
+<programme start="20231127223000 +0000" stop="20231127230000 +0000" channel="ANTVHD.id"><title lang="en">Kasus Viral</title></programme>
+<programme start="20231127230000 +0000" stop="20231128013000 +0000" channel="ANTVHD.id"><title lang="en">Madagascar</title></programme>
+<programme start="20231128013000 +0000" stop="20231128030000 +0000" channel="ANTVHD.id"><title lang="en">Takdir Cinta</title></programme>
+<programme start="20231128030000 +0000" stop="20231128043000 +0000" channel="ANTVHD.id"><title lang="en">Nakee</title></programme>
+<programme start="20231128043000 +0000" stop="20231128063000 +0000" channel="ANTVHD.id"><title lang="en">Anandhi</title></programme>
+<programme start="20231128063000 +0000" stop="20231128090000 +0000" channel="ANTVHD.id"><title lang="en">Woh To Hai Albelaa</title></programme>
+<programme start="20231128090000 +0000" stop="20231128113000 +0000" channel="ANTVHD.id"><title lang="en">Aparajita</title></programme>
+<programme start="20231128113000 +0000" stop="20231128140000 +0000" channel="ANTVHD.id"><title lang="en">Nath</title></programme>
+<programme start="20231128140000 +0000" stop="20231128153000 +0000" channel="ANTVHD.id"><title lang="en">Pusaka Penyebar Maut</title></programme>
+<programme start="20231128153000 +0000" stop="20231128173000 +0000" channel="ANTVHD.id"><title lang="en">Mama Minta Pulsa</title></programme>
 <programme start="20231126173000 +0000" stop="20231126181500 +0000" channel="CelebritiesTV.id"><title lang="en">Barista</title></programme>
 <programme start="20231126181500 +0000" stop="20231126184500 +0000" channel="CelebritiesTV.id"><title lang="en">Top Of The Top</title></programme>
 <programme start="20231126184500 +0000" stop="20231126194500 +0000" channel="CelebritiesTV.id"><title lang="en">Dapur Ngebor</title></programme>
@@ -135,80 +135,44 @@
 <programme start="20231128123000 +0000" stop="20231128140000 +0000" channel="Entertainment.id"><title lang="en">Super Deal Indonesia</title></programme>
 <programme start="20231128140000 +0000" stop="20231128163000 +0000" channel="Entertainment.id"><title lang="en">The Indonesian Next Big Star</title></programme>
 <programme start="20231128163000 +0000" stop="20231128170000 +0000" channel="Entertainment.id"><title lang="en">World Of Moslem</title></programme>
-<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231126190000 +0000" stop="20231126210000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231126213000 +0000" stop="20231126223000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Pagi (L)</title></programme>
-<programme start="20231126223000 +0000" stop="20231127010000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231127010000 +0000" stop="20231127030000 +0000" channel="GTTV.id"><title lang="en">PAW Patrol</title></programme>
-<programme start="20231127030000 +0000" stop="20231127033000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Siang (L)</title></programme>
-<programme start="20231127033000 +0000" stop="20231127040000 +0000" channel="GTTV.id"><title lang="en">Obsesi (L)</title></programme>
-<programme start="20231127040000 +0000" stop="20231127053000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231127053000 +0000" stop="20231127073000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231127073000 +0000" stop="20231127090000 +0000" channel="GTTV.id"><title lang="en">Nobita Legenda Raja Matahari</title></programme>
-<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="GTTV.id"><title lang="en">I Love Indonesia</title></programme>
-<programme start="20231127100000 +0000" stop="20231127110000 +0000" channel="GTTV.id"><title lang="en">Boruto: Naruto Next Generation</title></programme>
-<programme start="20231127110000 +0000" stop="20231127123000 +0000" channel="GTTV.id"><title lang="en">Super Deal Indonesia</title></programme>
-<programme start="20231127123000 +0000" stop="20231127150000 +0000" channel="GTTV.id"><title lang="en">Kisah Viral +62</title></programme>
-<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="GTTV.id"><title lang="en">Deg Deg-An</title></programme>
-<programme start="20231127160000 +0000" stop="20231127163000 +0000" channel="GTTV.id"><title lang="en">Legenda Sang Penunggu</title></programme>
-<programme start="20231127163000 +0000" stop="20231127173000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Malam</title></programme>
-<programme start="20231127173000 +0000" stop="20231127190000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231127190000 +0000" stop="20231127210000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="GTTV.id"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20231127213000 +0000" stop="20231127223000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Pagi (L)</title></programme>
-<programme start="20231127223000 +0000" stop="20231128010000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231128010000 +0000" stop="20231128020000 +0000" channel="GTTV.id"><title lang="en">PAW Patrol</title></programme>
-<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231128030000 +0000" stop="20231128033000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Siang (L)</title></programme>
-<programme start="20231128033000 +0000" stop="20231128040000 +0000" channel="GTTV.id"><title lang="en">Obsesi (L)</title></programme>
-<programme start="20231128040000 +0000" stop="20231128053000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231128053000 +0000" stop="20231128073000 +0000" channel="GTTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
-<programme start="20231128073000 +0000" stop="20231128090000 +0000" channel="GTTV.id"><title lang="en">Nobita Di Dunia Sihir</title></programme>
-<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="GTTV.id"><title lang="en">I Love Indonesia</title></programme>
-<programme start="20231128100000 +0000" stop="20231128110000 +0000" channel="GTTV.id"><title lang="en">Boruto: Naruto Next Generation</title></programme>
-<programme start="20231128110000 +0000" stop="20231128123000 +0000" channel="GTTV.id"><title lang="en">Super Deal Indonesia</title></programme>
-<programme start="20231128123000 +0000" stop="20231128150000 +0000" channel="GTTV.id"><title lang="en">Kisah Viral +62</title></programme>
-<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="GTTV.id"><title lang="en">King Serpent Island</title></programme>
-<programme start="20231128160000 +0000" stop="20231128163000 +0000" channel="GTTV.id"><title lang="en">Call Of Heroes</title></programme>
-<programme start="20231128163000 +0000" stop="20231128173000 +0000" channel="GTTV.id"><title lang="en">Buletin iNews Malam</title></programme>
-<programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="IIndosiar.id"><title lang="en">Mega Film Asia</title></programme>
-<programme start="20231126190000 +0000" stop="20231126203000 +0000" channel="IIndosiar.id"><title lang="en">Mega Film Asia</title></programme>
-<programme start="20231126203000 +0000" stop="20231126210000 +0000" channel="IIndosiar.id"><title lang="en">Patroli Malam</title></programme>
-<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="IIndosiar.id"><title lang="en">Fokus Malam</title></programme>
-<programme start="20231126213000 +0000" stop="20231126230000 +0000" channel="IIndosiar.id"><title lang="en">Fokus Pagi</title></programme>
-<programme start="20231126230000 +0000" stop="20231127003000 +0000" channel="IIndosiar.id"><title lang="en">Magic 5</title></programme>
-<programme start="20231127003000 +0000" stop="20231127023000 +0000" channel="IIndosiar.id"><title lang="en">Pintu Berkah Pagi</title></programme>
-<programme start="20231127023000 +0000" stop="20231127033000 +0000" channel="IIndosiar.id"><title lang="en">Kiss Pagi</title></programme>
-<programme start="20231127033000 +0000" stop="20231127041500 +0000" channel="IIndosiar.id"><title lang="en">Patroli Siang</title></programme>
-<programme start="20231127041500 +0000" stop="20231127050000 +0000" channel="IIndosiar.id"><title lang="en">Fokus Siang</title></programme>
-<programme start="20231127050000 +0000" stop="20231127063000 +0000" channel="IIndosiar.id"><title lang="en">Kisah Nyata</title></programme>
-<programme start="20231127063000 +0000" stop="20231127073000 +0000" channel="IIndosiar.id"><title lang="en">Pintu Berkah Siang</title></programme>
-<programme start="20231127073000 +0000" stop="20231127100000 +0000" channel="IIndosiar.id"><title lang="en">BRI Liga 1 2023/2024</title></programme>
-<programme start="20231127100000 +0000" stop="20231127113000 +0000" channel="IIndosiar.id"><title lang="en">Magic 5</title></programme>
-<programme start="20231127113000 +0000" stop="20231127140000 +0000" channel="IIndosiar.id"><title lang="en">BRI Liga 1 2023/2024</title></programme>
-<programme start="20231127140000 +0000" stop="20231127150000 +0000" channel="IIndosiar.id"><title lang="en">Heroes</title></programme>
-<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="IIndosiar.id"><title lang="en">The Shaolin</title></programme>
-<programme start="20231127160000 +0000" stop="20231127183000 +0000" channel="IIndosiar.id"><title lang="en">Mega Film Asia</title></programme>
-<programme start="20231127183000 +0000" stop="20231127203000 +0000" channel="IIndosiar.id"><title lang="en">Mega Film Asia</title></programme>
-<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="IIndosiar.id"><title lang="en">Patroli Malam</title></programme>
-<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="IIndosiar.id"><title lang="en">Fokus Malam</title></programme>
-<programme start="20231127213000 +0000" stop="20231127230000 +0000" channel="IIndosiar.id"><title lang="en">Fokus Pagi</title></programme>
-<programme start="20231127230000 +0000" stop="20231128003000 +0000" channel="IIndosiar.id"><title lang="en">Magic 5</title></programme>
-<programme start="20231128003000 +0000" stop="20231128023000 +0000" channel="IIndosiar.id"><title lang="en">Pintu Berkah Pagi</title></programme>
-<programme start="20231128023000 +0000" stop="20231128033000 +0000" channel="IIndosiar.id"><title lang="en">Kiss Pagi</title></programme>
-<programme start="20231128033000 +0000" stop="20231128041500 +0000" channel="IIndosiar.id"><title lang="en">Kisah Nyata</title></programme>
-<programme start="20231128041500 +0000" stop="20231128050000 +0000" channel="IIndosiar.id"><title lang="en">Pintu Berkah Siang</title></programme>
-<programme start="20231128050000 +0000" stop="20231128060000 +0000" channel="IIndosiar.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231128060000 +0000" stop="20231128073000 +0000" channel="IIndosiar.id"><title lang="en">FIFA U-17 World Cup</title></programme>
-<programme start="20231128073000 +0000" stop="20231128080000 +0000" channel="IIndosiar.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231128080000 +0000" stop="20231128103000 +0000" channel="IIndosiar.id"><title lang="en">FIFA U-17 World Cup</title></programme>
-<programme start="20231128103000 +0000" stop="20231128113000 +0000" channel="IIndosiar.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231128113000 +0000" stop="20231128140000 +0000" channel="IIndosiar.id"><title lang="en">FIFA U-17 World Cup</title></programme>
-<programme start="20231128140000 +0000" stop="20231128150000 +0000" channel="IIndosiar.id"><title lang="en">Heroes</title></programme>
-<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="IIndosiar.id"><title lang="en">The Shaolin</title></programme>
-<programme start="20231128160000 +0000" stop="20231128183000 +0000" channel="IIndosiar.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231126190000 +0000" stop="20231126210000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231126213000 +0000" stop="20231126223000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Pagi (L)</title></programme>
+<programme start="20231126223000 +0000" stop="20231127010000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231127010000 +0000" stop="20231127030000 +0000" channel="GTVHD.id"><title lang="en">PAW Patrol</title></programme>
+<programme start="20231127030000 +0000" stop="20231127033000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Siang (L)</title></programme>
+<programme start="20231127033000 +0000" stop="20231127040000 +0000" channel="GTVHD.id"><title lang="en">Obsesi (L)</title></programme>
+<programme start="20231127040000 +0000" stop="20231127053000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231127053000 +0000" stop="20231127073000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231127073000 +0000" stop="20231127090000 +0000" channel="GTVHD.id"><title lang="en">Nobita Legenda Raja Matahari</title></programme>
+<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="GTVHD.id"><title lang="en">I Love Indonesia</title></programme>
+<programme start="20231127100000 +0000" stop="20231127110000 +0000" channel="GTVHD.id"><title lang="en">Boruto: Naruto Next Generation</title></programme>
+<programme start="20231127110000 +0000" stop="20231127123000 +0000" channel="GTVHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231127123000 +0000" stop="20231127150000 +0000" channel="GTVHD.id"><title lang="en">Kisah Viral +62</title></programme>
+<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="GTVHD.id"><title lang="en">Deg Deg-An</title></programme>
+<programme start="20231127160000 +0000" stop="20231127163000 +0000" channel="GTVHD.id"><title lang="en">Legenda Sang Penunggu</title></programme>
+<programme start="20231127163000 +0000" stop="20231127173000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Malam</title></programme>
+<programme start="20231127173000 +0000" stop="20231127190000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231127190000 +0000" stop="20231127210000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="GTVHD.id"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20231127213000 +0000" stop="20231127223000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Pagi (L)</title></programme>
+<programme start="20231127223000 +0000" stop="20231128010000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231128010000 +0000" stop="20231128020000 +0000" channel="GTVHD.id"><title lang="en">PAW Patrol</title></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231128030000 +0000" stop="20231128033000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Siang (L)</title></programme>
+<programme start="20231128033000 +0000" stop="20231128040000 +0000" channel="GTVHD.id"><title lang="en">Obsesi (L)</title></programme>
+<programme start="20231128040000 +0000" stop="20231128053000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231128053000 +0000" stop="20231128073000 +0000" channel="GTVHD.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
+<programme start="20231128073000 +0000" stop="20231128090000 +0000" channel="GTVHD.id"><title lang="en">Nobita Di Dunia Sihir</title></programme>
+<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="GTVHD.id"><title lang="en">I Love Indonesia</title></programme>
+<programme start="20231128100000 +0000" stop="20231128110000 +0000" channel="GTVHD.id"><title lang="en">Boruto: Naruto Next Generation</title></programme>
+<programme start="20231128110000 +0000" stop="20231128123000 +0000" channel="GTVHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231128123000 +0000" stop="20231128150000 +0000" channel="GTVHD.id"><title lang="en">Kisah Viral +62</title></programme>
+<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="GTVHD.id"><title lang="en">King Serpent Island</title></programme>
+<programme start="20231128160000 +0000" stop="20231128163000 +0000" channel="GTVHD.id"><title lang="en">Call Of Heroes</title></programme>
+<programme start="20231128163000 +0000" stop="20231128173000 +0000" channel="GTVHD.id"><title lang="en">Buletin iNews Malam</title></programme>
 <programme start="20231126173500 +0000" stop="20231126191000 +0000" channel="IMC.id"><title lang="en">Kemesraan</title><desc lang="en">Ayuni and Roy break up even though she is pregnant. Instead, Roy asks her to abort the pregnancy, as he does not want to marry.</desc></programme>
 <programme start="20231126191000 +0000" stop="20231126203000 +0000" channel="IMC.id"><title lang="en">Kutukan Arwah Santet</title><desc lang="en">There&apos;s a mystery of a couple of lovers who can&apos;t be separated after intercourse. This makes Tya curious. Plus, every time there&apos;s death Kirana is always on location, looking confused.</desc></programme>
 <programme start="20231126203000 +0000" stop="20231126215500 +0000" channel="IMC.id"><title lang="en">Hantu Budeg</title><desc lang="en">Magda, Inge, Royce and Bram asks Kojek to pay for their holiday. In the middle of their merriment, Magda finds out that the pictures she takes expose some apparitions.</desc></programme>
@@ -240,44 +204,80 @@
 <programme start="20231128130000 +0000" stop="20231128141500 +0000" channel="IMC.id"><title lang="en">Cewek Gokil</title><desc lang="en">Keke works very hard in order to buy a Mini Cooper, the car of her dream. However, her hard work is causing some distance between herself and the people she loves.</desc></programme>
 <programme start="20231128141500 +0000" stop="20231128162500 +0000" channel="IMC.id"><title lang="en">Tiga</title><desc lang="en">Alif, Lam and Mim are three friends from martial art school Al-Ikhlas. All three are reunited after the explosion of a bomb in a cafe.</desc></programme>
 <programme start="20231128162500 +0000" stop="20231128175500 +0000" channel="IMC.id"><title lang="en">Kesurupan Jumat Kliwon</title><desc lang="en">Rocky and Cindy despair, because their love is separated by their parents and decide to commit suicide. But, before it, all intend to go holiday together.</desc></programme>
-<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="MNCCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="MNCCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="MNCCTV.id"><title lang="en">Super Dede S2</title></programme>
-<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="MNCCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="MNCCTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231126223000 +0000" stop="20231126233000 +0000" channel="MNCCTV.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
-<programme start="20231126233000 +0000" stop="20231127003000 +0000" channel="MNCCTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
-<programme start="20231127003000 +0000" stop="20231127020000 +0000" channel="MNCCTV.id"><title lang="en">Selamat Pagi Kiko</title></programme>
-<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="MNCCTV.id"><title lang="en">Lintas iNews Siang</title></programme>
-<programme start="20231127040000 +0000" stop="20231127050000 +0000" channel="MNCCTV.id"><title lang="en">Lintas Kriminal</title></programme>
-<programme start="20231127050000 +0000" stop="20231127063000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231127063000 +0000" stop="20231127080000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231127080000 +0000" stop="20231127093000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231127093000 +0000" stop="20231127104500 +0000" channel="MNCCTV.id"><title lang="en">Uang Kaget Lagi</title></programme>
-<programme start="20231127104500 +0000" stop="20231127120000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
-<programme start="20231127120000 +0000" stop="20231127140000 +0000" channel="MNCCTV.id"><title lang="en">Family 100</title></programme>
-<programme start="20231127140000 +0000" stop="20231127160000 +0000" channel="MNCCTV.id"><title lang="en">Take Me Out Indonesia</title></programme>
-<programme start="20231127160000 +0000" stop="20231127180000 +0000" channel="MNCCTV.id"><title lang="en">Serial Pilihan Malam</title></programme>
-<programme start="20231127180000 +0000" stop="20231127190000 +0000" channel="MNCCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20231127190000 +0000" stop="20231127200000 +0000" channel="MNCCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="MNCCTV.id"><title lang="en">Super Dede S2</title></programme>
-<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="MNCCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="MNCCTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231127223000 +0000" stop="20231127233000 +0000" channel="MNCCTV.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
-<programme start="20231127233000 +0000" stop="20231128003000 +0000" channel="MNCCTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
-<programme start="20231128003000 +0000" stop="20231128020000 +0000" channel="MNCCTV.id"><title lang="en">Selamat Pagi Kiko</title></programme>
-<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="MNCCTV.id"><title lang="en">Lintas iNews Siang</title></programme>
-<programme start="20231128040000 +0000" stop="20231128050000 +0000" channel="MNCCTV.id"><title lang="en">Lintas Kriminal</title></programme>
-<programme start="20231128050000 +0000" stop="20231128063000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231128063000 +0000" stop="20231128080000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231128080000 +0000" stop="20231128093000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20231128093000 +0000" stop="20231128104500 +0000" channel="MNCCTV.id"><title lang="en">Uang Kaget Lagi</title></programme>
-<programme start="20231128104500 +0000" stop="20231128120000 +0000" channel="MNCCTV.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
-<programme start="20231128120000 +0000" stop="20231128140000 +0000" channel="MNCCTV.id"><title lang="en">Family 100</title></programme>
-<programme start="20231128140000 +0000" stop="20231128160000 +0000" channel="MNCCTV.id"><title lang="en">Take Me Out Indonesia</title></programme>
-<programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="MNCCTV.id"><title lang="en">Serial Pilihan</title></programme>
+<programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="IndosiarHD.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231126190000 +0000" stop="20231126203000 +0000" channel="IndosiarHD.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231126203000 +0000" stop="20231126210000 +0000" channel="IndosiarHD.id"><title lang="en">Patroli Malam</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="IndosiarHD.id"><title lang="en">Fokus Malam</title></programme>
+<programme start="20231126213000 +0000" stop="20231126230000 +0000" channel="IndosiarHD.id"><title lang="en">Fokus Pagi</title></programme>
+<programme start="20231126230000 +0000" stop="20231127003000 +0000" channel="IndosiarHD.id"><title lang="en">Magic 5</title></programme>
+<programme start="20231127003000 +0000" stop="20231127023000 +0000" channel="IndosiarHD.id"><title lang="en">Pintu Berkah Pagi</title></programme>
+<programme start="20231127023000 +0000" stop="20231127033000 +0000" channel="IndosiarHD.id"><title lang="en">Kiss Pagi</title></programme>
+<programme start="20231127033000 +0000" stop="20231127041500 +0000" channel="IndosiarHD.id"><title lang="en">Patroli Siang</title></programme>
+<programme start="20231127041500 +0000" stop="20231127050000 +0000" channel="IndosiarHD.id"><title lang="en">Fokus Siang</title></programme>
+<programme start="20231127050000 +0000" stop="20231127063000 +0000" channel="IndosiarHD.id"><title lang="en">Kisah Nyata</title></programme>
+<programme start="20231127063000 +0000" stop="20231127073000 +0000" channel="IndosiarHD.id"><title lang="en">Pintu Berkah Siang</title></programme>
+<programme start="20231127073000 +0000" stop="20231127100000 +0000" channel="IndosiarHD.id"><title lang="en">BRI Liga 1 2023/2024</title></programme>
+<programme start="20231127100000 +0000" stop="20231127113000 +0000" channel="IndosiarHD.id"><title lang="en">Magic 5</title></programme>
+<programme start="20231127113000 +0000" stop="20231127140000 +0000" channel="IndosiarHD.id"><title lang="en">BRI Liga 1 2023/2024</title></programme>
+<programme start="20231127140000 +0000" stop="20231127150000 +0000" channel="IndosiarHD.id"><title lang="en">Heroes</title></programme>
+<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="IndosiarHD.id"><title lang="en">The Shaolin</title></programme>
+<programme start="20231127160000 +0000" stop="20231127183000 +0000" channel="IndosiarHD.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231127183000 +0000" stop="20231127203000 +0000" channel="IndosiarHD.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="IndosiarHD.id"><title lang="en">Patroli Malam</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="IndosiarHD.id"><title lang="en">Fokus Malam</title></programme>
+<programme start="20231127213000 +0000" stop="20231127230000 +0000" channel="IndosiarHD.id"><title lang="en">Fokus Pagi</title></programme>
+<programme start="20231127230000 +0000" stop="20231128003000 +0000" channel="IndosiarHD.id"><title lang="en">Magic 5</title></programme>
+<programme start="20231128003000 +0000" stop="20231128023000 +0000" channel="IndosiarHD.id"><title lang="en">Pintu Berkah Pagi</title></programme>
+<programme start="20231128023000 +0000" stop="20231128033000 +0000" channel="IndosiarHD.id"><title lang="en">Kiss Pagi</title></programme>
+<programme start="20231128033000 +0000" stop="20231128041500 +0000" channel="IndosiarHD.id"><title lang="en">Kisah Nyata</title></programme>
+<programme start="20231128041500 +0000" stop="20231128050000 +0000" channel="IndosiarHD.id"><title lang="en">Pintu Berkah Siang</title></programme>
+<programme start="20231128050000 +0000" stop="20231128060000 +0000" channel="IndosiarHD.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231128060000 +0000" stop="20231128073000 +0000" channel="IndosiarHD.id"><title lang="en">FIFA U-17 World Cup</title></programme>
+<programme start="20231128073000 +0000" stop="20231128080000 +0000" channel="IndosiarHD.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231128080000 +0000" stop="20231128103000 +0000" channel="IndosiarHD.id"><title lang="en">FIFA U-17 World Cup</title></programme>
+<programme start="20231128103000 +0000" stop="20231128113000 +0000" channel="IndosiarHD.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231128113000 +0000" stop="20231128140000 +0000" channel="IndosiarHD.id"><title lang="en">FIFA U-17 World Cup</title></programme>
+<programme start="20231128140000 +0000" stop="20231128150000 +0000" channel="IndosiarHD.id"><title lang="en">Heroes</title></programme>
+<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="IndosiarHD.id"><title lang="en">The Shaolin</title></programme>
+<programme start="20231128160000 +0000" stop="20231128183000 +0000" channel="IndosiarHD.id"><title lang="en">Mega Film Asia</title></programme>
+<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="MNCTVHD.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="MNCTVHD.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="MNCTVHD.id"><title lang="en">Super Dede S2</title></programme>
+<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="MNCTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231126223000 +0000" stop="20231126233000 +0000" channel="MNCTVHD.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
+<programme start="20231126233000 +0000" stop="20231127003000 +0000" channel="MNCTVHD.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231127003000 +0000" stop="20231127020000 +0000" channel="MNCTVHD.id"><title lang="en">Selamat Pagi Kiko</title></programme>
+<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20231127040000 +0000" stop="20231127050000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas Kriminal</title></programme>
+<programme start="20231127050000 +0000" stop="20231127063000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231127063000 +0000" stop="20231127080000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231127080000 +0000" stop="20231127093000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231127093000 +0000" stop="20231127104500 +0000" channel="MNCTVHD.id"><title lang="en">Uang Kaget Lagi</title></programme>
+<programme start="20231127104500 +0000" stop="20231127120000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231127120000 +0000" stop="20231127140000 +0000" channel="MNCTVHD.id"><title lang="en">Family 100</title></programme>
+<programme start="20231127140000 +0000" stop="20231127160000 +0000" channel="MNCTVHD.id"><title lang="en">Take Me Out Indonesia</title></programme>
+<programme start="20231127160000 +0000" stop="20231127180000 +0000" channel="MNCTVHD.id"><title lang="en">Serial Pilihan Malam</title></programme>
+<programme start="20231127180000 +0000" stop="20231127190000 +0000" channel="MNCTVHD.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20231127190000 +0000" stop="20231127200000 +0000" channel="MNCTVHD.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="MNCTVHD.id"><title lang="en">Super Dede S2</title></programme>
+<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="MNCTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231127223000 +0000" stop="20231127233000 +0000" channel="MNCTVHD.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
+<programme start="20231127233000 +0000" stop="20231128003000 +0000" channel="MNCTVHD.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
+<programme start="20231128003000 +0000" stop="20231128020000 +0000" channel="MNCTVHD.id"><title lang="en">Selamat Pagi Kiko</title></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20231128040000 +0000" stop="20231128050000 +0000" channel="MNCTVHD.id"><title lang="en">Lintas Kriminal</title></programme>
+<programme start="20231128050000 +0000" stop="20231128063000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231128063000 +0000" stop="20231128080000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231128080000 +0000" stop="20231128093000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20231128093000 +0000" stop="20231128104500 +0000" channel="MNCTVHD.id"><title lang="en">Uang Kaget Lagi</title></programme>
+<programme start="20231128104500 +0000" stop="20231128120000 +0000" channel="MNCTVHD.id"><title lang="en">Upin &amp; Ipin Bermula</title></programme>
+<programme start="20231128120000 +0000" stop="20231128140000 +0000" channel="MNCTVHD.id"><title lang="en">Family 100</title></programme>
+<programme start="20231128140000 +0000" stop="20231128160000 +0000" channel="MNCTVHD.id"><title lang="en">Take Me Out Indonesia</title></programme>
+<programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="MNCTVHD.id"><title lang="en">Serial Pilihan</title></programme>
 <programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="NETTV.id"><title lang="en">ONE Friday Fights 42</title></programme>
 <programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="NETTV.id"><title lang="en">ONE Friday Fights 31</title></programme>
 <programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="NETTV.id"><title lang="en">Ruqyah</title></programme>
@@ -323,54 +323,54 @@
 <programme start="20231128140000 +0000" stop="20231128150000 +0000" channel="NETTV.id"><title lang="en">Main Hakim Sendiri</title></programme>
 <programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="NETTV.id"><title lang="en">86</title></programme>
 <programme start="20231128160000 +0000" stop="20231128170000 +0000" channel="NETTV.id"><title lang="en">Jatanras</title></programme>
-<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="OKTTV.id"><title lang="en">Deg-Degan</title></programme>
-<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="OKTTV.id"><title lang="en">Bus Jutawan</title></programme>
-<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="OKTTV.id"><title lang="en">Iiihhh Serrreemm</title></programme>
-<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="OKTTV.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
-<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="OKTTV.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
-<programme start="20231126220000 +0000" stop="20231126230000 +0000" channel="OKTTV.id"><title lang="en">Curhatan Orang Dalam</title></programme>
-<programme start="20231126230000 +0000" stop="20231126232000 +0000" channel="OKTTV.id"><title lang="en">OB S1</title></programme>
-<programme start="20231126232000 +0000" stop="20231127000000 +0000" channel="OKTTV.id"><title lang="en">Barista</title></programme>
-<programme start="20231127000000 +0000" stop="20231127003000 +0000" channel="OKTTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231127003000 +0000" stop="20231127013000 +0000" channel="OKTTV.id"><title lang="en">Preman Pensiun S2</title></programme>
-<programme start="20231127013000 +0000" stop="20231127023000 +0000" channel="OKTTV.id"><title lang="en">Ada Dua Cinta</title></programme>
-<programme start="20231127023000 +0000" stop="20231127033000 +0000" channel="OKTTV.id"><title lang="en">Awas Banyak Copet</title></programme>
-<programme start="20231127033000 +0000" stop="20231127035000 +0000" channel="OKTTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231127035000 +0000" stop="20231127044500 +0000" channel="OKTTV.id"><title lang="en">Bus Jutawan</title></programme>
-<programme start="20231127044500 +0000" stop="20231127060000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S4</title></programme>
-<programme start="20231127060000 +0000" stop="20231127071000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S4</title></programme>
-<programme start="20231127071000 +0000" stop="20231127081000 +0000" channel="OKTTV.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
-<programme start="20231127081000 +0000" stop="20231127092000 +0000" channel="OKTTV.id"><title lang="en">Tamu Dadakan</title></programme>
-<programme start="20231127092000 +0000" stop="20231127102000 +0000" channel="OKTTV.id"><title lang="en">Awas Banyak Copet</title></programme>
-<programme start="20231127102000 +0000" stop="20231127113500 +0000" channel="OKTTV.id"><title lang="en">Iiihhh Serrreemm</title></programme>
-<programme start="20231127113500 +0000" stop="20231127123000 +0000" channel="OKTTV.id"><title lang="en">Bus Jutawan</title></programme>
-<programme start="20231127123000 +0000" stop="20231127133500 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S7</title></programme>
-<programme start="20231127133500 +0000" stop="20231127144000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S7</title></programme>
-<programme start="20231127144000 +0000" stop="20231127154000 +0000" channel="OKTTV.id"><title lang="en">Curhatan Orang Dalam</title></programme>
-<programme start="20231127154000 +0000" stop="20231127163000 +0000" channel="OKTTV.id"><title lang="en">Ada Dua Cinta</title></programme>
-<programme start="20231127163000 +0000" stop="20231127170000 +0000" channel="OKTTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231127170000 +0000" stop="20231127180000 +0000" channel="OKTTV.id"><title lang="en">Legenda Sang Penunggu</title></programme>
-<programme start="20231127180000 +0000" stop="20231127200000 +0000" channel="OKTTV.id"><title lang="en">AFC Cup: Al Arabi Vs Zawraa (L)</title></programme>
-<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="OKTTV.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
-<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="OKTTV.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
-<programme start="20231127220000 +0000" stop="20231127230000 +0000" channel="OKTTV.id"><title lang="en">Curhatan Orang Dalam</title></programme>
-<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="OKTTV.id"><title lang="en">Tamu Dadakan</title></programme>
-<programme start="20231128000000 +0000" stop="20231128003000 +0000" channel="OKTTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231128003000 +0000" stop="20231128013000 +0000" channel="OKTTV.id"><title lang="en">Preman Pensiun S2</title></programme>
-<programme start="20231128013000 +0000" stop="20231128023000 +0000" channel="OKTTV.id"><title lang="en">Ada Dua Cinta</title></programme>
-<programme start="20231128023000 +0000" stop="20231128033000 +0000" channel="OKTTV.id"><title lang="en">Awas Banyak Copet</title></programme>
-<programme start="20231128033000 +0000" stop="20231128035000 +0000" channel="OKTTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20231128035000 +0000" stop="20231128044500 +0000" channel="OKTTV.id"><title lang="en">Bus Jutawan</title></programme>
-<programme start="20231128044500 +0000" stop="20231128060000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S4</title></programme>
-<programme start="20231128060000 +0000" stop="20231128071000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S4</title></programme>
-<programme start="20231128071000 +0000" stop="20231128081000 +0000" channel="OKTTV.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
-<programme start="20231128081000 +0000" stop="20231128092000 +0000" channel="OKTTV.id"><title lang="en">Tamu Dadakan</title></programme>
-<programme start="20231128092000 +0000" stop="20231128102000 +0000" channel="OKTTV.id"><title lang="en">Awas Banyak Copet</title></programme>
-<programme start="20231128102000 +0000" stop="20231128113500 +0000" channel="OKTTV.id"><title lang="en">Iiihhh Serrreemm</title></programme>
-<programme start="20231128113500 +0000" stop="20231128123000 +0000" channel="OKTTV.id"><title lang="en">Bus Jutawan</title></programme>
-<programme start="20231128123000 +0000" stop="20231128133500 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S7</title></programme>
-<programme start="20231128133500 +0000" stop="20231128144000 +0000" channel="OKTTV.id"><title lang="en">Amanah Wali S7</title></programme>
-<programme start="20231128144000 +0000" stop="20231128154000 +0000" channel="OKTTV.id"><title lang="en">Curhatan Orang Dalam</title></programme>
-<programme start="20231128154000 +0000" stop="20231128160000 +0000" channel="OKTTV.id"><title lang="en">OB S1</title></programme>
-<programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="OKTTV.id"><title lang="en">AFCL: Nassaji Vs Mumbai (L)</title></programme>
+<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="OKTVHD.id"><title lang="en">Deg-Degan</title></programme>
+<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="OKTVHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="OKTVHD.id"><title lang="en">Iiihhh Serrreemm</title></programme>
+<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="OKTVHD.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
+<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="OKTVHD.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
+<programme start="20231126220000 +0000" stop="20231126230000 +0000" channel="OKTVHD.id"><title lang="en">Curhatan Orang Dalam</title></programme>
+<programme start="20231126230000 +0000" stop="20231126232000 +0000" channel="OKTVHD.id"><title lang="en">OB S1</title></programme>
+<programme start="20231126232000 +0000" stop="20231127000000 +0000" channel="OKTVHD.id"><title lang="en">Barista</title></programme>
+<programme start="20231127000000 +0000" stop="20231127003000 +0000" channel="OKTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231127003000 +0000" stop="20231127013000 +0000" channel="OKTVHD.id"><title lang="en">Preman Pensiun S2</title></programme>
+<programme start="20231127013000 +0000" stop="20231127023000 +0000" channel="OKTVHD.id"><title lang="en">Ada Dua Cinta</title></programme>
+<programme start="20231127023000 +0000" stop="20231127033000 +0000" channel="OKTVHD.id"><title lang="en">Awas Banyak Copet</title></programme>
+<programme start="20231127033000 +0000" stop="20231127035000 +0000" channel="OKTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231127035000 +0000" stop="20231127044500 +0000" channel="OKTVHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231127044500 +0000" stop="20231127060000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S4</title></programme>
+<programme start="20231127060000 +0000" stop="20231127071000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S4</title></programme>
+<programme start="20231127071000 +0000" stop="20231127081000 +0000" channel="OKTVHD.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
+<programme start="20231127081000 +0000" stop="20231127092000 +0000" channel="OKTVHD.id"><title lang="en">Tamu Dadakan</title></programme>
+<programme start="20231127092000 +0000" stop="20231127102000 +0000" channel="OKTVHD.id"><title lang="en">Awas Banyak Copet</title></programme>
+<programme start="20231127102000 +0000" stop="20231127113500 +0000" channel="OKTVHD.id"><title lang="en">Iiihhh Serrreemm</title></programme>
+<programme start="20231127113500 +0000" stop="20231127123000 +0000" channel="OKTVHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231127123000 +0000" stop="20231127133500 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S7</title></programme>
+<programme start="20231127133500 +0000" stop="20231127144000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S7</title></programme>
+<programme start="20231127144000 +0000" stop="20231127154000 +0000" channel="OKTVHD.id"><title lang="en">Curhatan Orang Dalam</title></programme>
+<programme start="20231127154000 +0000" stop="20231127163000 +0000" channel="OKTVHD.id"><title lang="en">Ada Dua Cinta</title></programme>
+<programme start="20231127163000 +0000" stop="20231127170000 +0000" channel="OKTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231127170000 +0000" stop="20231127180000 +0000" channel="OKTVHD.id"><title lang="en">Legenda Sang Penunggu</title></programme>
+<programme start="20231127180000 +0000" stop="20231127200000 +0000" channel="OKTVHD.id"><title lang="en">AFC Cup: Al Arabi Vs Zawraa (L)</title></programme>
+<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="OKTVHD.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
+<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="OKTVHD.id"><title lang="en">Siraman Qolbu, Mamah Dedeh</title></programme>
+<programme start="20231127220000 +0000" stop="20231127230000 +0000" channel="OKTVHD.id"><title lang="en">Curhatan Orang Dalam</title></programme>
+<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="OKTVHD.id"><title lang="en">Tamu Dadakan</title></programme>
+<programme start="20231128000000 +0000" stop="20231128003000 +0000" channel="OKTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231128003000 +0000" stop="20231128013000 +0000" channel="OKTVHD.id"><title lang="en">Preman Pensiun S2</title></programme>
+<programme start="20231128013000 +0000" stop="20231128023000 +0000" channel="OKTVHD.id"><title lang="en">Ada Dua Cinta</title></programme>
+<programme start="20231128023000 +0000" stop="20231128033000 +0000" channel="OKTVHD.id"><title lang="en">Awas Banyak Copet</title></programme>
+<programme start="20231128033000 +0000" stop="20231128035000 +0000" channel="OKTVHD.id"><title lang="en">Seleb On News</title></programme>
+<programme start="20231128035000 +0000" stop="20231128044500 +0000" channel="OKTVHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231128044500 +0000" stop="20231128060000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S4</title></programme>
+<programme start="20231128060000 +0000" stop="20231128071000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S4</title></programme>
+<programme start="20231128071000 +0000" stop="20231128081000 +0000" channel="OKTVHD.id"><title lang="en">Mantu-Mantu Morotin Mertua</title></programme>
+<programme start="20231128081000 +0000" stop="20231128092000 +0000" channel="OKTVHD.id"><title lang="en">Tamu Dadakan</title></programme>
+<programme start="20231128092000 +0000" stop="20231128102000 +0000" channel="OKTVHD.id"><title lang="en">Awas Banyak Copet</title></programme>
+<programme start="20231128102000 +0000" stop="20231128113500 +0000" channel="OKTVHD.id"><title lang="en">Iiihhh Serrreemm</title></programme>
+<programme start="20231128113500 +0000" stop="20231128123000 +0000" channel="OKTVHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231128123000 +0000" stop="20231128133500 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S7</title></programme>
+<programme start="20231128133500 +0000" stop="20231128144000 +0000" channel="OKTVHD.id"><title lang="en">Amanah Wali S7</title></programme>
+<programme start="20231128144000 +0000" stop="20231128154000 +0000" channel="OKTVHD.id"><title lang="en">Curhatan Orang Dalam</title></programme>
+<programme start="20231128154000 +0000" stop="20231128160000 +0000" channel="OKTVHD.id"><title lang="en">OB S1</title></programme>
+<programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="OKTVHD.id"><title lang="en">AFCL: Nassaji Vs Mumbai (L)</title></programme>
 </tv>
