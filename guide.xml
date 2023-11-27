@@ -8,6 +8,13 @@
 <channel id="MNCTVHD.id"><display-name>MNCTV HD</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://mncvision.id</url></channel>
 <channel id="NETTV.id"><display-name>NET TV</display-name><url>https://mncvision.id</url></channel>
 <channel id="OKTVHD.id"><display-name>OK TV</display-name><url>https://mncvision.id</url></channel>
+<channel id="RCTIHD.id"><display-name>RCTI HD</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://mncvision.id</url></channel>
+<channel id="SCTVHD.id"><display-name>SCTV</display-name><url>https://mncvision.id</url></channel>
+<channel id="Trans7HD.id"><display-name>Trans 7</display-name><url>https://mncvision.id</url></channel>
+<channel id="TransTVHD.id"><display-name>Trans TV</display-name><url>https://mncvision.id</url></channel>
+<channel id="TVRIHD.id"><display-name>TVRI</display-name><url>https://mncvision.id</url></channel>
+<channel id="VisionPrimeHD.id"><display-name>Vision Prime HD</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/><url>https://mncvision.id</url></channel>
+<channel id="ZeeBioskop.id"><display-name>Zee Bioskop</display-name><icon src="https://i.imgur.com/Xl7MJnd.png"/><url>https://mncvision.id</url></channel>
 <programme start="20231126173000 +0000" stop="20231126190000 +0000" channel="ANTVHD.id"><title lang="en">Pacarku Kuntilanak Kembar</title></programme>
 <programme start="20231126190000 +0000" stop="20231126191500 +0000" channel="ANTVHD.id"><title lang="en">Lensa Olahraga</title></programme>
 <programme start="20231126191500 +0000" stop="20231126201500 +0000" channel="ANTVHD.id"><title lang="en">Test Case</title></programme>
@@ -373,4 +380,316 @@
 <programme start="20231128144000 +0000" stop="20231128154000 +0000" channel="OKTVHD.id"><title lang="en">Curhatan Orang Dalam</title></programme>
 <programme start="20231128154000 +0000" stop="20231128160000 +0000" channel="OKTVHD.id"><title lang="en">OB S1</title></programme>
 <programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="OKTVHD.id"><title lang="en">AFCL: Nassaji Vs Mumbai (L)</title></programme>
+<programme start="20231126181500 +0000" stop="20231126190000 +0000" channel="RCTIHD.id"><title lang="en">Kupu-Kupu Itu Kecenganku</title></programme>
+<programme start="20231126190000 +0000" stop="20231126200000 +0000" channel="RCTIHD.id"><title lang="en">Kupu-Kupu Itu Kecenganku</title></programme>
+<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="RCTIHD.id"><title lang="en">Ngidam OMG</title></programme>
+<programme start="20231126210000 +0000" stop="20231126223000 +0000" channel="RCTIHD.id"><title lang="en">Seputar iNews Pagi (L)</title></programme>
+<programme start="20231126223000 +0000" stop="20231126231500 +0000" channel="RCTIHD.id"><title lang="en">Sergap</title></programme>
+<programme start="20231126231500 +0000" stop="20231127010000 +0000" channel="RCTIHD.id"><title lang="en">Go Spot</title></programme>
+<programme start="20231127010000 +0000" stop="20231127023000 +0000" channel="RCTIHD.id"><title lang="en">Trending Banget Loh (TBL)</title></programme>
+<programme start="20231127023000 +0000" stop="20231127030000 +0000" channel="RCTIHD.id"><title lang="en">Seputar iNews Siang (L)</title></programme>
+<programme start="20231127030000 +0000" stop="20231127044500 +0000" channel="RCTIHD.id"><title lang="en">Silet</title></programme>
+<programme start="20231127044500 +0000" stop="20231127080000 +0000" channel="RCTIHD.id"><title lang="en">Si Doel Anak Sekolahan S6</title></programme>
+<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="RCTIHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231127090000 +0000" stop="20231127103000 +0000" channel="RCTIHD.id"><title lang="en">Roman Picisan</title></programme>
+<programme start="20231127103000 +0000" stop="20231127114500 +0000" channel="RCTIHD.id"><title lang="en">Cahaya Cinta Azzura</title></programme>
+<programme start="20231127114500 +0000" stop="20231127130000 +0000" channel="RCTIHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231127130000 +0000" stop="20231127143000 +0000" channel="RCTIHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231127143000 +0000" stop="20231127161500 +0000" channel="RCTIHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231127161500 +0000" stop="20231127181500 +0000" channel="RCTIHD.id"><title lang="en">Calon Manten Coming Soon</title></programme>
+<programme start="20231127181500 +0000" stop="20231127190000 +0000" channel="RCTIHD.id"><title lang="en">Kejar Daku Kau Kutendang</title></programme>
+<programme start="20231127190000 +0000" stop="20231127200000 +0000" channel="RCTIHD.id"><title lang="en">Kejar Daku Kau Kutendang</title></programme>
+<programme start="20231127200000 +0000" stop="20231127203000 +0000" channel="RCTIHD.id"><title lang="en">Jodoh Lewat Lamaran</title></programme>
+<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="RCTIHD.id"><title lang="en">Penyegaran Rohani Budha</title></programme>
+<programme start="20231127210000 +0000" stop="20231127223000 +0000" channel="RCTIHD.id"><title lang="en">Seputar iNews Pagi (L)</title></programme>
+<programme start="20231127223000 +0000" stop="20231127231500 +0000" channel="RCTIHD.id"><title lang="en">Sergap</title></programme>
+<programme start="20231127231500 +0000" stop="20231128010000 +0000" channel="RCTIHD.id"><title lang="en">Go Spot</title></programme>
+<programme start="20231128010000 +0000" stop="20231128023000 +0000" channel="RCTIHD.id"><title lang="en">Trending Banget Loh (TBL)</title></programme>
+<programme start="20231128023000 +0000" stop="20231128030000 +0000" channel="RCTIHD.id"><title lang="en">Seputar iNews Siang (L)</title></programme>
+<programme start="20231128030000 +0000" stop="20231128044500 +0000" channel="RCTIHD.id"><title lang="en">Silet</title></programme>
+<programme start="20231128044500 +0000" stop="20231128080000 +0000" channel="RCTIHD.id"><title lang="en">Si Doel Anak Sekolahan S6</title></programme>
+<programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="RCTIHD.id"><title lang="en">Bus Jutawan</title></programme>
+<programme start="20231128090000 +0000" stop="20231128103000 +0000" channel="RCTIHD.id"><title lang="en">Roman Picisan</title></programme>
+<programme start="20231128103000 +0000" stop="20231128114500 +0000" channel="RCTIHD.id"><title lang="en">Cahaya Cinta Azzura</title></programme>
+<programme start="20231128114500 +0000" stop="20231128130000 +0000" channel="RCTIHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231128130000 +0000" stop="20231128143000 +0000" channel="RCTIHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231128143000 +0000" stop="20231128161500 +0000" channel="RCTIHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231128161500 +0000" stop="20231128181500 +0000" channel="RCTIHD.id"><title lang="en">Awas Papa Galak!</title></programme>
+<programme start="20231126182500 +0000" stop="20231126194500 +0000" channel="SCTVHD.id"><title lang="en">Pacarku Anak Geng Motor</title></programme>
+<programme start="20231126194500 +0000" stop="20231126210000 +0000" channel="SCTVHD.id"><title lang="en">I Left My Love In Kebon Jeruk</title></programme>
+<programme start="20231126210000 +0000" stop="20231126212700 +0000" channel="SCTVHD.id"><title lang="en">Indahnya Kebersamaan</title></programme>
+<programme start="20231126212700 +0000" stop="20231126225700 +0000" channel="SCTVHD.id"><title lang="en">Liputan 6 Pagi</title></programme>
+<programme start="20231126225700 +0000" stop="20231127000000 +0000" channel="SCTVHD.id"><title lang="en">Hot Shot</title></programme>
+<programme start="20231127000000 +0000" stop="20231127013200 +0000" channel="SCTVHD.id"><title lang="en">Kesetiaan Dibayar Duka</title></programme>
+<programme start="20231127013200 +0000" stop="20231127030400 +0000" channel="SCTVHD.id"><title lang="en">Aku Tidak Mau Hamil</title></programme>
+<programme start="20231127030400 +0000" stop="20231127050500 +0000" channel="SCTVHD.id"><title lang="en">Pesona Kulimu Mengalihkan...</title></programme>
+<programme start="20231127050500 +0000" stop="20231127054300 +0000" channel="SCTVHD.id"><title lang="en">Liputan 6 Siang</title></programme>
+<programme start="20231127054300 +0000" stop="20231127074500 +0000" channel="SCTVHD.id"><title lang="en">Cewek Ke 33 Bikin Jatuh Cinta</title></programme>
+<programme start="20231127074500 +0000" stop="20231127094300 +0000" channel="SCTVHD.id"><title lang="en">Tutorial Menaklukan Cewek...</title></programme>
+<programme start="20231127094300 +0000" stop="20231127111500 +0000" channel="SCTVHD.id"><title lang="en">Dia Yang Kau Pilih</title></programme>
+<programme start="20231127111500 +0000" stop="20231127125900 +0000" channel="SCTVHD.id"><title lang="en">Bidadari Surgamu</title></programme>
+<programme start="20231127125900 +0000" stop="20231127143000 +0000" channel="SCTVHD.id"><title lang="en">Takdir Cinta Yang Kupilih</title></programme>
+<programme start="20231127143000 +0000" stop="20231127162000 +0000" channel="SCTVHD.id"><title lang="en">Di Antara Dua Cinta</title></programme>
+<programme start="20231127162000 +0000" stop="20231127180900 +0000" channel="SCTVHD.id"><title lang="en">Aroma Cinta Semur Jengkol</title></programme>
+<programme start="20231127180900 +0000" stop="20231127184000 +0000" channel="SCTVHD.id"><title lang="en">Liputan 6 Malam</title></programme>
+<programme start="20231127184000 +0000" stop="20231127190900 +0000" channel="SCTVHD.id"><title lang="en">Solusi</title></programme>
+<programme start="20231127190900 +0000" stop="20231127193400 +0000" channel="SCTVHD.id"><title lang="en">Buser</title></programme>
+<programme start="20231127193400 +0000" stop="20231127210000 +0000" channel="SCTVHD.id"><title lang="en">Pacar Kiriman</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="SCTVHD.id"><title lang="en">Barakallah</title></programme>
+<programme start="20231127213000 +0000" stop="20231127230000 +0000" channel="SCTVHD.id"><title lang="en">Liputan 6 Pagi</title></programme>
+<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="SCTVHD.id"><title lang="en">Hot Shot</title></programme>
+<programme start="20231128000000 +0000" stop="20231128013000 +0000" channel="SCTVHD.id"><title lang="en">Jalan Taubat Perebut Suami</title></programme>
+<programme start="20231128013000 +0000" stop="20231128030000 +0000" channel="SCTVHD.id"><title lang="en">Agen ART Yang Kejam</title></programme>
+<programme start="20231128030000 +0000" stop="20231128050000 +0000" channel="SCTVHD.id"><title lang="en">Cinta Dodol Inilah Membuatku...</title></programme>
+<programme start="20231128050000 +0000" stop="20231128053000 +0000" channel="SCTVHD.id"><title lang="en">Liputan 6 Siang</title></programme>
+<programme start="20231128053000 +0000" stop="20231128073000 +0000" channel="SCTVHD.id"><title lang="en">Bridesmaid Curi Perhatian...</title></programme>
+<programme start="20231128073000 +0000" stop="20231128083000 +0000" channel="SCTVHD.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231128083000 +0000" stop="20231128110000 +0000" channel="SCTVHD.id"><title lang="en">Semifinal World Cup U17 (L)</title></programme>
+<programme start="20231128110000 +0000" stop="20231128120000 +0000" channel="SCTVHD.id"><title lang="en">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231128120000 +0000" stop="20231128141500 +0000" channel="SCTVHD.id"><title lang="en">Semifinal World Cup U17 (L)</title></programme>
+<programme start="20231128141500 +0000" stop="20231128160000 +0000" channel="SCTVHD.id"><title lang="en">Di Antara Dua Cinta</title></programme>
+<programme start="20231128160000 +0000" stop="20231128174500 +0000" channel="SCTVHD.id"><title lang="en">Jejak Misteri</title></programme>
+<programme start="20231126170000 +0000" stop="20231126180000 +0000" channel="Trans7HD.id"><title lang="en">Moto3 Qatar Valencia</title></programme>
+<programme start="20231126180000 +0000" stop="20231126190000 +0000" channel="Trans7HD.id"><title lang="en">Best Fishing</title></programme>
+<programme start="20231126190000 +0000" stop="20231126193000 +0000" channel="Trans7HD.id"><title lang="en">The Police</title></programme>
+<programme start="20231126193000 +0000" stop="20231126200000 +0000" channel="Trans7HD.id"><title lang="en">Rekonstruksi</title></programme>
+<programme start="20231126200000 +0000" stop="20231126204500 +0000" channel="Trans7HD.id"><title lang="en">Just For Laughs Gags</title></programme>
+<programme start="20231126204500 +0000" stop="20231126214500 +0000" channel="Trans7HD.id"><title lang="en">Imperfect The Series</title></programme>
+<programme start="20231126214500 +0000" stop="20231126223000 +0000" channel="Trans7HD.id"><title lang="en">Islampedia</title></programme>
+<programme start="20231126223000 +0000" stop="20231126234500 +0000" channel="Trans7HD.id"><title lang="en">Redaksi Pagi</title></programme>
+<programme start="20231126234500 +0000" stop="20231127004500 +0000" channel="Trans7HD.id"><title lang="en">Spotlite</title></programme>
+<programme start="20231127004500 +0000" stop="20231127013000 +0000" channel="Trans7HD.id"><title lang="en">Selebrita Pagi</title></programme>
+<programme start="20231127013000 +0000" stop="20231127023000 +0000" channel="Trans7HD.id"><title lang="en">FYP (For Your Pagi)</title></programme>
+<programme start="20231127023000 +0000" stop="20231127031500 +0000" channel="Trans7HD.id"><title lang="en">OMG</title></programme>
+<programme start="20231127031500 +0000" stop="20231127041500 +0000" channel="Trans7HD.id"><title lang="en">Trending</title></programme>
+<programme start="20231127041500 +0000" stop="20231127050000 +0000" channel="Trans7HD.id"><title lang="en">Enah Bikin Enak</title></programme>
+<programme start="20231127050000 +0000" stop="20231127054500 +0000" channel="Trans7HD.id"><title lang="en">Bocah Petualang</title></programme>
+<programme start="20231127054500 +0000" stop="20231127063000 +0000" channel="Trans7HD.id"><title lang="en">Si Otan</title></programme>
+<programme start="20231127063000 +0000" stop="20231127071500 +0000" channel="Trans7HD.id"><title lang="en">Indonesiaku</title></programme>
+<programme start="20231127071500 +0000" stop="20231127081500 +0000" channel="Trans7HD.id"><title lang="en">Redaksi</title></programme>
+<programme start="20231127081500 +0000" stop="20231127091500 +0000" channel="Trans7HD.id"><title lang="en">Jejak Si Gundul</title></programme>
+<programme start="20231127091500 +0000" stop="20231127101500 +0000" channel="Trans7HD.id"><title lang="en">Makan Receh</title></programme>
+<programme start="20231127101500 +0000" stop="20231127110000 +0000" channel="Trans7HD.id"><title lang="en">Selebrita Expose</title></programme>
+<programme start="20231127110000 +0000" stop="20231127120000 +0000" channel="Trans7HD.id"><title lang="en">On The Spot</title></programme>
+<programme start="20231127120000 +0000" stop="20231127124500 +0000" channel="Trans7HD.id"><title lang="en">Secret Story</title></programme>
+<programme start="20231127124500 +0000" stop="20231127133000 +0000" channel="Trans7HD.id"><title lang="en">POV (Pasti Obrolan Viral)</title></programme>
+<programme start="20231127133000 +0000" stop="20231127143000 +0000" channel="Trans7HD.id"><title lang="en">Arisan</title></programme>
+<programme start="20231127143000 +0000" stop="20231127154500 +0000" channel="Trans7HD.id"><title lang="en">Lapor Pak!</title></programme>
+<programme start="20231127154500 +0000" stop="20231127163000 +0000" channel="Trans7HD.id"><title lang="en">Krim Malam</title></programme>
+<programme start="20231127163000 +0000" stop="20231127170000 +0000" channel="Trans7HD.id"><title lang="en">Redaksi Malam</title></programme>
+<programme start="20231127170000 +0000" stop="20231127174500 +0000" channel="Trans7HD.id"><title lang="en">Sport7</title></programme>
+<programme start="20231127174500 +0000" stop="20231127183000 +0000" channel="Trans7HD.id"><title lang="en">Misteri Dunia</title></programme>
+<programme start="20231127183000 +0000" stop="20231127193000 +0000" channel="Trans7HD.id"><title lang="en">The Police</title></programme>
+<programme start="20231127193000 +0000" stop="20231127200000 +0000" channel="Trans7HD.id"><title lang="en">Rekonstruksi</title></programme>
+<programme start="20231127200000 +0000" stop="20231127204500 +0000" channel="Trans7HD.id"><title lang="en">Just For Laughs Gags</title></programme>
+<programme start="20231127204500 +0000" stop="20231127214500 +0000" channel="Trans7HD.id"><title lang="en">Imperfect The Series</title></programme>
+<programme start="20231127214500 +0000" stop="20231127223000 +0000" channel="Trans7HD.id"><title lang="en">Islampedia</title></programme>
+<programme start="20231127223000 +0000" stop="20231127234500 +0000" channel="Trans7HD.id"><title lang="en">Redaksi Pagi</title></programme>
+<programme start="20231127234500 +0000" stop="20231128004500 +0000" channel="Trans7HD.id"><title lang="en">Spotlite</title></programme>
+<programme start="20231128004500 +0000" stop="20231128013000 +0000" channel="Trans7HD.id"><title lang="en">Selebrita Pagi</title></programme>
+<programme start="20231128013000 +0000" stop="20231128023000 +0000" channel="Trans7HD.id"><title lang="en">FYP (For Your Pagi)</title></programme>
+<programme start="20231128023000 +0000" stop="20231128031500 +0000" channel="Trans7HD.id"><title lang="en">OMG</title></programme>
+<programme start="20231128031500 +0000" stop="20231128041500 +0000" channel="Trans7HD.id"><title lang="en">Trending</title></programme>
+<programme start="20231128041500 +0000" stop="20231128050000 +0000" channel="Trans7HD.id"><title lang="en">Enah Bikin Enak</title></programme>
+<programme start="20231128050000 +0000" stop="20231128054500 +0000" channel="Trans7HD.id"><title lang="en">Bocah Petualang</title></programme>
+<programme start="20231128054500 +0000" stop="20231128063000 +0000" channel="Trans7HD.id"><title lang="en">Si Otan</title></programme>
+<programme start="20231128063000 +0000" stop="20231128071500 +0000" channel="Trans7HD.id"><title lang="en">Jejak Petualang</title></programme>
+<programme start="20231128071500 +0000" stop="20231128081500 +0000" channel="Trans7HD.id"><title lang="en">Redaksi</title></programme>
+<programme start="20231128081500 +0000" stop="20231128091500 +0000" channel="Trans7HD.id"><title lang="en">Jejak Si Gundul</title></programme>
+<programme start="20231128091500 +0000" stop="20231128101500 +0000" channel="Trans7HD.id"><title lang="en">Makan Receh</title></programme>
+<programme start="20231128101500 +0000" stop="20231128110000 +0000" channel="Trans7HD.id"><title lang="en">Selebrita Expose</title></programme>
+<programme start="20231128110000 +0000" stop="20231128120000 +0000" channel="Trans7HD.id"><title lang="en">On The Spot</title></programme>
+<programme start="20231128120000 +0000" stop="20231128124500 +0000" channel="Trans7HD.id"><title lang="en">Secret Story</title></programme>
+<programme start="20231128124500 +0000" stop="20231128133000 +0000" channel="Trans7HD.id"><title lang="en">POV (Pasti Obrolan Viral)</title></programme>
+<programme start="20231128133000 +0000" stop="20231128143000 +0000" channel="Trans7HD.id"><title lang="en">Arisan</title></programme>
+<programme start="20231128143000 +0000" stop="20231128154500 +0000" channel="Trans7HD.id"><title lang="en">Lapor Pak!</title></programme>
+<programme start="20231128154500 +0000" stop="20231128163000 +0000" channel="Trans7HD.id"><title lang="en">Krim Malam</title></programme>
+<programme start="20231128163000 +0000" stop="20231128170000 +0000" channel="Trans7HD.id"><title lang="en">Redaksi Malam</title></programme>
+<programme start="20231126183000 +0000" stop="20231126220000 +0000" channel="TransTVHD.id"><title lang="en">CNN Tech News</title></programme>
+<programme start="20231126220000 +0000" stop="20231126233000 +0000" channel="TransTVHD.id"><title lang="en">Islam Itu Indah</title></programme>
+<programme start="20231126233000 +0000" stop="20231127003000 +0000" channel="TransTVHD.id"><title lang="en">Insert Pagi (L)</title></programme>
+<programme start="20231127003000 +0000" stop="20231127013000 +0000" channel="TransTVHD.id"><title lang="en">CNN Indonesia Good Morning</title></programme>
+<programme start="20231127013000 +0000" stop="20231127030000 +0000" channel="TransTVHD.id"><title lang="en">Pagi-Pagi Ambyar</title></programme>
+<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="TransTVHD.id"><title lang="en">Siapa Mau Jadi Juara</title></programme>
+<programme start="20231127040000 +0000" stop="20231127053000 +0000" channel="TransTVHD.id"><title lang="en">Insert Siang</title></programme>
+<programme start="20231127053000 +0000" stop="20231127070000 +0000" channel="TransTVHD.id"><title lang="en">Brownis (Obrowlan Manis)</title></programme>
+<programme start="20231127070000 +0000" stop="20231127080000 +0000" channel="TransTVHD.id"><title lang="en">Rumpi: No Secret</title></programme>
+<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="TransTVHD.id"><title lang="en">Insert Today</title></programme>
+<programme start="20231127090000 +0000" stop="20231127093000 +0000" channel="TransTVHD.id"><title lang="en">CNN Indonesia News Update</title></programme>
+<programme start="20231127093000 +0000" stop="20231127103000 +0000" channel="TransTVHD.id"><title lang="en">Dream Box Indonesia</title></programme>
+<programme start="20231127103000 +0000" stop="20231127113000 +0000" channel="TransTVHD.id"><title lang="en">Bikin Laper</title></programme>
+<programme start="20231127113000 +0000" stop="20231127123000 +0000" channel="TransTVHD.id"><title lang="en">Insert Story</title></programme>
+<programme start="20231127123000 +0000" stop="20231127131500 +0000" channel="TransTVHD.id"><title lang="en">Dunia Punya Cerita</title></programme>
+<programme start="20231127131500 +0000" stop="20231127140000 +0000" channel="TransTVHD.id"><title lang="en">Tanpa Batas</title></programme>
+<programme start="20231127140000 +0000" stop="20231127160000 +0000" channel="TransTVHD.id"><title lang="en">Bioskop Trans TV</title></programme>
+<programme start="20231127160000 +0000" stop="20231127180000 +0000" channel="TransTVHD.id"><title lang="en">Bioskop Trans TV</title></programme>
+<programme start="20231127180000 +0000" stop="20231127220000 +0000" channel="TransTVHD.id"><title lang="en">CNN Indonesia Connected</title></programme>
+<programme start="20231127220000 +0000" stop="20231127233000 +0000" channel="TransTVHD.id"><title lang="en">Islam Itu Indah</title></programme>
+<programme start="20231127233000 +0000" stop="20231128003000 +0000" channel="TransTVHD.id"><title lang="en">Insert Pagi (L)</title></programme>
+<programme start="20231128003000 +0000" stop="20231128013000 +0000" channel="TransTVHD.id"><title lang="en">CNN Indonesia Good Morning</title></programme>
+<programme start="20231128013000 +0000" stop="20231128030000 +0000" channel="TransTVHD.id"><title lang="en">Pagi-Pagi Ambyar</title></programme>
+<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="TransTVHD.id"><title lang="en">Siapa Mau Jadi Juara</title></programme>
+<programme start="20231128040000 +0000" stop="20231128053000 +0000" channel="TransTVHD.id"><title lang="en">Insert Siang</title></programme>
+<programme start="20231128053000 +0000" stop="20231128070000 +0000" channel="TransTVHD.id"><title lang="en">Brownis (Obrowlan Manis)</title></programme>
+<programme start="20231128070000 +0000" stop="20231128080000 +0000" channel="TransTVHD.id"><title lang="en">Rumpi: No Secret</title></programme>
+<programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="TransTVHD.id"><title lang="en">Insert Today</title></programme>
+<programme start="20231128090000 +0000" stop="20231128093000 +0000" channel="TransTVHD.id"><title lang="en">CNN Indonesia News Update</title></programme>
+<programme start="20231128093000 +0000" stop="20231128103000 +0000" channel="TransTVHD.id"><title lang="en">Dream Box Indonesia</title></programme>
+<programme start="20231128103000 +0000" stop="20231128113000 +0000" channel="TransTVHD.id"><title lang="en">Bikin Laper</title></programme>
+<programme start="20231128113000 +0000" stop="20231128123000 +0000" channel="TransTVHD.id"><title lang="en">Insert Story</title></programme>
+<programme start="20231128123000 +0000" stop="20231128131500 +0000" channel="TransTVHD.id"><title lang="en">Dunia Punya Cerita</title></programme>
+<programme start="20231128131500 +0000" stop="20231128140000 +0000" channel="TransTVHD.id"><title lang="en">Tanpa Batas</title></programme>
+<programme start="20231128140000 +0000" stop="20231128160000 +0000" channel="TransTVHD.id"><title lang="en">Bioskop Trans TV</title></programme>
+<programme start="20231128160000 +0000" stop="20231128180000 +0000" channel="TransTVHD.id"><title lang="en">Bioskop Trans TV</title></programme>
+<programme start="20231126170000 +0000" stop="20231126173000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Malam</title></programme>
+<programme start="20231126173000 +0000" stop="20231126183000 +0000" channel="TVRIHD.id"><title lang="en">Kongkow On The Air</title></programme>
+<programme start="20231126183000 +0000" stop="20231126190000 +0000" channel="TVRIHD.id"><title lang="en">Flashback</title></programme>
+<programme start="20231126190000 +0000" stop="20231126193000 +0000" channel="TVRIHD.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20231126193000 +0000" stop="20231126203000 +0000" channel="TVRIHD.id"><title lang="en">SOS Show</title></programme>
+<programme start="20231126203000 +0000" stop="20231126210000 +0000" channel="TVRIHD.id"><title lang="en">The Richness Of Creations</title></programme>
+<programme start="20231126210000 +0000" stop="20231126213000 +0000" channel="TVRIHD.id"><title lang="en">Jejak Islam</title></programme>
+<programme start="20231126213000 +0000" stop="20231126230000 +0000" channel="TVRIHD.id"><title lang="en">Serambi Islami</title></programme>
+<programme start="20231126230000 +0000" stop="20231127000000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Pagi</title></programme>
+<programme start="20231127000000 +0000" stop="20231127010000 +0000" channel="TVRIHD.id"><title lang="en">Jendela Negeri</title></programme>
+<programme start="20231127010000 +0000" stop="20231127013000 +0000" channel="TVRIHD.id"><title lang="en">Benjamin And The Elephant</title></programme>
+<programme start="20231127013000 +0000" stop="20231127020000 +0000" channel="TVRIHD.id"><title lang="en">Mademoiselle Zazie</title></programme>
+<programme start="20231127020000 +0000" stop="20231127020300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231127020300 +0000" stop="20231127023000 +0000" channel="TVRIHD.id"><title lang="en">Mari Menggambar</title></programme>
+<programme start="20231127023000 +0000" stop="20231127030000 +0000" channel="TVRIHD.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20231127030000 +0000" stop="20231127030300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231127030300 +0000" stop="20231127033000 +0000" channel="TVRIHD.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20231127033000 +0000" stop="20231127040000 +0000" channel="TVRIHD.id"><title lang="en">Dapur Devina</title></programme>
+<programme start="20231127040000 +0000" stop="20231127040300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231127040300 +0000" stop="20231127050000 +0000" channel="TVRIHD.id"><title lang="en">Bersama Perempuan</title></programme>
+<programme start="20231127050000 +0000" stop="20231127060000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Siang</title></programme>
+<programme start="20231127060000 +0000" stop="20231127063000 +0000" channel="TVRIHD.id"><title lang="en">Saba Desa</title></programme>
+<programme start="20231127063000 +0000" stop="20231127070000 +0000" channel="TVRIHD.id"><title lang="en">Tekno Tani</title></programme>
+<programme start="20231127070000 +0000" stop="20231127070300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231127070300 +0000" stop="20231127073000 +0000" channel="TVRIHD.id"><title lang="en">Pesona Indonesia</title></programme>
+<programme start="20231127073000 +0000" stop="20231127080000 +0000" channel="TVRIHD.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20231127080000 +0000" stop="20231127080300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231127080300 +0000" stop="20231127083000 +0000" channel="TVRIHD.id"><title lang="en">Mimbar Agama Katolik</title></programme>
+<programme start="20231127083000 +0000" stop="20231127090000 +0000" channel="TVRIHD.id"><title lang="en">Tapal Batas</title></programme>
+<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="TVRIHD.id"><title lang="en">Pilihan Rakyat</title></programme>
+<programme start="20231127100000 +0000" stop="20231127110000 +0000" channel="TVRIHD.id"><title lang="en">Sketsa Pemilu</title></programme>
+<programme start="20231127110000 +0000" stop="20231127120000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Petang</title></programme>
+<programme start="20231127120000 +0000" stop="20231127130000 +0000" channel="TVRIHD.id"><title lang="en">Peta Politik Nasional</title></programme>
+<programme start="20231127130000 +0000" stop="20231127133000 +0000" channel="TVRIHD.id"><title lang="en">Bangga Buatan Indonesia</title></programme>
+<programme start="20231127133000 +0000" stop="20231127140000 +0000" channel="TVRIHD.id"><title lang="en">Feature LKBN Antara</title></programme>
+<programme start="20231127140000 +0000" stop="20231127143000 +0000" channel="TVRIHD.id"><title lang="en">Dunia Dalam Berita</title></programme>
+<programme start="20231127143000 +0000" stop="20231127153000 +0000" channel="TVRIHD.id"><title lang="en">Demi Konten</title></programme>
+<programme start="20231127153000 +0000" stop="20231127163000 +0000" channel="TVRIHD.id"><title lang="en">Kenangan Masa</title></programme>
+<programme start="20231127163000 +0000" stop="20231127170000 +0000" channel="TVRIHD.id"><title lang="en">Monitor Olahraga</title></programme>
+<programme start="20231127170000 +0000" stop="20231127173000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Malam</title></programme>
+<programme start="20231127173000 +0000" stop="20231127183000 +0000" channel="TVRIHD.id"><title lang="en">Kongkow On The Air</title></programme>
+<programme start="20231127183000 +0000" stop="20231127190000 +0000" channel="TVRIHD.id"><title lang="en">Flashback</title></programme>
+<programme start="20231127190000 +0000" stop="20231127193000 +0000" channel="TVRIHD.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20231127193000 +0000" stop="20231127203000 +0000" channel="TVRIHD.id"><title lang="en">PT. Bule</title></programme>
+<programme start="20231127203000 +0000" stop="20231127210000 +0000" channel="TVRIHD.id"><title lang="en">The Richness Of Creations</title></programme>
+<programme start="20231127210000 +0000" stop="20231127213000 +0000" channel="TVRIHD.id"><title lang="en">Jejak Islam</title></programme>
+<programme start="20231127213000 +0000" stop="20231127230000 +0000" channel="TVRIHD.id"><title lang="en">Serambi Islami</title></programme>
+<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Pagi</title></programme>
+<programme start="20231128000000 +0000" stop="20231128010000 +0000" channel="TVRIHD.id"><title lang="en">Jendela Negeri</title></programme>
+<programme start="20231128010000 +0000" stop="20231128013000 +0000" channel="TVRIHD.id"><title lang="en">Benjamin And The Elephant</title></programme>
+<programme start="20231128013000 +0000" stop="20231128020000 +0000" channel="TVRIHD.id"><title lang="en">Mademoiselle Zazie</title></programme>
+<programme start="20231128020000 +0000" stop="20231128020300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231128020300 +0000" stop="20231128023000 +0000" channel="TVRIHD.id"><title lang="en">Mari Menggambar</title></programme>
+<programme start="20231128023000 +0000" stop="20231128030000 +0000" channel="TVRIHD.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20231128030000 +0000" stop="20231128030300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231128030300 +0000" stop="20231128033000 +0000" channel="TVRIHD.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20231128033000 +0000" stop="20231128040000 +0000" channel="TVRIHD.id"><title lang="en">Dapur Devina</title></programme>
+<programme start="20231128040000 +0000" stop="20231128040300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231128040300 +0000" stop="20231128050000 +0000" channel="TVRIHD.id"><title lang="en">Bersama Perempuan</title></programme>
+<programme start="20231128050000 +0000" stop="20231128060000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Siang</title></programme>
+<programme start="20231128060000 +0000" stop="20231128063000 +0000" channel="TVRIHD.id"><title lang="en">Saba Desa</title></programme>
+<programme start="20231128063000 +0000" stop="20231128070000 +0000" channel="TVRIHD.id"><title lang="en">Bertani Itu Keren</title></programme>
+<programme start="20231128070000 +0000" stop="20231128070300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231128070300 +0000" stop="20231128073000 +0000" channel="TVRIHD.id"><title lang="en">Pesona Indonesia</title></programme>
+<programme start="20231128073000 +0000" stop="20231128080000 +0000" channel="TVRIHD.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20231128080000 +0000" stop="20231128080300 +0000" channel="TVRIHD.id"><title lang="en">Info Terkini</title></programme>
+<programme start="20231128080300 +0000" stop="20231128083000 +0000" channel="TVRIHD.id"><title lang="en">Mimbar Agama Kristen Protestan</title></programme>
+<programme start="20231128083000 +0000" stop="20231128090000 +0000" channel="TVRIHD.id"><title lang="en">Tapal Batas</title></programme>
+<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="TVRIHD.id"><title lang="en">Pilihan Rakyat</title></programme>
+<programme start="20231128100000 +0000" stop="20231128110000 +0000" channel="TVRIHD.id"><title lang="en">Sketsa Pemilu</title></programme>
+<programme start="20231128110000 +0000" stop="20231128120000 +0000" channel="TVRIHD.id"><title lang="en">Klik Indonesia Petang</title></programme>
+<programme start="20231128120000 +0000" stop="20231128130000 +0000" channel="TVRIHD.id"><title lang="en">Indonesia Bicara</title></programme>
+<programme start="20231128130000 +0000" stop="20231128140000 +0000" channel="TVRIHD.id"><title lang="en">Warung Pengkolan</title></programme>
+<programme start="20231128140000 +0000" stop="20231128143000 +0000" channel="TVRIHD.id"><title lang="en">Dunia Dalam Berita</title></programme>
+<programme start="20231128143000 +0000" stop="20231128153000 +0000" channel="TVRIHD.id"><title lang="en">Bikin Asik Aja</title></programme>
+<programme start="20231128153000 +0000" stop="20231128163000 +0000" channel="TVRIHD.id"><title lang="en">Jazz Corner</title></programme>
+<programme start="20231128163000 +0000" stop="20231128170000 +0000" channel="TVRIHD.id"><title lang="en">Monitor Olahraga</title></programme>
+<programme start="20231126173000 +0000" stop="20231126183000 +0000" channel="VisionPrimeHD.id"><title lang="en">Inside</title></programme>
+<programme start="20231126183000 +0000" stop="20231126200000 +0000" channel="VisionPrimeHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231126200000 +0000" stop="20231126210000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231126210000 +0000" stop="20231126220000 +0000" channel="VisionPrimeHD.id"><title lang="en">Barista</title></programme>
+<programme start="20231126220000 +0000" stop="20231126223000 +0000" channel="VisionPrimeHD.id"><title lang="en">Kalaparan</title></programme>
+<programme start="20231126223000 +0000" stop="20231126233000 +0000" channel="VisionPrimeHD.id"><title lang="en">Makan Bareng Artis</title></programme>
+<programme start="20231126233000 +0000" stop="20231127010000 +0000" channel="VisionPrimeHD.id"><title lang="en">TBL (Trending Banget Loh)</title></programme>
+<programme start="20231127010000 +0000" stop="20231127020000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="VisionPrimeHD.id"><title lang="en">Barista</title></programme>
+<programme start="20231127040000 +0000" stop="20231127050000 +0000" channel="VisionPrimeHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231127050000 +0000" stop="20231127060000 +0000" channel="VisionPrimeHD.id"><title lang="en">Mahligai Untuk Cinta</title></programme>
+<programme start="20231127060000 +0000" stop="20231127063000 +0000" channel="VisionPrimeHD.id"><title lang="en">OMG</title></programme>
+<programme start="20231127063000 +0000" stop="20231127080000 +0000" channel="VisionPrimeHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="VisionPrimeHD.id"><title lang="en">Makan Bareng Artis</title></programme>
+<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="VisionPrimeHD.id"><title lang="en">New Top Files</title></programme>
+<programme start="20231127100000 +0000" stop="20231127103000 +0000" channel="VisionPrimeHD.id"><title lang="en">OMG</title></programme>
+<programme start="20231127103000 +0000" stop="20231127123000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231127123000 +0000" stop="20231127133000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231127133000 +0000" stop="20231127143000 +0000" channel="VisionPrimeHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231127143000 +0000" stop="20231127150000 +0000" channel="VisionPrimeHD.id"><title lang="en">Bad Parenting: The Confession</title></programme>
+<programme start="20231127150000 +0000" stop="20231127160000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cahaya Cinta Azzura</title></programme>
+<programme start="20231127160000 +0000" stop="20231127173000 +0000" channel="VisionPrimeHD.id"><title lang="en">Silet</title></programme>
+<programme start="20231127173000 +0000" stop="20231127183000 +0000" channel="VisionPrimeHD.id"><title lang="en">Inside</title></programme>
+<programme start="20231127183000 +0000" stop="20231127200000 +0000" channel="VisionPrimeHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231127200000 +0000" stop="20231127210000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231127210000 +0000" stop="20231127220000 +0000" channel="VisionPrimeHD.id"><title lang="en">Barista</title></programme>
+<programme start="20231127220000 +0000" stop="20231127223000 +0000" channel="VisionPrimeHD.id"><title lang="en">Kalaparan</title></programme>
+<programme start="20231127223000 +0000" stop="20231127233000 +0000" channel="VisionPrimeHD.id"><title lang="en">Makan Bareng Artis</title></programme>
+<programme start="20231127233000 +0000" stop="20231128010000 +0000" channel="VisionPrimeHD.id"><title lang="en">TBL (Trending Banget Loh)</title></programme>
+<programme start="20231128010000 +0000" stop="20231128020000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="VisionPrimeHD.id"><title lang="en">Go Spot</title></programme>
+<programme start="20231128040000 +0000" stop="20231128050000 +0000" channel="VisionPrimeHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231128050000 +0000" stop="20231128060000 +0000" channel="VisionPrimeHD.id"><title lang="en">Mahligai Untuk Cinta</title></programme>
+<programme start="20231128060000 +0000" stop="20231128063000 +0000" channel="VisionPrimeHD.id"><title lang="en">OMG</title></programme>
+<programme start="20231128063000 +0000" stop="20231128080000 +0000" channel="VisionPrimeHD.id"><title lang="en">Super Deal Indonesia</title></programme>
+<programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="VisionPrimeHD.id"><title lang="en">Makan Bareng Artis</title></programme>
+<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="VisionPrimeHD.id"><title lang="en">New Top Files</title></programme>
+<programme start="20231128100000 +0000" stop="20231128103000 +0000" channel="VisionPrimeHD.id"><title lang="en">OMG</title></programme>
+<programme start="20231128103000 +0000" stop="20231128123000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cinta Tanpa Karena</title></programme>
+<programme start="20231128123000 +0000" stop="20231128133000 +0000" channel="VisionPrimeHD.id"><title lang="en">Jangan Bercerai Bunda</title></programme>
+<programme start="20231128133000 +0000" stop="20231128143000 +0000" channel="VisionPrimeHD.id"><title lang="en">Ikatan Cinta</title></programme>
+<programme start="20231128143000 +0000" stop="20231128150000 +0000" channel="VisionPrimeHD.id"><title lang="en">Bad Parenting: The Confession</title></programme>
+<programme start="20231128150000 +0000" stop="20231128160000 +0000" channel="VisionPrimeHD.id"><title lang="en">Cahaya Cinta Azzura</title></programme>
+<programme start="20231128160000 +0000" stop="20231128173000 +0000" channel="VisionPrimeHD.id"><title lang="en">Silet</title></programme>
+<programme start="20231126173000 +0000" stop="20231126200000 +0000" channel="ZeeBioskop.id"><title lang="en">Phobia</title><desc lang="en">Mehak, a talented young woman, becomes a victim of agoraphobia. Later, she comes across something that makes her believe that she is being haunted by a spirit.</desc></programme>
+<programme start="20231126200000 +0000" stop="20231126230000 +0000" channel="ZeeBioskop.id"><title lang="en">Good Newwz</title><desc lang="en">Two married couples are unsuccessful in conceiving and seek medical treatment. However, they end up in a complicated situation after their doctor makes a blunder.</desc></programme>
+<programme start="20231126230000 +0000" stop="20231127020000 +0000" channel="ZeeBioskop.id"><title lang="en">Cirkus</title><desc lang="en">Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.</desc></programme>
+<programme start="20231127020000 +0000" stop="20231127030000 +0000" channel="ZeeBioskop.id"><title lang="en">Gangaa S2</title><desc lang="en">This is the story of a young child widow named Gangaa, who loses her husband and her father on her wedding day itself. Gangaa&apos;s father and her husband are killed in a riot on the bank of river Ganges in Varanasi.</desc></programme>
+<programme start="20231127030000 +0000" stop="20231127040000 +0000" channel="ZeeBioskop.id"><title lang="en">Kundali Bhagya</title><desc lang="en">The story of Preeta and Shristhi, sisters whose dying father reveals the truth that their mother is alive and living in Mumbai. Preeta and Shristhi&apos;s mother is Sarla Arora and they both are long lost sisters of Pragya.</desc></programme>
+<programme start="20231127040000 +0000" stop="20231127050000 +0000" channel="ZeeBioskop.id"><title lang="en">Ishq Subhan Allah S2</title><desc lang="en">Life takes a big turn for them when Kabir and Zara, two staunch followers of Islam who have completely opposite principles and beliefs, cross paths with each other.</desc></programme>
+<programme start="20231127050000 +0000" stop="20231127053000 +0000" channel="ZeeBioskop.id"><title lang="en">Khana Khazana, Ep 86</title><desc lang="en">Indian cuisine show hosted by Indian chef, Sanjeev Kapoor. This show is mainly based on Indian cuisine.</desc><episode-num system="xmltv_ns">0.85.0/1</episode-num><episode-num system="onscreen">S01E86</episode-num></programme>
+<programme start="20231127053000 +0000" stop="20231127080000 +0000" channel="ZeeBioskop.id"><title lang="en">Cirkus</title><desc lang="en">Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.</desc></programme>
+<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="ZeeBioskop.id"><title lang="en">Gangaa S2, Ep 74</title><desc lang="en">This is the story of a young child widow named Gangaa, who loses her husband and her father on her wedding day itself. Gangaa&apos;s father and her husband are killed in a riot on the bank of river Ganges in Varanasi.</desc><episode-num system="xmltv_ns">1.73.0/1</episode-num><episode-num system="onscreen">S02E74</episode-num></programme>
+<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="ZeeBioskop.id"><title lang="en">Kundali Bhagya, Ep 79</title><desc lang="en">The story of Preeta and Shristhi, sisters whose dying father reveals the truth that their mother is alive and living in Mumbai. Preeta and Shristhi&apos;s mother is Sarla Arora and they both are long lost sisters of Pragya.</desc><episode-num system="xmltv_ns">0.78.0/1</episode-num><episode-num system="onscreen">S01E79</episode-num></programme>
+<programme start="20231127100000 +0000" stop="20231127110000 +0000" channel="ZeeBioskop.id"><title lang="en">Ishq Subhan Allah S2, Ep 20</title><desc lang="en">Life takes a big turn for them when Kabir and Zara, two staunch followers of Islam who have completely opposite principles and beliefs, cross paths with each other.</desc><episode-num system="xmltv_ns">1.19.0/1</episode-num><episode-num system="onscreen">S02E20</episode-num></programme>
+<programme start="20231127110000 +0000" stop="20231127133000 +0000" channel="ZeeBioskop.id"><title lang="en">Rahasya</title><desc lang="en">A doctor accused of killing his own daughter, but he protests his innocence while all evidence points towards him. As the sleuth seeks these answers, he uncovers a vicious web of adultery and hidden family secrets!</desc></programme>
+<programme start="20231127133000 +0000" stop="20231127163000 +0000" channel="ZeeBioskop.id"><title lang="en">Aaj Ka Arjun</title><desc lang="en">Bhupendra and Lakhan are oppressive landlords in a small village. Lakhan gets Laxmi pregnant and casts her aside. Her brother Bheema is imprisoned and when he is released from prison, everything is not the same anymore.</desc></programme>
+<programme start="20231127163000 +0000" stop="20231127193000 +0000" channel="ZeeBioskop.id"><title lang="en">Baar Baar Dekho</title><desc lang="en">A time-traveling mathematical genius, Jai Verma, realizes the value of his present. When he gets a chance to go back in time, he intends to rectify some of the mistakes he had made in the past.</desc></programme>
+<programme start="20231127193000 +0000" stop="20231127200000 +0000" channel="ZeeBioskop.id"><title lang="en">Khana Khazana, Ep 86</title><desc lang="en">Indian cuisine show hosted by Indian chef, Sanjeev Kapoor. This show is mainly based on Indian cuisine.</desc><episode-num system="xmltv_ns">0.85.0/1</episode-num><episode-num system="onscreen">S01E86</episode-num></programme>
+<programme start="20231127200000 +0000" stop="20231127230000 +0000" channel="ZeeBioskop.id"><title lang="en">Aaj Ka Arjun</title><desc lang="en">Bhupendra and Lakhan are oppressive landlords in a small village. Lakhan gets Laxmi pregnant and casts her aside. Her brother Bheema is imprisoned and when he is released from prison, everything is not the same anymore.</desc></programme>
+<programme start="20231127230000 +0000" stop="20231128020000 +0000" channel="ZeeBioskop.id"><title lang="en">Rahasya</title><desc lang="en">A doctor accused of killing his own daughter, but he protests his innocence while all evidence points towards him. As the sleuth seeks these answers, he uncovers a vicious web of adultery and hidden family secrets!</desc></programme>
+<programme start="20231128020000 +0000" stop="20231128030000 +0000" channel="ZeeBioskop.id"><title lang="en">Gangaa S2</title><desc lang="en">This is the story of a young child widow named Gangaa, who loses her husband and her father on her wedding day itself. Gangaa&apos;s father and her husband are killed in a riot on the bank of river Ganges in Varanasi.</desc></programme>
+<programme start="20231128030000 +0000" stop="20231128040000 +0000" channel="ZeeBioskop.id"><title lang="en">Kundali Bhagya</title><desc lang="en">The story of Preeta and Shristhi, sisters whose dying father reveals the truth that their mother is alive and living in Mumbai. Preeta and Shristhi&apos;s mother is Sarla Arora and they both are long lost sisters of Pragya.</desc></programme>
+<programme start="20231128040000 +0000" stop="20231128050000 +0000" channel="ZeeBioskop.id"><title lang="en">Ishq Subhan Allah S2</title><desc lang="en">Life takes a big turn for them when Kabir and Zara, two staunch followers of Islam who have completely opposite principles and beliefs, cross paths with each other.</desc></programme>
+<programme start="20231128050000 +0000" stop="20231128053000 +0000" channel="ZeeBioskop.id"><title lang="en">Khana Khazana, Ep 87</title><desc lang="en">Indian cuisine show hosted by Indian chef, Sanjeev Kapoor. This show is mainly based on Indian cuisine.</desc><episode-num system="xmltv_ns">0.86.0/1</episode-num><episode-num system="onscreen">S01E87</episode-num></programme>
+<programme start="20231128053000 +0000" stop="20231128080000 +0000" channel="ZeeBioskop.id"><title lang="en">Machine</title><desc lang="en">Sarah and Ransh share a common passion for car racing and often race together. When their mutual friend Aditya decides to propose to Sarah, he meets with a car crash and dies, leaving her depressed.</desc></programme>
+<programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="ZeeBioskop.id"><title lang="en">Gangaa S2, Ep 75</title><desc lang="en">This is the story of a young child widow named Gangaa, who loses her husband and her father on her wedding day itself. Gangaa&apos;s father and her husband are killed in a riot on the bank of river Ganges in Varanasi.</desc><episode-num system="xmltv_ns">1.74.0/1</episode-num><episode-num system="onscreen">S02E75</episode-num></programme>
+<programme start="20231128090000 +0000" stop="20231128100000 +0000" channel="ZeeBioskop.id"><title lang="en">Kundali Bhagya, Ep 80</title><desc lang="en">The story of Preeta and Shristhi, sisters whose dying father reveals the truth that their mother is alive and living in Mumbai. Preeta and Shristhi&apos;s mother is Sarla Arora and they both are long lost sisters of Pragya.</desc><episode-num system="xmltv_ns">0.79.0/1</episode-num><episode-num system="onscreen">S01E80</episode-num></programme>
+<programme start="20231128100000 +0000" stop="20231128110000 +0000" channel="ZeeBioskop.id"><title lang="en">Ishq Subhan Allah S2, Ep 21</title><desc lang="en">Life takes a big turn for them when Kabir and Zara, two staunch followers of Islam who have completely opposite principles and beliefs, cross paths with each other.</desc><episode-num system="xmltv_ns">1.20.0/1</episode-num><episode-num system="onscreen">S02E21</episode-num></programme>
+<programme start="20231128110000 +0000" stop="20231128133000 +0000" channel="ZeeBioskop.id"><title lang="en">Total Siyapaa</title><desc lang="en">Pakistani Aman likes Asha, an Indian based in London and goes to seek her parents&apos; permission to marry her. However, the visit turns hostile when they discover that he is a Pakistani.</desc></programme>
+<programme start="20231128133000 +0000" stop="20231128163000 +0000" channel="ZeeBioskop.id"><title lang="en">Kyun! Ho Gaya Na</title><desc lang="en">In this romantic comedy, the friendship that develops between Diya and Arjun and their opposing views on love and marriage are at the heart of this film.</desc></programme>
+<programme start="20231128163000 +0000" stop="20231128193000 +0000" channel="ZeeBioskop.id"><title lang="en">Cirkus</title><desc lang="en">Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.</desc></programme>
 </tv>
