@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231128">
+<channel id="128.unifi"><display-name lang="en">Dunia Sinema HD</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="113.unifi"><display-name lang="en">Salam HD</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="120.unifi"><display-name lang="en">DEGUP</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="116.unifi"><display-name lang="en">Sensasi</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="118.unifi"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
+<channel id="141.unifi"><display-name lang="en">Pesona HD</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="ANTVHD.id"><display-name>ANTV</display-name><url>https://mncvision.id</url></channel>
 <channel id="ArirangHD.id"><display-name>Arirang</display-name><url>https://mncvision.id</url></channel>
 <channel id="BBCNewsAsia"><display-name>BBC News Asia</display-name><url>https://mncvision.id</url></channel>
@@ -4533,4 +4539,1512 @@
 <programme start="20231201044500 +0000" stop="20231201050000 +0000" channel="ZooMooHD.id"><title lang="en">Leo: Wildlife Ranger S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
 <programme start="20231201050000 +0000" stop="20231201051500 +0000" channel="ZooMooHD.id"><title lang="en">Leo: Wildlife Ranger S1, Ep 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
 <programme start="20231201051500 +0000" stop="20231201053000 +0000" channel="ZooMooHD.id"><title lang="en">Leo: Wildlife Ranger S1, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+ <programme start="20231128120000 +0800" stop="20231128123000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep03</title>
+  <desc lang="en">Saksikan pelbagai maklumat serta inspirasi dalam dunia permotoran pada masa kini. Bersama pengacara, Azizul Ammar akan memandu uji kereta Honda Civic dan juga mengetahui kisah Fizan dan keretanya Suzuki Vitara.</desc>
+ </programme>
+ <programme start="20231128123000 +0800" stop="20231128130000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep03</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Fadhli Masoot.</desc>
+ </programme>
+ <programme start="20231128130000 +0800" stop="20231128140000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep24</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Fahimi Rahmat, Atalia, Dafi, Fauzi Nawawi dan Toko Kilat..</desc>
+ </programme>
+ <programme start="20231128140000 +0800" stop="20231128143000 +0800" channel="118.unifi">
+  <title lang="en">Rojak S7 Ep01</title>
+  <desc lang="en">Rojak adalah sebuah rancangan yang membawa pelbagai jenis informasi yang mendedahkan orang awam kepada benda yang mereka tidak biasanya akan cuba dari eksperimen sosial, D.I.Y. dan lain-lain lagi. Dihoskan oleh Leaism.</desc>
+ </programme>
+ <programme start="20231128143000 +0800" stop="20231128150000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep04</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghias ruang bilik kanak-kanak di sebuah rumah di Taman Bullion Mewah, Batu Caves..</desc>
+ </programme>
+ <programme start="20231128150000 +0800" stop="20231128153000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep04</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Dumpling Kari Ikan &amp; Lamb Shank Ragout untuk disajikan kepada penonton. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231128153000 +0800" stop="20231128160000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep06</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama Darren Teh Brand Manager CA4LA Malaysia. Akan berkenalan dengan pereka kasut kasual jenama Seru dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231128160000 +0800" stop="20231128163000 +0800" channel="118.unifi">
+  <title lang="en">1001 Resepi Periuk Nasi S9 Ep07</title>
+  <desc lang="en">Danny selaku pengacara dan tukang masak akan menyediakan pelbagai masakan dengan hanya menggunakan Periuk Nasi sebagai alat masakan. Dalam episod ini Danny akan menyediakan Lempeng Epal Rangup &amp; Roti Gulung Berinti! Tak percaya jom saksikan!</desc>
+ </programme>
+ <programme start="20231128163000 +0800" stop="20231128170000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep06</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Pak Tam Laksa Johor, DHomecooked dan The Siblings Moks Char Kuey Teow.</desc>
+ </programme>
+ <programme start="20231128170000 +0800" stop="20231128173000 +0800" channel="118.unifi">
+  <title lang="en">Bakar S13 Ep03</title>
+  <desc lang="en">Episod kali ini, Chef Kim akan berkongsi dengan penonton, cara membuat Pai Ayam &amp; Biscotti.</desc>
+ </programme>
+ <programme start="20231128173000 +0800" stop="20231128180000 +0800" channel="118.unifi">
+  <title lang="en">Kembara S2 Ep04</title>
+  <desc lang="en">Pengembaraan pengacara bersama Artis Jemputan, Ollie (Jemput Dengar) salah sebuah tempat perkhemahan Sumpitan Glamping, Lenggong, Perak. Pelbagai kisah artis dan aktiviti yang dilakukan bersama untuk dapat anda rasai bersama.</desc>
+ </programme>
+ <programme start="20231128180000 +0800" stop="20231128190000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep24</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Fahimi Rahmat, Atalia, Dafi, Fauzi Nawawi dan Toko Kilat..</desc>
+ </programme>
+ <programme start="20231128190000 +0800" stop="20231128193000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep05</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di sekitar daerah Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231128193000 +0800" stop="20231128200000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep06</title>
+  <desc lang="en">Azizul Ammar akan memandu uji keretaHonda City Hatchback dan juga mengetahui kisah Zaidi @ Pita dan keretanya Volkswagen Kombi Early Bay.</desc>
+ </programme>
+ <programme start="20231128200000 +0800" stop="20231128203000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep02</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Riesha Aslan.</desc>
+ </programme>
+ <programme start="20231128203000 +0800" stop="20231128210000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep08</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama pemilik butik Tasbijoux. Akan berkenalan dengan pereka baju yang memilih kelestarian didalam rekaannya dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231128210000 +0800" stop="20231128213000 +0800" channel="118.unifi">
+  <title lang="en">Girls Only S9 Ep07</title>
+  <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai bersama tetamu undangan dengan topik yang menarik. Episod kali ini kita bersama John Bear dengan topik janji temu pertama, siapa patut keluarkan belanja?</desc>
+ </programme>
+ <programme start="20231128213000 +0800" stop="20231128220000 +0800" channel="118.unifi">
+  <title lang="en">Rojak S7 Ep09</title>
+  <desc lang="en">Dalam episod Rojak kali ini kita akan lihat fakta tentang kucing, untuk activity kali ini kita akan cuba kasut buatan malayisa iaitu Voltra dan cabaran kali ini pengetahuan am.</desc>
+ </programme>
+ <programme start="20231128220000 +0800" stop="20231128223000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep05</title>
+  <desc lang="en">Azizul Ammar akan memandu uji kereta Tesla Model 3 dan juga mengetahui kisah Narock dan keretanya Satria Neo.</desc>
+ </programme>
+ <programme start="20231128223000 +0800" stop="20231128230000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep04</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Ban Canal, Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231128230000 +0800" stop="20231128233000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231128233000 +0800" stop="20231129000000 +0800" channel="118.unifi">
+  <title lang="en">Trendsetter S5 Ep01</title>
+  <desc lang="en">Episod ini dalam bedah kotak kami akan melihat kasut Nike Air Force 1 Off-White Volt, usha kedai kali ini di Icebear Shoe Master dan bersembang bersame Edmond Looi.</desc>
+ </programme>
+ <programme start="20231129000000 +0800" stop="20231129003000 +0800" channel="118.unifi">
+  <title lang="en">1001 Resepi Periuk Nasi S9 Ep08</title>
+  <desc lang="en">Danny selaku pengacara dan tukang masak akan menyediakan pelbagai masakan dengan hanya menggunakan Periuk Nasi sebagai alat masakan. Dalam episod ini Danny akan menyediakan Okonomiyaki &amp; Ayam Teriyaki! Tak percaya jom saksikan!</desc>
+ </programme>
+ <programme start="20231129003000 +0800" stop="20231129010000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep06</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Pak Tam Laksa Johor, DHomecooked dan The Siblings Moks Char Kuey Teow.</desc>
+ </programme>
+ <programme start="20231129010000 +0800" stop="20231129013000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231129013000 +0800" stop="20231129020000 +0800" channel="118.unifi">
+  <title lang="en">Trendsetter S5 Ep01</title>
+  <desc lang="en">Episod ini dalam bedah kotak kami akan melihat kasut Nike Air Force 1 Off-White Volt, usha kedai kali ini di Icebear Shoe Master dan bersembang bersame Edmond Looi.</desc>
+ </programme>
+ <programme start="20231129020000 +0800" stop="20231129023000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep05</title>
+  <desc lang="en">Azizul Ammar akan memandu uji kereta Tesla Model 3 dan juga mengetahui kisah Narock dan keretanya Satria Neo.</desc>
+ </programme>
+ <programme start="20231129023000 +0800" stop="20231129030000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep05</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di sekitar daerah Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231129030000 +0800" stop="20231129033000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep09</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama Edy J dari kumpulan Gerhana Ska Cinta. Akan berkenalan dengan pereka beg yang memilih kelestarian didalam rekaannya dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231129033000 +0800" stop="20231129040000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep03</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Fadhli Masoot.</desc>
+ </programme>
+ <programme start="20231129040000 +0800" stop="20231129043000 +0800" channel="118.unifi">
+  <title lang="en">Kembara S2 Ep01</title>
+  <desc lang="en">Pengembaraan pengacara bersama Artis Jemputan, Amir Jahari di salah sebuah tempat perkhemahan Glamping @ Wetland, Putrajaya. Pelbagai kisah artis dan aktiviti yang dilakukan bersama untuk dapat anda rasai bersama.</desc>
+ </programme>
+ <programme start="20231129043000 +0800" stop="20231129050000 +0800" channel="118.unifi">
+  <title lang="en">Aroma Masak S15 Ep04</title>
+  <desc lang="en">Atoi selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Ikan Bawal Percik danSup Tauhu Telur sambil ditemani oleh artis jemputan, Iqbal.</desc>
+ </programme>
+ <programme start="20231129050000 +0800" stop="20231129053000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep04</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Dumpling Kari Ikan &amp; Lamb Shank Ragout untuk disajikan kepada penonton. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231129053000 +0800" stop="20231129060000 +0800" channel="118.unifi">
+  <title lang="en">Bakar S13 Ep03</title>
+  <desc lang="en">Episod kali ini, Chef Kim akan berkongsi dengan penonton, cara membuat Pai Ayam &amp; Biscotti.</desc>
+ </programme>
+ <programme start="20231129060000 +0800" stop="20231129063000 +0800" channel="118.unifi">
+  <title lang="en">Resepi Moyang S8 Ep13</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia dan juga luar negara. Dalam episod ini, Emilia Han selaku hos akan belajar memasak masakan tempatan iaitu Nasi Hujan Panas &amp; Kurma Ayam dan Taucu Udang.</desc>
+ </programme>
+ <programme start="20231129063000 +0800" stop="20231129070000 +0800" channel="118.unifi">
+  <title lang="en">Rojak S7 Ep01</title>
+  <desc lang="en">Rojak adalah sebuah rancangan yang membawa pelbagai jenis informasi yang mendedahkan orang awam kepada benda yang mereka tidak biasanya akan cuba dari eksperimen sosial, D.I.Y. dan lain-lain lagi. Dihoskan oleh Leaism.</desc>
+ </programme>
+ <programme start="20231129070000 +0800" stop="20231129080000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep23</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Ogy Ahmad Daud, Hanathia, Rizal Rasid dan The Alif.</desc>
+ </programme>
+ <programme start="20231129080000 +0800" stop="20231129083000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231129083000 +0800" stop="20231129090000 +0800" channel="118.unifi">
+  <title lang="en">Trendsetter S5 Ep01</title>
+  <desc lang="en">Episod ini dalam bedah kotak kami akan melihat kasut Nike Air Force 1 Off-White Volt, usha kedai kali ini di Icebear Shoe Master dan bersembang bersame Edmond Looi.</desc>
+ </programme>
+ <programme start="20231129090000 +0800" stop="20231129093000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep04</title>
+  <desc lang="en">Azizul Ammar akan memandu uji kereta Mitsubishi Triton dan juga mengetahui kisah Nasir dan motornya Lambretta Li2 Big Body.</desc>
+ </programme>
+ <programme start="20231129093000 +0800" stop="20231129100000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep04</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Ban Canal, Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231129100000 +0800" stop="20231129103000 +0800" channel="118.unifi">
+  <title lang="en">Resepi Moyang S8 Ep12</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia dan juga luar negara. Dalam episod ini, Emilia Han selaku hos akan belajar memasak masakan tempatan iaitu Nasi Hujan Panas &amp; Kurma Ayam dan Taucu Udang.</desc>
+ </programme>
+ <programme start="20231129103000 +0800" stop="20231129110000 +0800" channel="118.unifi">
+  <title lang="en">Girls Only S9 Ep08</title>
+  <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai bersama tetamu undangan dengan topik yang menarik. Episod kali ini kita bersama Bichu dengan topik, keyakinan size
+badan.</desc>
+ </programme>
+ <programme start="20231129110000 +0800" stop="20231129113000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep06</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Pak Tam Laksa Johor, DHomecooked dan The Siblings Moks Char Kuey Teow.</desc>
+ </programme>
+ <programme start="20231129113000 +0800" stop="20231129120000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep07</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama Joanna Renisa. Akan berkenalan dengan pereka baju avant gard dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231129120000 +0800" stop="20231129123000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep04</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghias ruang bilik kanak-kanak di sebuah rumah di Taman Bullion Mewah, Batu Caves..</desc>
+ </programme>
+ <programme start="20231129123000 +0800" stop="20231129130000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep04</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Sera Melissa..</desc>
+ </programme>
+ <programme start="20231129130000 +0800" stop="20231129133000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231129133000 +0800" stop="20231129140000 +0800" channel="118.unifi">
+  <title lang="en">Trendsetter S5 Ep01</title>
+  <desc lang="en">Episod ini dalam bedah kotak kami akan melihat kasut Nike Air Force 1 Off-White Volt, usha kedai kali ini di Icebear Shoe Master dan bersembang bersame Edmond Looi.</desc>
+ </programme>
+ <programme start="20231129140000 +0800" stop="20231129143000 +0800" channel="118.unifi">
+  <title lang="en">Rojak S7 Ep02</title>
+  <desc lang="en">Rojak adalah sebuah rancangan yang membawa pelbagai jenis informasi yang mendedahkan orang awam kepada benda yang mereka tidak biasanya akan cuba dari eksperimen sosial, D.I.Y. dan lain-lain lagi. Dihoskan oleh Leaism.</desc>
+ </programme>
+ <programme start="20231129143000 +0800" stop="20231129150000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep04</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Ban Canal, Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231129150000 +0800" stop="20231129160000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep23</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Ogy Ahmad Daud, Hanathia, Rizal Rasid dan The Alif.</desc>
+ </programme>
+ <programme start="20231129160000 +0800" stop="20231129163000 +0800" channel="118.unifi">
+  <title lang="en">Girls Only S9 Ep08</title>
+  <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai bersama tetamu undangan dengan topik yang menarik. Episod kali ini kita bersama Bichu dengan topik, keyakinan size
+badan.</desc>
+ </programme>
+ <programme start="20231129163000 +0800" stop="20231129170000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep05</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, akan pergi ke Niqreesnack Station, Ikan Sumbat Warisan, Pau Pak Ngah dan Nasi Lemak/Minyak Mak jah.</desc>
+ </programme>
+ <programme start="20231129170000 +0800" stop="20231129173000 +0800" channel="118.unifi">
+  <title lang="en">Bakar S13 Ep04</title>
+  <desc lang="en">Episod kali ini, Chef Kim akan berkongsi dengan penonton, cara membuat Nasi Briani Ayam &amp; clair Teh Hijau.</desc>
+ </programme>
+ <programme start="20231129173000 +0800" stop="20231129180000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep03</title>
+  <desc lang="en">Saksikan pelbagai maklumat serta inspirasi dalam dunia permotoran pada masa kini. Bersama pengacara, Azizul Ammar akan memandu uji kereta Honda Civic dan juga mengetahui kisah Fizan dan keretanya Suzuki Vitara.</desc>
+ </programme>
+ <programme start="20231129180000 +0800" stop="20231129183000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231129183000 +0800" stop="20231129190000 +0800" channel="118.unifi">
+  <title lang="en">Trendsetter S5 Ep01</title>
+  <desc lang="en">Episod ini dalam bedah kotak kami akan melihat kasut Nike Air Force 1 Off-White Volt, usha kedai kali ini di Icebear Shoe Master dan bersembang bersame Edmond Looi.</desc>
+ </programme>
+ <programme start="20231129190000 +0800" stop="20231129193000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep06</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Batu laut, Kuala Langat bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231129193000 +0800" stop="20231129200000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep06</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghias ruang tamu di sebuah taman perumahan di La Cottage, Taman Putra Perdana, Puchong.</desc>
+ </programme>
+ <programme start="20231129200000 +0800" stop="20231129203000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep03</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Fadhli Masoot.</desc>
+ </programme>
+ <programme start="20231129203000 +0800" stop="20231129210000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep09</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama Edy J dari kumpulan Gerhana Ska Cinta. Akan berkenalan dengan pereka beg yang memilih kelestarian didalam rekaannya dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231129210000 +0800" stop="20231129220000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep24</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Fahimi Rahmat, Atalia, Dafi, Fauzi Nawawi dan Toko Kilat..</desc>
+ </programme>
+ <programme start="20231129220000 +0800" stop="20231129223000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep06</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Batu laut, Kuala Langat bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231129223000 +0800" stop="20231129230000 +0800" channel="118.unifi">
+  <title lang="en">Aroma Masak S15 Ep02</title>
+  <desc lang="en">Atoi selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Daging Burger Masak Merah dan Sambal Daging Burger sambil ditemani oleh artis jemputan, Banni.</desc>
+ </programme>
+ <programme start="20231129230000 +0800" stop="20231130000000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep25</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Nu Vibe, Nafiez Zaidi, Afif Tirmizie dan Jetcetera.</desc>
+ </programme>
+ <programme start="20231130000000 +0800" stop="20231130003000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep06</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Pak Tam Laksa Johor, DHomecooked dan The Siblings Moks Char Kuey Teow.</desc>
+ </programme>
+ <programme start="20231130003000 +0800" stop="20231130010000 +0800" channel="118.unifi">
+  <title lang="en">Destinasi Bajet S5 Ep01</title>
+  <desc lang="en">Dengan bajet yang minimum untuk penginapan, makan minum dan cenderahati untuk tiga hari dua malam ikuti pengembaraan cara destinasi bajet. Bersama Zetty Nabila, ikuti pemgembaraan ke Kuala Lumpur.</desc>
+ </programme>
+ <programme start="20231130010000 +0800" stop="20231130020000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep25</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Nu Vibe, Nafiez Zaidi, Afif Tirmizie dan Jetcetera.</desc>
+ </programme>
+ <programme start="20231130020000 +0800" stop="20231130023000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep06</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Batu laut, Kuala Langat bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231130023000 +0800" stop="20231130030000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep05</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghias ruang tamu di sebuah rumah kondominium di kawasan Jalan Mas 1, Bukit Jalil.</desc>
+ </programme>
+ <programme start="20231130030000 +0800" stop="20231130033000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep10</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama pelakon Sharul Ezani. Akan berkenalan dengan pereka kasut kasual yang kualitinya sebaris kualti antarabangsa dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231130033000 +0800" stop="20231130040000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep04</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Sera Melissa..</desc>
+ </programme>
+ <programme start="20231130040000 +0800" stop="20231130043000 +0800" channel="118.unifi">
+  <title lang="en">Kembara S2 Ep02</title>
+  <desc lang="en">Pengembaraan pengacara bersama Artis Jemputan, ELLY YUSNI di salah sebuah tempat perkhemahan Rumah Kebun Camping Ground, Hulu Langat. Pelbagai kisah artis dan aktiviti yang dilakukan bersama untuk dapat anda rasai bersama.</desc>
+ </programme>
+ <programme start="20231130043000 +0800" stop="20231130050000 +0800" channel="118.unifi">
+  <title lang="en">Aroma Masak S15 Ep05</title>
+  <desc lang="en">Atoi selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Nasi Goreng Tauhu dan Sambal Tauhu Tempeh sambil ditemani oleh artis jemputan, Bob.</desc>
+ </programme>
+ <programme start="20231130050000 +0800" stop="20231130053000 +0800" channel="118.unifi">
+  <title lang="en">Dapur Bujang Leftovers S2 Ep05</title>
+  <desc lang="en">Untuk episod kali ini Chef Naem menghasilkan Pan kek Bersama Sos Karamel &amp; Sotong Goreng Sambal Kering. Jom saksikan!</desc>
+ </programme>
+ <programme start="20231130053000 +0800" stop="20231130060000 +0800" channel="118.unifi">
+  <title lang="en">Bakar S13 Ep04</title>
+  <desc lang="en">Episod kali ini, Chef Kim akan berkongsi dengan penonton, cara membuat Nasi Briani Ayam &amp; clair Teh Hijau.</desc>
+ </programme>
+ <programme start="20231130060000 +0800" stop="20231130063000 +0800" channel="118.unifi">
+  <title lang="en">Resepi Moyang S8 Ep13</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia dan juga luar negara. Dalam episod ini, Emilia Han selaku hos akan belajar memasak masakan tempatan iaitu Nasi Hujan Panas &amp; Kurma Ayam dan Taucu Udang.</desc>
+ </programme>
+ <programme start="20231130063000 +0800" stop="20231130070000 +0800" channel="118.unifi">
+  <title lang="en">Sembang Selebriti S9 Ep08</title>
+  <desc lang="en">Sembang Selebriti kali ini menampilkan Ajak Shiro sebagai selebriti jemputan dimana beliau akan berkongsi cerita cerita yang menarik mengenai diri beliau dan juga pengalaman beliau di dalam industri seni tanah air.</desc>
+ </programme>
+ <programme start="20231130070000 +0800" stop="20231130080000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep24</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Fahimi Rahmat, Atalia, Dafi, Fauzi Nawawi dan Toko Kilat..</desc>
+ </programme>
+ <programme start="20231130080000 +0800" stop="20231130090000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep25</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Nu Vibe, Nafiez Zaidi, Afif Tirmizie dan Jetcetera.</desc>
+ </programme>
+ <programme start="20231130090000 +0800" stop="20231130093000 +0800" channel="118.unifi">
+  <title lang="en">Lubuk S2 Ep05</title>
+  <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di sekitar daerah Tanjung Karang bersama Joe Aziz.</desc>
+ </programme>
+ <programme start="20231130093000 +0800" stop="20231130100000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep04</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghias ruang bilik kanak-kanak di sebuah rumah di Taman Bullion Mewah, Batu Caves..</desc>
+ </programme>
+ <programme start="20231130100000 +0800" stop="20231130103000 +0800" channel="118.unifi">
+  <title lang="en">Resepi Moyang S8 Ep13</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia dan juga luar negara. Dalam episod ini, Emilia Han selaku hos akan belajar memasak masakan tempatan iaitu Nasi Hujan Panas &amp; Kurma Ayam dan Taucu Udang.</desc>
+ </programme>
+ <programme start="20231130103000 +0800" stop="20231130110000 +0800" channel="118.unifi">
+  <title lang="en">Bakar S13 Ep04</title>
+  <desc lang="en">Episod kali ini, Chef Kim akan berkongsi dengan penonton, cara membuat Nasi Briani Ayam &amp; clair Teh Hijau.</desc>
+ </programme>
+ <programme start="20231130110000 +0800" stop="20231130113000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep05</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, akan pergi ke Niqreesnack Station, Ikan Sumbat Warisan, Pau Pak Ngah dan Nasi Lemak/Minyak Mak jah.</desc>
+ </programme>
+ <programme start="20231130113000 +0800" stop="20231130120000 +0800" channel="118.unifi">
+  <title lang="en">Ekspresi Fesyen S2 Ep08</title>
+  <desc lang="en">Ekspresi Fesyen minggu ini host Aqilah Azali akan berbual fesyen bersama pemilik butik Tasbijoux. Akan berkenalan dengan pereka baju yang memilih kelestarian didalam rekaannya dan juga kita akan disajikan dengan fesyen dari artis tempatan.</desc>
+ </programme>
+ <programme start="20231130120000 +0800" stop="20231130123000 +0800" channel="118.unifi">
+  <title lang="en">Ronda Roda S2 Ep04</title>
+  <desc lang="en">Azizul Ammar akan memandu uji kereta Mitsubishi Triton dan juga mengetahui kisah Nasir dan motornya Lambretta Li2 Big Body.</desc>
+ </programme>
+ <programme start="20231130123000 +0800" stop="20231130130000 +0800" channel="118.unifi">
+  <title lang="en">Celebs Day Off S4 Ep05</title>
+  <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Azizul Ammar.</desc>
+ </programme>
+ <programme start="20231130130000 +0800" stop="20231130140000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep25</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Nu Vibe, Nafiez Zaidi, Afif Tirmizie dan Jetcetera.</desc>
+ </programme>
+ <programme start="20231130140000 +0800" stop="20231130143000 +0800" channel="118.unifi">
+  <title lang="en">Rojak S7 Ep03</title>
+  <desc lang="en">Dalam episod Rojak kali ini kita akan lihat 5 Lukisan termahal di dunia, cabaran teka peta negeri, activity lukisan bertekture dan permainan teka sayur.</desc>
+ </programme>
+ <programme start="20231130143000 +0800" stop="20231130150000 +0800" channel="118.unifi">
+  <title lang="en">Girls Only S9 Ep07</title>
+  <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai bersama tetamu undangan dengan topik yang menarik. Episod kali ini kita bersama John Bear dengan topik janji temu pertama, siapa patut keluarkan belanja?</desc>
+ </programme>
+ <programme start="20231130150000 +0800" stop="20231130160000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep24</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Fahimi Rahmat, Atalia, Dafi, Fauzi Nawawi dan Toko Kilat..</desc>
+ </programme>
+ <programme start="20231130160000 +0800" stop="20231130163000 +0800" channel="118.unifi">
+  <title lang="en">Sembang Selebriti S9 Ep09</title>
+  <desc lang="en">Sembang Selebriti kali ini menampilkan Hafizul Kamal sebagai selebriti jemputan dimana beliau akan berkongsi cerita cerita yang menarik mengenai diri beliau dan juga pengalaman beliau di dalam industri seni tanah air.</desc>
+ </programme>
+ <programme start="20231130163000 +0800" stop="20231130170000 +0800" channel="118.unifi">
+  <title lang="en">Terbaik Dari Jalanan S1 Ep06</title>
+  <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Pak Tam Laksa Johor, DHomecooked dan The Siblings Moks Char Kuey Teow.</desc>
+ </programme>
+ <programme start="20231130170000 +0800" stop="20231130173000 +0800" channel="118.unifi">
+  <title lang="en">Destinasi Bajet S5 Ep01</title>
+  <desc lang="en">Dengan bajet yang minimum untuk penginapan, makan minum dan cenderahati untuk tiga hari dua malam ikuti pengembaraan cara destinasi bajet. Bersama Zetty Nabila, ikuti pemgembaraan ke Kuala Lumpur.</desc>
+ </programme>
+ <programme start="20231130173000 +0800" stop="20231130180000 +0800" channel="118.unifi">
+  <title lang="en">Kembara S2 Ep04</title>
+  <desc lang="en">Pengembaraan pengacara bersama Artis Jemputan, Ollie (Jemput Dengar) salah sebuah tempat perkhemahan Sumpitan Glamping, Lenggong, Perak. Pelbagai kisah artis dan aktiviti yang dilakukan bersama untuk dapat anda rasai bersama.</desc>
+ </programme>
+ <programme start="20231130180000 +0800" stop="20231130190000 +0800" channel="118.unifi">
+  <title lang="en">Huru Hara S14 Ep25</title>
+  <desc lang="en">Di hoskan oleh Anas Ridzuan, Huru Hara kali ini pasti membuatkan anda terhibur sambil bergelak ketawa. Dalam episod ini kita santai santai bersama barisan artis yang terdiri daripada Nu Vibe, Nafiez Zaidi, Afif Tirmizie dan Jetcetera.</desc>
+ </programme>
+ <programme start="20231130190000 +0800" stop="20231130193000 +0800" channel="118.unifi">
+  <title lang="en">1001 Resepi Periuk Nasi S9 Ep08</title>
+  <desc lang="en">Danny selaku pengacara dan tukang masak akan menyediakan pelbagai masakan dengan hanya menggunakan Periuk Nasi sebagai alat masakan. Dalam episod ini Danny akan menyediakan Okonomiyaki &amp; Ayam Teriyaki! Tak percaya jom saksikan!</desc>
+ </programme>
+ <programme start="20231130193000 +0800" stop="20231130200000 +0800" channel="118.unifi">
+  <title lang="en">Deko Bajet S1 Ep07</title>
+  <desc lang="en">Sebuah rancangan dekorasi ruang rumah dengan bajet yang minima. Untuk episod ini, pereka bentuk dalaman, Keem Mazni selaku pengacara akan menghiasruang bilik tidur di sebuah taman perumahan di Taman Puncak Jalil, Seri Kembangan.</desc>
+ </programme>
+ <programme start="20231128120000 +0800" stop="20231128140000 +0800" channel="120.unifi">
+  <title lang="en">0.0Mhz</title>
+  <desc lang="en">Filem ini berdasarkan komik web &quot;0.0MHz&quot; oleh Jang Jak dimana ia berkisarkan ahli kumpulan kelab yang diganggu hantu. Mereka masuk ke sebuah rumah terbiar berhantu dan merancang mahu menyiasat dan mencari jalan untuk menghentikan kejadian paranormal di sana tetapi perkara sebaliknya berlaku</desc>
+ </programme>
+ <programme start="20231128140000 +0800" stop="20231128150000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep4</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231128150000 +0800" stop="20231128160000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep.5 Ep5</title>
+  <desc lang="en">Kematian anak dan isterinya buatkan kesavan
+menyalahkan dirinya sendiri. Kesavan bertemu
+seorang bomoh untuk kembalikan anak dan isterinya.</desc>
+ </programme>
+ <programme start="20231128120000 +0800" stop="20231128123000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep10</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231128123000 +0800" stop="20231128130000 +0800" channel="116.unifi">
+  <title lang="en">Jom Fesyen S2 Ep13</title>
+  <desc lang="en">Jom Fesyen merupakan program berteraskan kepada pamakaian wanita Muslimah. Jom Fesyen membawa penonton mengenali, menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231128130000 +0800" stop="20231128133000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S12 Ep08</title>
+  <desc lang="en">Rancangan ini memaparkan Chef Naem yang akan berkongsi 3 menu masakan yang mudah dan enak. Dalam episod kali ini, Chef akan menyediakan Roti John dapur bujang, Kari Kepala Ikan dapur bujang dan Mi Ladna dapur bujang.</desc>
+ </programme>
+ <programme start="20231128133000 +0800" stop="20231128143000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep23</title>
+  <desc lang="en">Selepas bertemu Serdar di Gcek, Ezgi dan zgr mula berfikir tentang apa yang perlu dilakukan apabila mereka mengetahui bahawa Serdar juga akan menghadiri majlis perkahwinan Ebru. Rakan-rakan mereka cuba mencari idea dan membantu mereka untuk meneruskan perkahwinan. Sementara itu, Sevim dan Nevin bergaul dengan baik, dan dengan bimbingan Fitnat, mereka mula merancang untuk mengatasi Ezgi dan zgr. Ezgi dan zgr juga berpura-pura tidak sesuai antara satu sama lain agar tidak menyusahkan keluarga mereka. Ini membuatkan keluarga mereka sangsi dengan perkahwinan mereka berdua.</desc>
+ </programme>
+ <programme start="20231128143000 +0800" stop="20231128153000 +0800" channel="116.unifi">
+  <title lang="en">Nargil Ep07</title>
+  <desc lang="en">Goushi yang telah menjadi anak patung, sedang mencari rantai itu. Di tanah tiga bulan, kanak-kanak mencapai persimpangan tiga tanah</desc>
+ </programme>
+ <programme start="20231128153000 +0800" stop="20231128173000 +0800" channel="116.unifi">
+  <title lang="en">Senario Lang Buana</title>
+  <desc lang="en">Filem ini membawa penonton ke era zaman lampau iaitu sebelum abad ke-19 tetapi kisah yang dipaparkan berkaitan dengan masyarakat Malaysia hari ini. Ia mengisahkan tiga orang pemuda - Gunung, Daik dan Bercabang - yang melarikan diri daripada menjadi hamba abdi kepada Orang Kaya Seri Bentan. Mereka bertiga berhenti di sebuah kota bernama Lang Buana di pinggir sebuah sungai. Setibanya di kota itu, mereka disambut meriah kerana disangka putera raja yang dapat menyelamatkan kota itu daripada serangan Sang Nira. Terperangkap oleh keadaan, ketiga-tiga pemuda berkenaan terpaksa menyamar menjadi putera raja dan merangka taktik peperangan bagi memperkuatkan benteng pertahanan Lang Buana.</desc>
+ </programme>
+ <programme start="20231128173000 +0800" stop="20231128180000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S6 Ep09</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231128180000 +0800" stop="20231128190000 +0800" channel="116.unifi">
+  <title lang="en">OH! S1 Ep07</title>
+  <desc lang="en">Oh! adalah sebuah program akustik baru. Oh! menampilkan vokalis serta artis-artis yang kini sedang popular atau baru dengan lagu single solo/kumpulan.</desc>
+ </programme>
+ <programme start="20231128190000 +0800" stop="20231128193000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep04</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231128193000 +0800" stop="20231128203000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep17</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231128203000 +0800" stop="20231128213000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep33</title>
+  <desc lang="en">zgr sangat terharu kerana semua yang dia lalui kebelakangan ini dan memutuskan untuk berehat dan pergi ke hutan untuk mengosongkan fikirannya. Tetapi detik damainya di sana tidak bertahan lama, Ezgi, Ozan dan Deniz pergi mencarinya. Mereka semua mempunyai hari yang menyeronokkan bersama. zgr mengambil kekuatannya daripada Ezgi dalam setiap negatif yang dia alami. Setiap saat dia berkongsi dengannya, dia menyedari bahawa dia tidak boleh tanpanya dan melamar Ezgi. Ezgi akhirnya menjalani impiannya, mencari cinta sejati. Dia mengiyakan cadangannya untuk bahagia selamanya dengan zgr.</desc>
+ </programme>
+ <programme start="20231128213000 +0800" stop="20231128220000 +0800" channel="116.unifi">
+  <title lang="en">Japanizi Going Going Gong Ep09</title>
+  <desc lang="en">Japanizi Going Going Gong ialah pertunjukan permainan fizikal kanak-kanak Kanada dengan motif Jepun di mana peserta bersaing dengan rakan sepasukan menentang pasukan lain semasa mereka menangani halangan dan cabaran untuk menguji keupayaan mental, kekuatan, ketahanan dan kepintaran mereka.</desc>
+ </programme>
+ <programme start="20231128220000 +0800" stop="20231128223000 +0800" channel="116.unifi">
+  <title lang="en">Japanizi Going Going Gong Ep6</title>
+  <desc lang="en">Japanizi Going Going Gong ialah pertunjukan permainan fizikal kanak-kanak Kanada dengan motif Jepun di mana peserta bersaing dengan rakan sepasukan menentang pasukan lain semasa mereka menangani halangan dan cabaran untuk menguji keupayaan mental, kekuatan, ketahanan dan kepintaran mereka.</desc>
+ </programme>
+ <programme start="20231128223000 +0800" stop="20231128230000 +0800" channel="116.unifi">
+  <title lang="en">Jom Fesyen S3 Ep01</title>
+  <desc lang="en">Jom Fesyen merupakan program berteraskan kepada pamakaian wanita Muslimah. Jom Fesyen membawa penonton mengenali, menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231128230000 +0800" stop="20231128233000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S6 Ep10</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231128233000 +0800" stop="20231129000000 +0800" channel="116.unifi">
+  <title lang="en">Rojak S5 Ep11</title>
+  <desc lang="en">Rojak adalah sebuah rancangan yang membawa pelbagai jenis informasi yang mendedahkan orang awan kepada benda yang mereka tidak biasanya akan cuba dari experiment sosial, D.I.Y, dan juga makanan yang tidak biasa jumpe.</desc>
+ </programme>
+ <programme start="20231129000000 +0800" stop="20231129003000 +0800" channel="116.unifi">
+  <title lang="en">Seni Sana Sini S1 Ep10</title>
+  <desc lang="en">Seni Sana Sini adalah sebuah rancangan yang memfokuskan kerjaya, minat serta sumber inspirasi dalam bidang seni khususnya untuk anak-anak muda tempatan.</desc>
+ </programme>
+ <programme start="20231129003000 +0800" stop="20231129013000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep17</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231129013000 +0800" stop="20231129020000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S5 Ep08</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231129020000 +0800" stop="20231129023000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S1 Ep08</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231129023000 +0800" stop="20231129030000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep08</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231129030000 +0800" stop="20231129040000 +0800" channel="116.unifi">
+  <title lang="en">Selipar Jepun Stileto Merah Ep27</title>
+  <desc lang="en">Leto dan Stila kekal menjalinkan hubungan cinta sambil cuba menyembunyikan hal itu daripada keluarga mereka. Leto mula terasa dirinya tidak setanding dengan Stila apabila dihina ketika keluar bersama-sama Stila. Tanpa pengetahuan Stila, Datin Fairuz cuba mendapatkan restu dan pandangan ibu Roy, Puan Sri Umi, untuk menjodohkan mereka berdua. Roy pula cuba menguji Datin Fairuz sama ada wanita itu serius dengan rancangan itu. Apabila Stila akhirnya mendapat tahu tentang rancangan perkahwinan itu, dia terus meninggalkan makan malam bersama. Kerana semua kekecohan itu, Stila telah meninggalkan stiletto merahnya di luar rumah. Yani kembali sekali lagi, dan mencuri stiletto itu.</desc>
+ </programme>
+ <programme start="20231129040000 +0800" stop="20231129043000 +0800" channel="116.unifi">
+  <title lang="en">Rojak S5 Ep11</title>
+  <desc lang="en">Rojak adalah sebuah rancangan yang membawa pelbagai jenis informasi yang mendedahkan orang awan kepada benda yang mereka tidak biasanya akan cuba dari experiment sosial, D.I.Y, dan juga makanan yang tidak biasa jumpe.</desc>
+ </programme>
+ <programme start="20231129043000 +0800" stop="20231129050000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep02</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231129050000 +0800" stop="20231129053000 +0800" channel="116.unifi">
+  <title lang="en">Trend Setter S3 Ep08</title>
+  <desc lang="en">Episod Trend Setter kali ini Nabil akan berjumpa dengan pelumba basikal Negara, Sofian Nabil Omar. Nabil juga akan berjumpa dengan pengumpul jersey vintage Malaysia yang mempunyai jersey-jersey Malaysia yang sukar ditemui dan didapati.</desc>
+ </programme>
+ <programme start="20231129053000 +0800" stop="20231129060000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S4 Ep13</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231129060000 +0800" stop="20231129063000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S1 Ep08</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231129063000 +0800" stop="20231129070000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep05</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231129070000 +0800" stop="20231129073000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep04</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231129073000 +0800" stop="20231129080000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep10</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231129080000 +0800" stop="20231129090000 +0800" channel="116.unifi">
+  <title lang="en">Selipar Jepun Stileto Merah Ep27</title>
+  <desc lang="en">Leto dan Stila kekal menjalinkan hubungan cinta sambil cuba menyembunyikan hal itu daripada keluarga mereka. Leto mula terasa dirinya tidak setanding dengan Stila apabila dihina ketika keluar bersama-sama Stila. Tanpa pengetahuan Stila, Datin Fairuz cuba mendapatkan restu dan pandangan ibu Roy, Puan Sri Umi, untuk menjodohkan mereka berdua. Roy pula cuba menguji Datin Fairuz sama ada wanita itu serius dengan rancangan itu. Apabila Stila akhirnya mendapat tahu tentang rancangan perkahwinan itu, dia terus meninggalkan makan malam bersama. Kerana semua kekecohan itu, Stila telah meninggalkan stiletto merahnya di luar rumah. Yani kembali sekali lagi, dan mencuri stiletto itu.</desc>
+ </programme>
+ <programme start="20231129090000 +0800" stop="20231129100000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep17</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231129100000 +0800" stop="20231129120000 +0800" channel="116.unifi">
+  <title lang="en">Reza, Arman &amp; Bill</title>
+  <desc lang="en">Mengisahkan Reza (21) seorang pemuda yang gilakan bola sepak. Sehariannya tidak lengkap tanpa membincangkan tentang bola sepak. Dia juga seorang pemain amatur yang hebat, terutama bermain futsal. Namun setelah dia cedera, yang mana kecederaan itu telah disengajakan oleh musuhnya, Arman (21), dia tidak mampu untuk bermain lagi. Perasaan untuk terus bermain bola juga lenyap, apatah lagi selalu diganggu oleh Arman dan rakan-rakan yang mengatakan dia seorang kaki bangku.</desc>
+ </programme>
+ <programme start="20231129120000 +0800" stop="20231129123000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep03</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231129123000 +0800" stop="20231129130000 +0800" channel="116.unifi">
+  <title lang="en">Jom Fesyen S2 Ep12</title>
+  <desc lang="en">Jom Fesyen merupakan program berteraskan kepada pamakaian wanita Muslimah. Jom Fesyen membawa penonton mengenali, menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231129130000 +0800" stop="20231129133000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep09</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231129133000 +0800" stop="20231129143000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep24</title>
+  <desc lang="en">zgr sangat terharu kerana semua yang dia lalui kebelakangan ini dan memutuskan untuk berehat dan pergi ke hutan untuk mengosongkan fikirannya. Tetapi detik damainya di sana tidak bertahan lama, Ezgi, Ozan dan Deniz pergi mencarinya. Mereka semua mempunyai hari yang menyeronokkan bersama. zgr mengambil kekuatannya daripada Ezgi dalam setiap negatif yang dia alami. Setiap saat dia berkongsi dengannya, dia menyedari bahawa dia tidak boleh tanpanya dan melamar Ezgi. Ezgi akhirnya menjalani impiannya, mencari cinta sejati. Dia mengiyakan cadangannya untuk bahagia selamanya dengan zgr.</desc>
+ </programme>
+ <programme start="20231129143000 +0800" stop="20231129153000 +0800" channel="116.unifi">
+  <title lang="en">Nargil Ep08</title>
+  <desc lang="en">Ververeh, the land of three moons, the tree of light and the soldiers of the Sepidan ... The challenges have just begun ..</desc>
+ </programme>
+ <programme start="20231129153000 +0800" stop="20231129173000 +0800" channel="116.unifi">
+  <title lang="en">Onrust</title>
+  <desc lang="en">Bramanto Putra menemui buku nota kuno milik kekasih Maria van de Velde dan meminta Susan Sriwati membuat kajiannya. Susan secara tidak sengaja membaca mantra yang membangkitkan semangat gelap Pulau Onrust, termasuk Maria van de Velde, Jehovah, Hasan dan Dr. Machinebouw.</desc>
+ </programme>
+ <programme start="20231129173000 +0800" stop="20231129180000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep11</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231129180000 +0800" stop="20231129190000 +0800" channel="116.unifi">
+  <title lang="en">Poskad Dari Alhambra Ep04</title>
+  <desc lang="en">Sara menerima tawaran bekerja sambil belajar di kota Sepanyol! Tapi ibunya melarang keras penghijrahannya. Tunang Sara, Khairul tidak faham kenapa Sara berkeras ingin mengejar impian luar negaranya sedangkan mereka bakal berumahtangga. Apakah Sara akan menolak tawaran itu</desc>
+ </programme>
+ <programme start="20231129190000 +0800" stop="20231129193000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S5 Ep09</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231129193000 +0800" stop="20231129203000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep18</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231129203000 +0800" stop="20231129213000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep34</title>
+  <desc lang="en">zgr sangat terharu kerana semua yang dia lalui kebelakangan ini dan memutuskan untuk berehat dan pergi ke hutan untuk mengosongkan fikirannya. Tetapi detik damainya di sana tidak bertahan lama, Ezgi, Ozan dan Deniz pergi mencarinya. Mereka semua mempunyai hari yang menyeronokkan bersama. zgr mengambil kekuatannya daripada Ezgi dalam setiap negatif yang dia alami. Setiap saat dia berkongsi dengannya, dia menyedari bahawa dia tidak boleh tanpanya dan melamar Ezgi. Ezgi akhirnya menjalani impiannya, mencari cinta sejati. Dia mengiyakan cadangannya untuk bahagia selamanya dengan zgr.</desc>
+ </programme>
+ <programme start="20231129213000 +0800" stop="20231129220000 +0800" channel="116.unifi">
+  <title lang="en">Japanizi Going Going Gong Ep11</title>
+  <desc lang="en">Japanizi Going Going Gong ialah pertunjukan permainan fizikal kanak-kanak Kanada dengan motif Jepun di mana peserta bersaing dengan rakan sepasukan menentang pasukan lain semasa mereka menangani halangan dan cabaran untuk menguji keupayaan mental, kekuatan, ketahanan dan kepintaran mereka.</desc>
+ </programme>
+ <programme start="20231129220000 +0800" stop="20231129230000 +0800" channel="116.unifi">
+  <title lang="en">Poskad Dari Alhambra Ep04</title>
+  <desc lang="en">Sara menerima tawaran bekerja sambil belajar di kota Sepanyol! Tapi ibunya melarang keras penghijrahannya. Tunang Sara, Khairul tidak faham kenapa Sara berkeras ingin mengejar impian luar negaranya sedangkan mereka bakal berumahtangga. Apakah Sara akan menolak tawaran itu</desc>
+ </programme>
+ <programme start="20231129230000 +0800" stop="20231129233000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S6 Ep04</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231129233000 +0800" stop="20231130000000 +0800" channel="116.unifi">
+  <title lang="en">Seni Sana Sini S1 Ep08</title>
+  <desc lang="en">Seni Sana Sini adalah sebuah rancangan yang memfokuskan kerjaya, minat serta sumber inspirasi dalam bidang seni khususnya untuk anak-anak muda tempatan.</desc>
+ </programme>
+ <programme start="20231130000000 +0800" stop="20231130003000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S6 Ep09</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231130003000 +0800" stop="20231130013000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep18</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231130013000 +0800" stop="20231130020000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S1 Ep08</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231130020000 +0800" stop="20231130030000 +0800" channel="116.unifi">
+  <title lang="en">Homegrown Show S5 Ep05</title>
+  <desc lang="en">Homegrown Show kini kembali, memaparkan persembahan muzik berlainan genre dari artis serta kugiran tanah air pada masa kini. Episod ini adalah focus kepadaK-Town Clan &amp; Gila Monstarz dengan genre hiphop.</desc>
+ </programme>
+ <programme start="20231130030000 +0800" stop="20231130040000 +0800" channel="116.unifi">
+  <title lang="en">Selipar Jepun Stileto Merah Ep28</title>
+  <desc lang="en">Secara rahsia, dengan bantuan Stila, Leto mendapat kerja baru di sebuah hypermarket. Mak Tini bekerja sebagai pencuri rumah sambilan di kediaman Datin Fairuz dan Datuk Azhar tanpa menyedari itu merupakan rumah Stila. Selepas mendengar kata-kata Leto, Stila cuba mengekori gerak-gerak Roy tetapi perbuatannya dihidu Roy terlebih dahulu. Roy menyangka Leto bercakap buruk tentangnya. Roy terus berdepan dan menghina Leto serta mendedahkan bagimana Leto mempergunakan Roy untuk mendapatkan kerja barunya itu. Berlaku salah faham di antara mereka.</desc>
+ </programme>
+ <programme start="20231130040000 +0800" stop="20231130043000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep03</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231130043000 +0800" stop="20231130050000 +0800" channel="116.unifi">
+  <title lang="en">Seni Sana Sini S1 Ep11</title>
+  <desc lang="en">Seni Sana Sini adalah sebuah rancangan yang memfokuskan kerjaya, minat serta sumber inspirasi dalam bidang seni khususnya untuk anak-anak muda tempatan.</desc>
+ </programme>
+ <programme start="20231130050000 +0800" stop="20231130053000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S1 Ep08</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231130053000 +0800" stop="20231130060000 +0800" channel="116.unifi">
+  <title lang="en">Resepi Moyang S1 Ep09</title>
+  <desc lang="en">Resepi Moyang merupakan sebuah rancangan memasak yang mengetengahkan masakan tradisional dari serata Malaysia. Dalam episod ini, hos akan belajar memasak masakan kaum Baba Nyonya iaitu Ayam Pongteh, Kari Ayam Kapitan dan Kuih Onde Onde. Dihoskan oleh Alaika Sahrin</desc>
+ </programme>
+ <programme start="20231130060000 +0800" stop="20231130063000 +0800" channel="116.unifi">
+  <title lang="en">Trend Setter S4 Ep01</title>
+  <desc lang="en">Episod Trend Setter kali ini Nabil akan berjumpa dengan pelumba basikal Negara, Sofian Nabil Omar. Nabil juga akan berjumpa dengan pengumpul jersey vintage Malaysia yang mempunyai jersey-jersey Malaysia yang sukar ditemui dan didapati.</desc>
+ </programme>
+ <programme start="20231130063000 +0800" stop="20231130070000 +0800" channel="116.unifi">
+  <title lang="en">Sembang Selebriti S5 Ep08</title>
+  <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi.</desc>
+ </programme>
+ <programme start="20231130070000 +0800" stop="20231130073000 +0800" channel="116.unifi">
+  <title lang="en">Perang Bibir S1 Ep09</title>
+  <desc lang="en">Nabila Huda dan Issey kembali bersaing. Nabila Huda, yang mengetuai kumpulan perempuan, digandingkan bersama Sherry Al-Hadad dan Ramona Zam Zam menentang kumpulan lelaki yang dipimpin oleh Issey yang digandingkan bersama Dennis Yin dan Izzue Islam. Kedua dua kumpulan perlu menari sepadan dengan rentak lagu yang dimainkan. Markah akan diambil kira daripada kekuatan jeritan para penonton. Pertandingan untuk memenangi RM6,000 sememangnya susah kerana peserta juga perlu bersaing di dalam 2 mini games. Markah tertinggi di penghujung rancangan akan menjadi juara untuk episod ini. Kumpulan lelaki yang mengumpul lebih markah telah diistihar sebagai pemenang.</desc>
+ </programme>
+ <programme start="20231130073000 +0800" stop="20231130080000 +0800" channel="116.unifi">
+  <title lang="en">Selipar Jepun Stileto Merah Ep28</title>
+  <desc lang="en">Secara rahsia, dengan bantuan Stila, Leto mendapat kerja baru di sebuah hypermarket. Mak Tini bekerja sebagai pencuri rumah sambilan di kediaman Datin Fairuz dan Datuk Azhar tanpa menyedari itu merupakan rumah Stila. Selepas mendengar kata-kata Leto, Stila cuba mengekori gerak-gerak Roy tetapi perbuatannya dihidu Roy terlebih dahulu. Roy menyangka Leto bercakap buruk tentangnya. Roy terus berdepan dan menghina Leto serta mendedahkan bagimana Leto mempergunakan Roy untuk mendapatkan kerja barunya itu. Berlaku salah faham di antara mereka.</desc>
+ </programme>
+ <programme start="20231130080000 +0800" stop="20231130090000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep18</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231130090000 +0800" stop="20231130100000 +0800" channel="116.unifi">
+  <title lang="en">Fainow</title>
+  <desc lang="en">kisah pergolakan rumah tangga sepasang suami isteri selepas sang isteri mendapat tahu kecurangan suaminya.</desc>
+ </programme>
+ <programme start="20231130100000 +0800" stop="20231130120000 +0800" channel="116.unifi">
+  <title lang="en">Dapur Bujang S7 Ep11</title>
+  <desc lang="en">Dengan bajet RM10, Naem tukang masak Dapur Bujang akan menyediakan dua jenis hidangan masakan harian yang senang, sedap dan sihat. Untuk episod ini, Naem akan memasak Ayam Goreng Halia dan Zalabia sejenis cucur yang manis yang berasal dari timur tenggah.</desc>
+ </programme>
+ <programme start="20231130120000 +0800" stop="20231130130000 +0800" channel="116.unifi">
+  <title lang="en">Jalan-Jalan Makan Angin (2019) Ep05</title>
+  <desc lang="en">Pengacara Akhmal Nazri dan Atu Zero menjelajah ke Selangor sambil mempromosi beberapa tempat penginapan dilengkapi kemudahan dan aktiviti menarik bagi percutian dan pelancongan. Antaranya ialah: 1. Sarang By The Brook, K. Kubu Bharu : -Konsep kontena dikelilingi hutan alam semulajadi, kemudahan asas termasuk penghawa dingin dan tempat tidur. -Bilik serendah RM180/ malam. -Aktiviti : Jungle tracking, mandi sungai. 2. Dusun Bonda, Batang Kali : -Konsep berkhemah dikelilingi kolam dan alam semulajadi, suasana kampung, penghawa dingin, private garden, tandas peribadi -Bilik studio : tandas persendirian, dapur, sungai, -Aktiviti : BBQ, makan malam di atas bumbung dengan suasana romantik, sarapan pagi di tepi sungai, melihat ladang madu kelulut. -Bilik serendah RM350/ malam.</desc>
+ </programme>
+ <programme start="20231130130000 +0800" stop="20231130133000 +0800" channel="116.unifi">
+  <title lang="en">Jom Fesyen S3 Ep01</title>
+  <desc lang="en">Jom Fesyen merupakan program berteraskan kepada pamakaian wanita Muslimah. Jom Fesyen membawa penonton mengenali, menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231130133000 +0800" stop="20231130143000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep25</title>
+  <desc lang="en">Ezgi ingin berjumpa dengan Serdar sekali lagi untuk menebus kesilapannya. Dia meminta Cansu untuk mengatur pertemuan lain. Kali ini, dia bertekad untuk bertindak dengan betul dan mempengaruhi Serdar. Dia perlukan zgr untuk ini. Jadi dia menerima tawaran zgr. Mereka membuat perjanjian. Ezgi akan bertindak seperti teman wanita zgr untuk satu malam, dan sebagai balasan zgr akan mengajarnya apa yang perlu dilakukan untuk menarik perhatian Serdar. Walau bagaimanapun, perjanjian ini akan mempunyai keputusan yang berbeza untuk kedua-duanya.</desc>
+ </programme>
+ <programme start="20231130143000 +0800" stop="20231130153000 +0800" channel="116.unifi">
+  <title lang="en">Nargil Ep09</title>
+  <desc lang="en">Hamid has reached the land of the Komins, Hamed has fallen into the trap of Tili and Pili and Haleh has found of the spring of oblivion. On the other hand, the fake Liveh is looking for flute.</desc>
+ </programme>
+ <programme start="20231130153000 +0800" stop="20231130173000 +0800" channel="116.unifi">
+  <title lang="en">Time Machine</title>
+  <desc lang="en">Sekumpulan pelajar dari bandar pergi meredah hutan dengan bantuan seorang pemburu muda sebagai pemandu pelancong. Kebakaran hutan memaksa mereka melarikan diri untuk menyelamatkan nyawa mereka. Kumpulan itu sesat dan tersandung ke wilayah Myanmar di tengah-tengah peperangan antara tentera Myanmar dan penyamun hutan.</desc>
+ </programme>
+ <programme start="20231130173000 +0800" stop="20231130180000 +0800" channel="116.unifi">
+  <title lang="en">Jom Fesyen S3 Ep02</title>
+  <desc lang="en">Jom Fesyen merupakan program berteraskan kepada pamakaian wanita Muslimah. Jom Fesyen membawa penonton mengenali, menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231130180000 +0800" stop="20231130190000 +0800" channel="116.unifi">
+  <title lang="en">Perang Bibir S1 Ep10</title>
+  <desc lang="en">Nabila Huda dan Issey kembali bersaing. Nabila Huda, yang mengetuai kumpulan perempuan, digandingkan bersama Sherry Al-Hadad dan Ramona Zam Zam menentang kumpulan lelaki yang dipimpin oleh Issey yang digandingkan bersama Dennis Yin dan Izzue Islam. Kedua dua kumpulan perlu menari sepadan dengan rentak lagu yang dimainkan. Markah akan diambil kira daripada kekuatan jeritan para penonton. Pertandingan untuk memenangi RM6,000 sememangnya susah kerana peserta juga perlu bersaing di dalam 2 mini games. Markah tertinggi di penghujung rancangan akan menjadi juara untuk episod ini. Kumpulan lelaki yang mengumpul lebih markah telah diistihar sebagai pemenang.</desc>
+ </programme>
+ <programme start="20231130190000 +0800" stop="20231130193000 +0800" channel="116.unifi">
+  <title lang="en">Trend Setter S4 Ep01</title>
+  <desc lang="en">Episod Trend Setter kali ini Nabil akan berjumpa dengan pelumba basikal Negara, Sofian Nabil Omar. Nabil juga akan berjumpa dengan pengumpul jersey vintage Malaysia yang mempunyai jersey-jersey Malaysia yang sukar ditemui dan didapati.</desc>
+ </programme>
+ <programme start="20231130193000 +0800" stop="20231130203000 +0800" channel="116.unifi">
+  <title lang="en">Pinggan Tak Retak Nasi Tak Dingin Ep19</title>
+  <desc lang="en">Memaparkan Nizam (Angah) dan Mizan (Along) dua beradik dari satu keluarga. Nizam lulusan luar negeri, bekerjaya, baru berkahwin dan baru juga bercerai. Hubungan Nizam dan Mizan tidak mesra sangat. ibu bapa mereka juga memelihara Hani, sebagai adik angkat. Kini, Hani seorang gadis, selain sangat disayangi ibu bapa mereka, Mizan pula mencintainya. Jalinan percintaan mereka juga direstui ibu bapa mereka, cuma Nizam terpaksa menangguhkan perkahwinan mereka sekurang-kurangnya 3 tahun kerana melanjutkan pelajaran keluar negara. Hani yang baik sahsiahnya dan berbudi pekerti, pandai mengemas rumah tangga memahaminya dan sanggup menunggu. Di hari ketibaan Nizam pulang, ibu bapanya telah menetapkan sebagai hari perkahwinan Nizam dan Hani. Selain majlis telah siap, tetamu juga telah dijemput, tiba-tiba sehari sebelum majlis berlangsung, Nizam meminta majlis dibatalkan dengan alasan dia telah berkahwin 5 bulan lalu. Di hari itu, Mizan juga pulang sebagai meraikan majlis adiknya, lalu ibu bapanya mencadangkan Mizan menggantikan tempat Nizam. Mizan agak terkejut dan tidak bersetuju walau pun dirayu demi menutup maruah keluarga. Sementara itu Hani amat berduka, tetapi sebelah malamnya Hani berubah hati semata-mata demi maruah keluarga lalu merayu beberapa kali kepada Mizan mengambilnya sebagai isteri. Mizan bukan sahaja menolak permintaan Hani, sebaliknya mencerca Hani yang dianggap tidak malu. Hani pula terus berdoa. Di awal pagi hari majlis, Mizan berubah hati dan bersetuju. Majlis perkahwinan Mizan dan Hani serta jamuan berjalan lancar. Di sebelah petangnya. Nizam dan isterinya, Shela juga tiba dan mereka dijangka akan tinggal di situ beberapa ketika.</desc>
+ </programme>
+ <programme start="20231130203000 +0800" stop="20231130213000 +0800" channel="116.unifi">
+  <title lang="en">Mr Wrong Ep35</title>
+  <desc lang="en">zgr menjadi marah apabila dia mengetahui bahawa Tolga ialah bos Ezgi. Ezgi segera berhenti. Tetapi Tolga tidak akan selesa sehingga dia mendapat La Gabbia, dia telah pun membuat perancangan untuk meletakkan Ezgi dalam situasi yang sukar dengan sokongan Gizem. Dia mengambil kesempatan daripada kelemahan zgr untuk Ezgi. Apabila bercakap mengenai Ezgi, ia menjadi lebih sukar bagi zgr untuk membuat keputusan menentang kehendak Tolga. Sementara itu, zgr berurusan dengan restoran baharu dan pembukaannya. Terhadap semua kesukaran, perkara yang paling penting bagi zgr dan Ezgi ialah cinta mereka antara satu sama lain. Tetapi Tolga dan Serdar tidak berniat untuk membiarkan mereka bersendirian.</desc>
+ </programme>
+ <programme start="20231130213000 +0800" stop="20231130223000 +0800" channel="116.unifi">
+  <title lang="en">Poskad Dari Alhambra Ep05</title>
+  <desc lang="en">Sara menerima tawaran bekerja sambil belajar di kota Sepanyol! Tapi ibunya melarang keras penghijrahannya. Tunang Sara, Khairul tidak faham kenapa Sara berkeras ingin mengejar impian luar negaranya sedangkan mereka bakal berumahtangga. Apakah Sara akan menolak tawaran itu</desc>
+ </programme>
+ <programme start="20231130223000 +0800" stop="20231130230000 +0800" channel="116.unifi">
+  <title lang="en">Japanizi Going Going Gong Ep05</title>
+  <desc lang="en">Japanizi Going Going Gong ialah pertunjukan permainan fizikal kanak-kanak Kanada dengan motif Jepun di mana peserta bersaing dengan rakan sepasukan menentang pasukan lain semasa mereka menangani halangan dan cabaran untuk menguji keupayaan mental, kekuatan, ketahanan dan kepintaran mereka.</desc>
+ </programme>
+ <programme start="20231128120000 +0800" stop="20231128140000 +0800" channel="120.unifi">
+  <title lang="en">0.0Mhz</title>
+  <desc lang="en">Filem ini berdasarkan komik web &quot;0.0MHz&quot; oleh Jang Jak dimana ia berkisarkan ahli kumpulan kelab yang diganggu hantu. Mereka masuk ke sebuah rumah terbiar berhantu dan merancang mahu menyiasat dan mencari jalan untuk menghentikan kejadian paranormal di sana tetapi perkara sebaliknya berlaku</desc>
+ </programme>
+ <programme start="20231128140000 +0800" stop="20231128150000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep4</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231128150000 +0800" stop="20231128160000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep.5 Ep5</title>
+  <desc lang="en">Kematian anak dan isterinya buatkan kesavan
+menyalahkan dirinya sendiri. Kesavan bertemu
+seorang bomoh untuk kembalikan anak dan isterinya.</desc>
+ </programme>
+ <programme start="20231128160000 +0800" stop="20231128180000 +0800" channel="120.unifi">
+  <title lang="en">The Sacred Riana: Beginning</title>
+  <desc lang="en">Pada zaman kanak-kanaknya, Riana tinggal di sebuah pekan kecil bersama ayah dan ibunya yang menjalankan perniagaan rumah pengebumian. Musibah yang datang memerlukan mereka berpindah ke rumah Pakcik Johan di Jakarta dan Riana bertemu dengan anak patung Riani. Riana semakin dewasa dan suatu hari telah dilawati oleh Puan Klara, seorang guru kaunselor di sekolahnya yang ingin mengetahui sebab Riana tidak hadir ke sekolah dan mencadangkan Riana untuk dipulihkan. Musibah menimpa ibu bapa Riana. Puan Klara datang lagi bersama Hendro, Lusi dan Anggi, untuk membantu Riana beramah mesra. Tetapi, kehadiran mereka mencetuskan masalah yang lebih besar.</desc>
+ </programme>
+ <programme start="20231128180000 +0800" stop="20231128200000 +0800" channel="120.unifi">
+  <title lang="en">The Tower</title>
+  <desc lang="en">Parti Malam Krismas di sebuah bangunan kediaman mewah menjadi malam yang mengerikan apabila kebakaran berlaku.</desc>
+ </programme>
+ <programme start="20231128200000 +0800" stop="20231128210000 +0800" channel="120.unifi">
+  <title lang="en">Bodyguard Ep11</title>
+  <desc lang="en">Mengisahkan semasa Eliza bersama bodyguardnya Danial dia nyaris dilanggar. Mereka syak Amran seorang kakitangan Eliza melakukan cubaan tersebut. Hubungan percintaan Eliza dengan Rashid masih berterusan. Farish sebagai bodyguard, masih meneruskan jagaan keselamatan kepada Adam. Dia beberapa kali menyelamatkan Adam dari dipukul oleh Zack dan rakan kumpulannnya. Adam dikatakan membocor rahsia kumpulan kepada polis sehingga ada di kalangan mereka yang telah tertangkap. Ryan bodyguard Datin Maziah, dia menunjukkan photo perhubungan Datin Maziah dengan Badrul kepada Dato Zailani. Akhirnya Dato Zailani menceraikan Datin Maziah. Di akhir episod, Amran melihat Rashid berbaik-baik dengan Eliza, dia memberi amaran kepada Rashid untuk membocorkan rahsia mereka kepada Eliza sekiranya tidak memberi wang kepadanya.</desc>
+ </programme>
+ <programme start="20231128210000 +0800" stop="20231128223000 +0800" channel="120.unifi">
+  <title lang="en">Howl</title>
+  <desc lang="en">Apabila penumpang di dalam kereta api diserang oleh makhluk, mereka mesti bersatu untuk bertahan sehingga pagi.</desc>
+ </programme>
+ <programme start="20231128223000 +0800" stop="20231129000000 +0800" channel="120.unifi">
+  <title lang="en">Bisikan Iblis</title>
+  <desc lang="en">Di sekolah semua perempuan, akan sentiasa ada kematian misteri setiap tahun, dan Nany didaftarkan di sekolah ini.</desc>
+ </programme>
+ <programme start="20231129000000 +0800" stop="20231129010000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep4</title>
+  <desc lang="en">Hanim yang masuk ke rumah pengasih berkawan dengan Aira dan sering di buli oleh dua lagi penghuni di rumah pengasih maria dan Nita.</desc>
+ </programme>
+ <programme start="20231129010000 +0800" stop="20231129023000 +0800" channel="120.unifi">
+  <title lang="en">Howl</title>
+  <desc lang="en">Apabila penumpang di dalam kereta api diserang oleh makhluk, mereka mesti bersatu untuk bertahan sehingga pagi.</desc>
+ </programme>
+ <programme start="20231129023000 +0800" stop="20231129043000 +0800" channel="120.unifi">
+  <title lang="en">Spiritwalker</title>
+  <desc lang="en">menceritakan tentang kemampuan seorang pria yang dapat bertukar tubuh tiap 12 jam.</desc>
+ </programme>
+ <programme start="20231129043000 +0800" stop="20231129053000 +0800" channel="120.unifi">
+  <title lang="en">Bodyguard Ep9</title>
+  <desc lang="en">Mengisahkan semasa Eliza bersama bodyguardnya Danial dia nyaris dilanggar. Mereka syak Amran seorang kakitangan Eliza melakukan cubaan tersebut. Hubungan percintaan Eliza dengan Rashid masih berterusan. Farish sebagai bodyguard, masih meneruskan jagaan keselamatan kepada Adam. Dia beberapa kali menyelamatkan Adam dari dipukul oleh Zack dan rakan kumpulannnya. Adam dikatakan membocor rahsia kumpulan kepada polis sehingga ada di kalangan mereka yang telah tertangkap. Ryan bodyguard Datin Maziah, dia menunjukkan photo perhubungan Datin Maziah dengan Badrul kepada Dato Zailani. Akhirnya Dato Zailani menceraikan Datin Maziah. Di akhir episod, Amran melihat Rashid berbaik-baik dengan Eliza, dia memberi amaran kepada Rashid untuk membocorkan rahsia mereka kepada Eliza sekiranya tidak memberi wang kepadanya.</desc>
+ </programme>
+ <programme start="20231129053000 +0800" stop="20231129071500 +0800" channel="120.unifi">
+  <title lang="en">Nang Nak</title>
+  <desc lang="en">Seorang lelaki pulang ke rumah dari berperang di mana isteri dan anaknya menyambutnya dengan penuh semangat. Tetapi ada sesuatu yang tidak menyenangkan tentang isterinya yang cuba disampaikan oleh rakan karibnya dan orang yang baik kepadanya.</desc>
+ </programme>
+ <programme start="20231129071500 +0800" stop="20231129073000 +0800" channel="120.unifi">
+  <title lang="en">Filler</title>
+  <desc lang="en">Filler</desc>
+ </programme>
+ <programme start="20231129073000 +0800" stop="20231129091500 +0800" channel="120.unifi">
+  <title lang="en">The Cave</title>
+  <desc lang="en">Apabila pasukan bola sepak remaja yang terdiri daripada 12 lelaki, berumur 11-16, dan jurulatih mereka berusia 25 tahun terperangkap jauh di dalam gua di Utara Thailand, beribu-ribu sukarelawan dan tentera dari seluruh dunia bersatu dalam perlumbaan melawan masa untuk mencari mereka . Sebaik sahaja kanak-kanak lelaki itu ditemui hidup sepuluh hari kemudian, satu-satunya jalan keluar ialah berenang selama lima jam yang mustahil yang hanya penyelam gua yang pakar boleh bertahan. Di Ireland, juruelektrik kilang kapal terbang dan penyelam gua rekreasi Jim Warny menerima panggilan: &quot;Berapa lama lagi anda boleh berada di sini?&quot; Tiba di Thailand, Jim melangkah keluar dari pesawat dan masuk ke dalam guamisi tiga hari bermata pisau sedang dijalankan. Berdasarkan peristiwa sebenar, THE CAVE menceritakan kisah mendebarkan tentang misi menyelamat antarabangsa terbesar pada zaman moden, dari perspektif unik lelaki dan wanita yang menghadapi keputusan hidup dan mati dan mempamerkan keazaman dan pengorbanan yang tidak mementingkan diri sendiri, yang memuncak dengan keputusan yang berjaya menentang semua kemungkinan.</desc>
+ </programme>
+ <programme start="20231129091500 +0800" stop="20231129101500 +0800" channel="120.unifi">
+  <title lang="en">You Saka.. Pergi Jauh Jauh Ep10</title>
+  <desc lang="en">Episod Pertama cereka komedi seram disusuli dengan kepercayaan khurafat ini berkisar kepada personaliti Nia. Nia sebagai setiausaha syarikat milik seorang Datin Salina yang amat menyukainya hingga bercadang untuk dijodohkan kepada anak lelakinya. Ibu Nia dikampung, sedang sakit dijagai oleh Roslan, bapa saudaranya (Pak Lang). Nia mempercayai dia wajar menyeru puteri yang sesekali Nia akan lakukan bertujuan melindunginya dan juga sebagai amalan turun temurunnya selama ini. Jika tidak dilakukan, saka berbentuk syaitan akan menggangguinya. Ada sebab-sebab bahawa ibunya memiliki saka dan kematiannya bererti saka itu cuba mempengaruhi warisnya iaitu Nia. Nia tinggal dengan Shasa dan sepupu Shasa iaitu, Adrus adalah 'boy friend' Nia. Adrus sedang menceburi kerjaya dalam bidang paranormal, merupakan anak Ibrahim seorang bomoh. Ketika ibu Nia meninggal dunia dia belum ketahui. Sementara itu, semasa pengembumian ibunya berlaku juga kekecuhan iaitu muncul lembaga putih (berbentuk manusia - wanita). Selain dari itu, sesekali saka Gelam berbentuk syaitan (hitam jalur hijau) mengganggui Nia, 'boy friend'nya dan pernah bersama lembaga putih mengganggui bomoh Ibrahim.</desc>
+ </programme>
+ <programme start="20231129101500 +0800" stop="20231129123000 +0800" channel="120.unifi">
+  <title lang="en">The Beast</title>
+  <desc lang="en">Dua detektif yang berkonflik perlu bekerjasama untuk menyelesaikan pembunuhan yang mengerikan. Selepas mayat seorang gadis yang hilang ditemui di kawasan air pasang di Incheon, Han-soo (Lee Sung-min) dan Min-tae (Yoo Jae-myung), yang telah menjadi saingan selama bertahun-tahun, kini bertanggungjawab mencari pelakunya.</desc>
+ </programme>
+ <programme start="20231129123000 +0800" stop="20231129133000 +0800" channel="120.unifi">
+  <title lang="en">Bodyguard Ep11</title>
+  <desc lang="en">Mengisahkan semasa Eliza bersama bodyguardnya Danial dia nyaris dilanggar. Mereka syak Amran seorang kakitangan Eliza melakukan cubaan tersebut. Hubungan percintaan Eliza dengan Rashid masih berterusan. Farish sebagai bodyguard, masih meneruskan jagaan keselamatan kepada Adam. Dia beberapa kali menyelamatkan Adam dari dipukul oleh Zack dan rakan kumpulannnya. Adam dikatakan membocor rahsia kumpulan kepada polis sehingga ada di kalangan mereka yang telah tertangkap. Ryan bodyguard Datin Maziah, dia menunjukkan photo perhubungan Datin Maziah dengan Badrul kepada Dato Zailani. Akhirnya Dato Zailani menceraikan Datin Maziah. Di akhir episod, Amran melihat Rashid berbaik-baik dengan Eliza, dia memberi amaran kepada Rashid untuk membocorkan rahsia mereka kepada Eliza sekiranya tidak memberi wang kepadanya.</desc>
+ </programme>
+ <programme start="20231129133000 +0800" stop="20231129154500 +0800" channel="120.unifi">
+  <title lang="en">Khun Pan 2</title>
+  <desc lang="en">Di tengah-tengah pelanggaran undang-undang dan rasuah, detektif polis legenda Khun Pan menyertai kumpulan penyamun yang menggerunkan tetapi bergelut dengan kesetiaannya.</desc>
+ </programme>
+ <programme start="20231129154500 +0800" stop="20231129160000 +0800" channel="120.unifi">
+  <title lang="en">Filler</title>
+  <desc lang="en">Filler</desc>
+ </programme>
+ <programme start="20231129160000 +0800" stop="20231129180000 +0800" channel="120.unifi">
+  <title lang="en">The Tower</title>
+  <desc lang="en">Parti Malam Krismas di sebuah bangunan kediaman mewah menjadi malam yang mengerikan apabila kebakaran berlaku.</desc>
+ </programme>
+ <programme start="20231129180000 +0800" stop="20231129190000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep5</title>
+  <desc lang="en">Kematian anak dan isterinya buatkan kesavan
+menyalahkan dirinya sendiri. Kesavan bertemu
+seorang bomoh untuk kembalikan anak dan isterinya.</desc>
+ </programme>
+ <programme start="20231129190000 +0800" stop="20231129200000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep4</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231129200000 +0800" stop="20231129210000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep5</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231129210000 +0800" stop="20231129230000 +0800" channel="120.unifi">
+  <title lang="en">Marai Mugam</title>
+  <desc lang="en">Filem komedi Tamil Malaysia arahan Sara. R fdam (RMS), dibintangi oleh ahli pasukan RMS. Filem ini dirakam di pelbagai lokasi terkenal dan bersejarah seperti Dataran Merdeka, King`s Palace Kuala Lumpur, Pulau Besar Melaka, Taiping Perak, Seremban dan juga beberapa tempat lain di Malaysia. Muzik untuk filem ini digubah oleh Jay Raggaveindra, pengarah muzik Malaysia.</desc>
+ </programme>
+ <programme start="20231129230000 +0800" stop="20231130000000 +0800" channel="120.unifi">
+  <title lang="en">Arjuna Ep12</title>
+  <desc lang="en">Dzulkarnain telah dianiayai dengan ilmu hitam oleh Manuja menyebabkan dia sakit, namun diselamatkan oleh para pendekar sakti. Dalam pertempuran itu, Jagat mati tetapi Nading dan Lang Kajai dapat melarikan diri. Dzulkarnain yang sebenarnya sudah nazak, akhirnya mati.</desc>
+ </programme>
+ <programme start="20231130000000 +0800" stop="20231130010000 +0800" channel="120.unifi">
+  <title lang="en">Arjuna Ep13</title>
+  <desc lang="en">Dzulkarnain telah dianiayai dengan ilmu hitam oleh Manuja menyebabkan dia sakit, namun diselamatkan oleh para pendekar sakti. Dalam pertempuran itu, Jagat mati tetapi Nading dan Lang Kajai dapat melarikan diri. Dzulkarnain yang sebenarnya sudah nazak, akhirnya mati.</desc>
+ </programme>
+ <programme start="20231130010000 +0800" stop="20231130024500 +0800" channel="120.unifi">
+  <title lang="en">The Secret Suster Ngesot Urban</title>
+  <desc lang="en">Mengetahui bahawa bapanya telah berkahwin dengan seorang wanita sebayanya, Kanaya meninggalkan rumah, hanya untuk mengalami kemalangan yang menyebabkan dia di hospital berhantu.</desc>
+ </programme>
+ <programme start="20231130024500 +0800" stop="20231130050000 +0800" channel="120.unifi">
+  <title lang="en">Khun Pan 2</title>
+  <desc lang="en">Di tengah-tengah pelanggaran undang-undang dan rasuah, detektif polis legenda Khun Pan menyertai kumpulan penyamun yang menggerunkan tetapi bergelut dengan kesetiaannya.</desc>
+ </programme>
+ <programme start="20231130050000 +0800" stop="20231130070000 +0800" channel="120.unifi">
+  <title lang="en">The Tower</title>
+  <desc lang="en">Parti Malam Krismas di sebuah bangunan kediaman mewah menjadi malam yang mengerikan apabila kebakaran berlaku.</desc>
+ </programme>
+ <programme start="20231130070000 +0800" stop="20231130090000 +0800" channel="120.unifi">
+  <title lang="en">Desolasi</title>
+  <desc lang="en">Mengisahkan mengenai Aiman seorang pelukis remaja yang mencari jawapan dalam persoalan kehidupan selepas melalui pelbagai ujian dan dugaan dalam kehidupan sehariannya sehingga membuatkan dirinya hilang arah.</desc>
+ </programme>
+ <programme start="20231130090000 +0800" stop="20231130110000 +0800" channel="120.unifi">
+  <title lang="en">0.0Mhz</title>
+  <desc lang="en">Filem ini berdasarkan komik web &quot;0.0MHz&quot; oleh Jang Jak dimana ia berkisarkan ahli kumpulan kelab yang diganggu hantu. Mereka masuk ke sebuah rumah terbiar berhantu dan merancang mahu menyiasat dan mencari jalan untuk menghentikan kejadian paranormal di sana tetapi perkara sebaliknya berlaku</desc>
+ </programme>
+ <programme start="20231130110000 +0800" stop="20231130120000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep5</title>
+  <desc lang="en">Kematian anak dan isterinya buatkan kesavan
+menyalahkan dirinya sendiri. Kesavan bertemu
+seorang bomoh untuk kembalikan anak dan isterinya.</desc>
+ </programme>
+ <programme start="20231130120000 +0800" stop="20231130133000 +0800" channel="120.unifi">
+  <title lang="en">Bisikan Iblis</title>
+  <desc lang="en">Di sekolah semua perempuan, akan sentiasa ada kematian misteri setiap tahun, dan Nany didaftarkan di sekolah ini.</desc>
+ </programme>
+ <programme start="20231130133000 +0800" stop="20231130151500 +0800" channel="120.unifi">
+  <title lang="en">Hantu Bungkus VS Pontianak</title>
+  <desc lang="en">Sebuah filem seram komedi lakonan Osman Kering, Rosli Rahman Adam, Fetty Dzul dan Emma Akma</desc>
+ </programme>
+ <programme start="20231130151500 +0800" stop="20231130170000 +0800" channel="120.unifi">
+  <title lang="en">The Presence</title>
+  <desc lang="en">Aom dihantui mimpi ngeri yang tidak dapat dijelaskan. Semasa melawat neneknya, dia mendapat tahu bahawa neneknya yang kelihatan lebih mati daripada hidup sedang melayan dan memberi makan kepada hantu. Adakah Aom akan menerima nasibnya?</desc>
+ </programme>
+ <programme start="20231130170000 +0800" stop="20231130180000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep6</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231130180000 +0800" stop="20231130190000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep5</title>
+  <desc lang="en">Kematian anak dan isterinya buatkan kesavan
+menyalahkan dirinya sendiri. Kesavan bertemu
+seorang bomoh untuk kembalikan anak dan isterinya.</desc>
+ </programme>
+ <programme start="20231130190000 +0800" stop="20231130200000 +0800" channel="120.unifi">
+  <title lang="en">Amukan Pocong S1 Ep6</title>
+  <desc lang="en">Mengisahkan mayat Zai ditemui oleh orang kampung Paya Besar dengan kesan jerutan di leher pada esok paginya. Mayat Zai diuruskan oleh keluarganya. Salah seorang yang hadir adalah sepupu Zai, Sulaiman. Sulaiman terkejut bila melihat kesan kematian Zai seperti pernah dilihatnya 50 tahun dulu iaitu kematian Awang. Long Husin kini menjadi boneka Awang untuk mencari 13 perawan</desc>
+ </programme>
+ <programme start="20231130200000 +0800" stop="20231130210000 +0800" channel="120.unifi">
+  <title lang="en">Nak Dengar Cerita Hantu Ep4</title>
+  <desc lang="en">Hanim yang masuk ke rumah pengasih berkawan dengan Aira dan sering di buli oleh dua lagi penghuni di rumah pengasih maria dan Nita.</desc>
+ </programme>
+ <programme start="20231130210000 +0800" stop="20231130220000 +0800" channel="120.unifi">
+  <title lang="en">Arjuna Ep18</title>
+  <desc lang="en">Dzulkarnain telah dianiayai dengan ilmu hitam oleh Manuja menyebabkan dia sakit, namun diselamatkan oleh para pendekar sakti. Dalam pertempuran itu, Jagat mati tetapi Nading dan Lang Kajai dapat melarikan diri. Dzulkarnain yang sebenarnya sudah nazak, akhirnya mati.</desc>
+ </programme>
+ <programme start="20231130220000 +0800" stop="20231130233000 +0800" channel="120.unifi">
+  <title lang="en">Hantu Tok Mudim</title>
+  <desc lang="en">Tok Mudim adalah seorang ahli tradisi berkhatan yang terkenal, jasanya amat dicari oleh ibu bapa apabila anak-anak mereka memasuki akil baligh. Namun begitu, kemahirannya tercabar apabila khidmatnya diuji ke atas seorang dewasa iaitu anak Ketua Kampung yang secara tidak sengaja tercicir daripada menjalani ibadah itu pada usia normal... iaitu ketika akil baligh. Untuk menjaga kerahsiaan keadaan yang rumit ini...Tok Mudim telah ditugaskan untuk melakukan ibadah itu pada larut malam dan atas sebab-sebab yang tidak disedarinya, dia mengganggu prosedur yang kelihatan seperti rutin itu. Semuanya terbongkar apabila seluruh kampung mengambil berat tentang kegagalannya. Dipersalahkan kerana merosakkan kehidupan anak Ketua Kampung, Tok Mudim menjadi sasaran penduduk kampung, kerana ingin membalas dendam atas kesalahan ini, sasarannya membawa kepada kematiannya yang tidak lama lagi ketika cuba melarikan diri. Tidak lama selepas kematiannya yang tragis, arwah Tok Mudim dilihat mengganas penduduk kampung itu.</desc>
+ </programme>
+  <programme start="20231128110000 +0800" stop="20231128123000 +0800" channel="141.unifi">
+  <title lang="en">Jagoan Cantik Work From Hatiku</title>
+  <desc lang="en">Satria, lulusan dari luar negeri dan mewarisi perusahaan keluarga, merupakan idaman ramai wanita. Nasib Satria dipertaruhkan dengan masa yang diberikan ibunya untuk mencari pasangan hidup.</desc>
+ </programme>
+ <programme start="20231128123000 +0800" stop="20231128133000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep221</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231128133000 +0800" stop="20231128153000 +0800" channel="141.unifi">
+  <title lang="en">D'Koplo Ep17</title>
+  <desc lang="en">D'Koplo (Musim 1) merupakan persembahan bakat nyanyian koplo dangdut pertama dari D'Koplo 2023. Juri utama musim ini terdiri daripada Soimah, Nassar, Dewi Perssik, dan Nita Thalia. Ada juga beberapa juri jempotan yang akan hadir.</desc>
+ </programme>
+ <programme start="20231128153000 +0800" stop="20231128163000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep33</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231128163000 +0800" stop="20231128173000 +0800" channel="141.unifi">
+  <title lang="en">Buku Harian Seorang Istri Ep197</title>
+  <desc lang="en">Nana dipaksa menikahi Dewa oleh ayahnya, Wawan. Kehidupan seharian Nana penuh dengan seksaan tanpa cinta dalam perkahwinan mereka. Sementara itu, Dewa yang mencintai Alya sejak awal, berkeras untuk mengekalkan hubungan mereka walaupun dia kini sudah berkahwin.</desc>
+ </programme>
+ <programme start="20231128173000 +0800" stop="20231128183000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep222</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231128183000 +0800" stop="20231128200000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Tak Datang Dari Kaki</title>
+  <desc lang="en">Salma dilahirkan dengan keterbatasan fizikal, di mana dia mempunyai kaki yang tidak sempurna seperti orang lain. Namun, Salma boleh menjadi pereka. Salma bertemu Abimana, seorang lelaki yang berbeza dengan lelaki lain yang dia temui selama ini. Abhimana tidak melihat kekurangan Salma.</desc>
+ </programme>
+ <programme start="20231128200000 +0800" stop="20231128210000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep10</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231128210000 +0800" stop="20231128213000 +0800" channel="141.unifi">
+  <title lang="en">Halo Selebriti Ep59</title>
+  <desc lang="en">Program infotainment yang menyajikan berita harian tentang selebriti Indonesia.</desc>
+ </programme>
+ <programme start="20231128213000 +0800" stop="20231128233000 +0800" channel="141.unifi">
+  <title lang="en">D'Academy Asia 6 Ep35</title>
+  <desc lang="en">D'Academy Asia dengan slogan &quot;Suara Sejati Asia&quot; adalah pertandingan menyanyi dangdut tingkat Asia. Negara berikutnya yang akan bergabung dalam DA Asia 6 adalah Trkiye! Bersiaplah menjadi bintang dangdut terbesar di Asia!</desc>
+ </programme>
+ <programme start="20231128233000 +0800" stop="20231129000000 +0800" channel="141.unifi">
+  <title lang="en">Halo Selebriti Ep59</title>
+  <desc lang="en">Program infotainment yang menyajikan berita harian tentang selebriti Indonesia.</desc>
+ </programme>
+ <programme start="20231129000000 +0800" stop="20231129013000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Tak Datang Dari Kaki</title>
+  <desc lang="en">Salma dilahirkan dengan keterbatasan fizikal, di mana dia mempunyai kaki yang tidak sempurna seperti orang lain. Namun, Salma boleh menjadi pereka. Salma bertemu Abimana, seorang lelaki yang berbeza dengan lelaki lain yang dia temui selama ini. Abhimana tidak melihat kekurangan Salma.</desc>
+ </programme>
+ <programme start="20231129013000 +0800" stop="20231129023000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep33</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231129023000 +0800" stop="20231129033000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep10</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231129033000 +0800" stop="20231129040000 +0800" channel="141.unifi">
+  <title lang="en">Halo Selebriti Ep59</title>
+  <desc lang="en">Program infotainment yang menyajikan berita harian tentang selebriti Indonesia.</desc>
+ </programme>
+ <programme start="20231129040000 +0800" stop="20231129043000 +0800" channel="141.unifi">
+  <title lang="en">Kata Ustadz Solmed Ep17</title>
+  <desc lang="en">Kata Ustadz Solmed merupakan program bual bicara yang dibimbing oleh pengacara dan ustaz terkenal yang akan fokus membincangkan tentang masalah yang sering dialami oleh masyarakat sehinggalah masalah rumah tangga dari sudut agama.</desc>
+ </programme>
+ <programme start="20231129043000 +0800" stop="20231129053000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep222</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231129053000 +0800" stop="20231129070000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Tak Datang Dari Kaki</title>
+  <desc lang="en">Salma dilahirkan dengan keterbatasan fizikal, di mana dia mempunyai kaki yang tidak sempurna seperti orang lain. Namun, Salma boleh menjadi pereka. Salma bertemu Abimana, seorang lelaki yang berbeza dengan lelaki lain yang dia temui selama ini. Abhimana tidak melihat kekurangan Salma.</desc>
+ </programme>
+ <programme start="20231129070000 +0800" stop="20231129080000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep33</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231129080000 +0800" stop="20231129090000 +0800" channel="141.unifi">
+  <title lang="en">Buku Harian Seorang Istri Ep197</title>
+  <desc lang="en">Nana dipaksa menikahi Dewa oleh ayahnya, Wawan. Kehidupan seharian Nana penuh dengan seksaan tanpa cinta dalam perkahwinan mereka. Sementara itu, Dewa yang mencintai Alya sejak awal, berkeras untuk mengekalkan hubungan mereka walaupun dia kini sudah berkahwin.</desc>
+ </programme>
+ <programme start="20231129090000 +0800" stop="20231129100000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep10</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231129100000 +0800" stop="20231129103000 +0800" channel="141.unifi">
+  <title lang="en">Halo Selebriti Ep59</title>
+  <desc lang="en">Program infotainment yang menyajikan berita harian tentang selebriti Indonesia.</desc>
+ </programme>
+ <programme start="20231129103000 +0800" stop="20231129110000 +0800" channel="141.unifi">
+  <title lang="en">Kata Ustadz Solmed Ep17</title>
+  <desc lang="en">Kata Ustadz Solmed merupakan program bual bicara yang dibimbing oleh pengacara dan ustaz terkenal yang akan fokus membincangkan tentang masalah yang sering dialami oleh masyarakat sehinggalah masalah rumah tangga dari sudut agama.</desc>
+ </programme>
+ <programme start="20231129110000 +0800" stop="20231129123000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Tak Datang Dari Kaki</title>
+  <desc lang="en">Salma dilahirkan dengan keterbatasan fizikal, di mana dia mempunyai kaki yang tidak sempurna seperti orang lain. Namun, Salma boleh menjadi pereka. Salma bertemu Abimana, seorang lelaki yang berbeza dengan lelaki lain yang dia temui selama ini. Abhimana tidak melihat kekurangan Salma.</desc>
+ </programme>
+ <programme start="20231129123000 +0800" stop="20231129133000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep222</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231129133000 +0800" stop="20231129153000 +0800" channel="141.unifi">
+  <title lang="en">D'Koplo Ep18</title>
+  <desc lang="en">D'Koplo (Musim 1) merupakan persembahan bakat nyanyian koplo dangdut pertama dari D'Koplo 2023. Juri utama musim ini terdiri daripada Soimah, Nassar, Dewi Perssik, dan Nita Thalia. Ada juga beberapa juri jempotan yang akan hadir.</desc>
+ </programme>
+ <programme start="20231129153000 +0800" stop="20231129163000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep34</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231129163000 +0800" stop="20231129173000 +0800" channel="141.unifi">
+  <title lang="en">Buku Harian Seorang Istri Ep198</title>
+  <desc lang="en">Nana dipaksa menikahi Dewa oleh ayahnya, Wawan. Kehidupan seharian Nana penuh dengan seksaan tanpa cinta dalam perkahwinan mereka. Sementara itu, Dewa yang mencintai Alya sejak awal, berkeras untuk mengekalkan hubungan mereka walaupun dia kini sudah berkahwin.</desc>
+ </programme>
+ <programme start="20231129173000 +0800" stop="20231129183000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep223</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231129183000 +0800" stop="20231129200000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Perawat Cantik No Tipu Tipu</title>
+  <desc lang="en">Selepas terlanggar secara tidak sengaja oleh Shita, Rama terpaksa mendapatkan rawatan menggunakan kerusi roda. Pada hari pertama Shita bekerja sebagai pembantu jururawat, dia malah bertemu semula dengan Rama yang pernah dia langgar tanpa sengaja, dan sekarang dia harus merawatnya secara peribadi. Lama kelamaan, keduanya menjadi semakin rapat, dan Rama diam-diam jatuh cinta pada Shita.</desc>
+ </programme>
+ <programme start="20231129200000 +0800" stop="20231129210000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep11</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231129210000 +0800" stop="20231129220000 +0800" channel="141.unifi">
+  <title lang="en">Juara Indonesia Ep13</title>
+  <desc lang="en">Helo para guru dan murid-murid sekolah rendah di seluruh Indonesia! Uji pengetahuan dan ketangkasan dalam menjawab soalan dengan cepat dan tepat dalam Juara Indonesia.</desc>
+ </programme>
+ <programme start="20231129220000 +0800" stop="20231130000000 +0800" channel="141.unifi">
+  <title lang="en">LIDA 2021 Ep22</title>
+  <desc lang="en">LIDA 2021 ialah rancangan hiburan Dangdut terbesar dan no 1 di Indonesia. LIDA 2021 merupakan musim keempat Liga Dangdut Indonesia dan pemenang musim ini juga dijangka menjadi generasi dangdut Indonesia seterusnya.</desc>
+ </programme>
+ <programme start="20231130000000 +0800" stop="20231130013000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Perawat Cantik No Tipu Tipu</title>
+  <desc lang="en">Selepas terlanggar secara tidak sengaja oleh Shita, Rama terpaksa mendapatkan rawatan menggunakan kerusi roda. Pada hari pertama Shita bekerja sebagai pembantu jururawat, dia malah bertemu semula dengan Rama yang pernah dia langgar tanpa sengaja, dan sekarang dia harus merawatnya secara peribadi. Lama kelamaan, keduanya menjadi semakin rapat, dan Rama diam-diam jatuh cinta pada Shita.</desc>
+ </programme>
+ <programme start="20231130013000 +0800" stop="20231130023000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep34</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231130023000 +0800" stop="20231130033000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep11</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231130033000 +0800" stop="20231130043000 +0800" channel="141.unifi">
+  <title lang="en">Juara Indonesia Ep13</title>
+  <desc lang="en">Helo para guru dan murid-murid sekolah rendah di seluruh Indonesia! Uji pengetahuan dan ketangkasan dalam menjawab soalan dengan cepat dan tepat dalam Juara Indonesia.</desc>
+ </programme>
+ <programme start="20231130043000 +0800" stop="20231130053000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep223</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231130053000 +0800" stop="20231130070000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Perawat Cantik No Tipu Tipu</title>
+  <desc lang="en">Selepas terlanggar secara tidak sengaja oleh Shita, Rama terpaksa mendapatkan rawatan menggunakan kerusi roda. Pada hari pertama Shita bekerja sebagai pembantu jururawat, dia malah bertemu semula dengan Rama yang pernah dia langgar tanpa sengaja, dan sekarang dia harus merawatnya secara peribadi. Lama kelamaan, keduanya menjadi semakin rapat, dan Rama diam-diam jatuh cinta pada Shita.</desc>
+ </programme>
+ <programme start="20231130070000 +0800" stop="20231130080000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep34</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231130080000 +0800" stop="20231130090000 +0800" channel="141.unifi">
+  <title lang="en">Buku Harian Seorang Istri Ep198</title>
+  <desc lang="en">Nana dipaksa menikahi Dewa oleh ayahnya, Wawan. Kehidupan seharian Nana penuh dengan seksaan tanpa cinta dalam perkahwinan mereka. Sementara itu, Dewa yang mencintai Alya sejak awal, berkeras untuk mengekalkan hubungan mereka walaupun dia kini sudah berkahwin.</desc>
+ </programme>
+ <programme start="20231130090000 +0800" stop="20231130100000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep11</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231130100000 +0800" stop="20231130110000 +0800" channel="141.unifi">
+  <title lang="en">Juara Indonesia Ep13</title>
+  <desc lang="en">Helo para guru dan murid-murid sekolah rendah di seluruh Indonesia! Uji pengetahuan dan ketangkasan dalam menjawab soalan dengan cepat dan tepat dalam Juara Indonesia.</desc>
+ </programme>
+ <programme start="20231130110000 +0800" stop="20231130123000 +0800" channel="141.unifi">
+  <title lang="en">Cinta Perawat Cantik No Tipu Tipu</title>
+  <desc lang="en">Selepas terlanggar secara tidak sengaja oleh Shita, Rama terpaksa mendapatkan rawatan menggunakan kerusi roda. Pada hari pertama Shita bekerja sebagai pembantu jururawat, dia malah bertemu semula dengan Rama yang pernah dia langgar tanpa sengaja, dan sekarang dia harus merawatnya secara peribadi. Lama kelamaan, keduanya menjadi semakin rapat, dan Rama diam-diam jatuh cinta pada Shita.</desc>
+ </programme>
+ <programme start="20231130123000 +0800" stop="20231130133000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep223</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231130133000 +0800" stop="20231130153000 +0800" channel="141.unifi">
+  <title lang="en">D'Koplo Ep19</title>
+  <desc lang="en">D'Koplo (Musim 1) merupakan persembahan bakat nyanyian koplo dangdut pertama dari D'Koplo 2023. Juri utama musim ini terdiri daripada Soimah, Nassar, Dewi Perssik, dan Nita Thalia. Ada juga beberapa juri jempotan yang akan hadir.</desc>
+ </programme>
+ <programme start="20231130153000 +0800" stop="20231130163000 +0800" channel="141.unifi">
+  <title lang="en">Jangan Panggil Gue Pak Haji Ep35</title>
+  <desc lang="en">Babe Markum adalah pemilik restoran yang rendah hati dan hidangannya terkenal di kawasan sekitar. Semua jiran dan pelanggan selalu memanggilnya &quot;Pak Haji&quot; walaupun dia tidak pernah mengunjungi ke tanah suci. Impiannya adalah untuk pergi ke kota-kota Islam yang suci dan merealisasikan nama panggilannya suatu hari nanti.</desc>
+ </programme>
+ <programme start="20231130163000 +0800" stop="20231130173000 +0800" channel="141.unifi">
+  <title lang="en">Buku Harian Seorang Istri Ep199</title>
+  <desc lang="en">Nana dipaksa menikahi Dewa oleh ayahnya, Wawan. Kehidupan seharian Nana penuh dengan seksaan tanpa cinta dalam perkahwinan mereka. Sementara itu, Dewa yang mencintai Alya sejak awal, berkeras untuk mengekalkan hubungan mereka walaupun dia kini sudah berkahwin.</desc>
+ </programme>
+ <programme start="20231130173000 +0800" stop="20231130183000 +0800" channel="141.unifi">
+  <title lang="en">Cinta 2 Pilihan Ep224</title>
+  <desc lang="en">Fathir dan Sukma merupakan pasangan suami isteri yang hidup bahagia dalam kesederhanaan di Magelang. Mereka mempunyai seorang anak perempuan bernama Zahra. Fathir bekerja sebagai kontraktor, dan Sukma hanya seorang suri rumah. Pada suatu hari, Fathir menerima projek besar. Malangnya, terdapat masalah dengan projek itu. Masalah timbul apabila Zahra disahkan menghidap penyakit kronik. Doktor mencadangkan agar Zahra menjalani rawatan di Jakarta.</desc>
+ </programme>
+ <programme start="20231130183000 +0800" stop="20231130200000 +0800" channel="141.unifi">
+  <title lang="en">Penjaga Tambak Yang Amanah Jadi Importir Bandeng Presto</title>
+  <desc lang="en">Berawal dari kejujurannya dalam menjaga tambak, Azam tidak pernah membayangkan bahawa dia akan mencapai puncak kejayaannya. Setelah melalui pelbagai cabaran, Azam berjaya menjadi pengimport ikan susu yang telah mengubah kehidupannya.</desc>
+ </programme>
+ <programme start="20231130200000 +0800" stop="20231130210000 +0800" channel="141.unifi">
+  <title lang="en">Tajwid Cinta Ep12</title>
+  <desc lang="en">Dafri baru saja kembali ke Indonesia untuk bertemu dengan Alina dan bertunang. Walau bagaimanapun, pertunangan itu terhalang kerana Nadia tidak suka dengan hubungan Dafri Bersama anak perempuannya, Alina. Nadia dengan sengaja menghantar Dafri untuk belajar di Turki agar Dafri jauh dari anak perempuannya. Selain itu, ayah Dafri meminta Dafri untuk berkahwin dengan Syifa, seorang wanita yang pertama kali Dafri temui. Pada ketika itu, Syifa gagal berkahwin kerana bakal suaminya, Ilham, tiba-tiba menghilangkan diri. Selepas berkahwin dengan Dafri, Syifa dan suaminya tinggal di Jakarta.</desc>
+ </programme>
+ <programme start="20231130210000 +0800" stop="20231130220000 +0800" channel="141.unifi">
+  <title lang="en">Pestaria Ep1</title>
+  <desc lang="en">Pelbagai warna muzik penuh dengan sensasi dengan sentuhan budaya! Bekerjasama dan bersatu di atas pentas dengan barisan bintang terkenal.</desc>
+ </programme>
+ <programme start="20231130220000 +0800" stop="20231201000000 +0800" channel="141.unifi">
+  <title lang="en">LIDA 2021 Ep23</title>
+  <desc lang="en">LIDA 2021 ialah rancangan hiburan Dangdut terbesar dan no 1 di Indonesia. LIDA 2021 merupakan musim keempat Liga Dangdut Indonesia dan pemenang musim ini juga dijangka menjadi generasi dangdut Indonesia seterusnya.</desc>
+ </programme>
+  <programme start="20231128120000 +0800" stop="20231128123000 +0800" channel="113.unifi">
+  <title lang="en">Syukurlah 2 Ep4</title>
+  <desc lang="en">Syukurlah memaparkan perkongsian cerita peribadi yang mampu memberi inspirasi serta mengupas topik-topik semasa bersama artis jemputan dalam setiap episod. Pada minggu Syukurlah membawakan perkongsian dari Hasnol</desc>
+ </programme>
+ <programme start="20231128123000 +0800" stop="20231128130000 +0800" channel="113.unifi">
+  <title lang="en">Sahabat Sahabat Nabi Ep9</title>
+  <desc lang="en">Episod ini akan membicarakan mengenai sahabat nabi iaitu Amru bin Jamuh r.a. Umat Islam yang dikenali sahabat nabi dianggap mempunyai hubungan terus dengan Nabi Muhammad s.a.w dan mereka bukanlah pendusta atau menentang ajaran Islam. Jika meraka melihatnya, mendengarnya, atau berada di hadapan baginda walau sekejap mereka dianggap sebagai sahabat nabi s.a.w.</desc>
+ </programme>
+ <programme start="20231128130000 +0800" stop="20231128133000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V1</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231128133000 +0800" stop="20231128135500 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Kemboja Ep12</title>
+  <desc lang="en">Kembara Salam Nusantara kemboja kali ini menyusul peribadi tokoh-tokoh penting dalam mengeratkan kegiatan yayasan islam di kemboja. Bersama Yang Berhormat Selleh set mengunjungi sekolah muzik yang mengasah bakat anak-anak yatim di kemboja.</desc>
+ </programme>
+ <programme start="20231128135500 +0800" stop="20231128140000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep2</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Anak-Anak. Bersama Ustaz Kazim Elias yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231128140000 +0800" stop="20231128150000 +0800" channel="113.unifi">
+  <title lang="en">Setia Menunggumu Ep6</title>
+  <desc lang="en">Ramlan di tangkap polis kerana polis mengatakan dia di suspek mengedar dadah. Semenjak itu Adi dan Aida gembira kerana tidak lagi di ganggu oleh Ramlan. Adi pula telah berjumpa sendiri dengan Ayah Aida dan berterus terang dengan ayahnya tentang dia sukakan Aida dan ingin mengambil Aida sebagai Isteri satu hari nanti. Ayah Aida tidak melolak, tetapi dia memberi masa kepada Adi sebanyak dua tahun untuk Adi mencukupkan ilmu agama nya. Lalu Adi memberitahu Hussin yang dia akan terpaksa meninggalkan nya untuk mencari ilmu agama di tempat lain. Hussin terkejut mendengarnya. Benarkah Adi akan meninggalkan Hussin untuk menuntut ilmu di tempat lain? Apakah yang akan terjadi kepada Adi?</desc>
+ </programme>
+ <programme start="20231128150000 +0800" stop="20231128160000 +0800" channel="113.unifi">
+  <title lang="en">Kembara Muslim S3 Ep8</title>
+  <desc lang="en">Kembara Muslim musim ke 3 ini akan membawa para penonton melawat tempat-tempat menarik di Malaysia dan seni bina masjid yang terdapat di negara kita. Dalam episod ini Bersama Ustaz Safwan yang akan mengembara ke Negeri Sembilan.</desc>
+ </programme>
+ <programme start="20231128160000 +0800" stop="20231128163000 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Kemboja Ep8</title>
+  <desc lang="en">Kembara Salam Nusantara kemboja episod kali ini menyelidik tentang kenderaan dia negara kemboja. Kenderaan adalah satu keperluan penting untuk seharian kita, bahkan di negara kemboja motorsikal merupakan satu keperluan dan kesemestian di negara ini. Di anggarkan terdapat lebih 3 juta motorsikal bergerak di seluruh jalan raya kemboja.</desc>
+ </programme>
+ <programme start="20231128163000 +0800" stop="20231128165500 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231128165500 +0800" stop="20231128170000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip Sr 28 Ep4</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan oleh Ustaz Salman ialah Mata yang Tidak Menangis.</desc>
+ </programme>
+ <programme start="20231128170000 +0800" stop="20231128173000 +0800" channel="113.unifi">
+  <title lang="en">Jom Fesyen S2 Ep5</title>
+  <desc lang="en">Jom Fesyen membawa penonton mengenali dan menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231128173000 +0800" stop="20231128180000 +0800" channel="113.unifi">
+  <title lang="en">#ustazmasak S3 Ep7</title>
+  <desc lang="en">Dalam rancangan ini Cef Fendi dan Ustaz Azrin akan pergi ke Linggi, Negeri Sembilan dan akan memasak masakan yang berasaskan dari Jagung. Menu yang akan dimasak dalam episod kali ini ialah Sup Jagung dengan Ketam, Lempeng Jagung Pedas, dan Bubur Jagung.</desc>
+ </programme>
+ <programme start="20231128180000 +0800" stop="20231128190000 +0800" channel="113.unifi">
+  <title lang="en">Kembara Muslim S4 Ep1</title>
+  <desc lang="en">Dalam episod ini Bersama Ustaz Safwan yang akan membawa para penonton ke bandar Kuching dan melawat Masjid Terapung Bandar Kuching. Kembara Muslim musim kali ini akan membawa para penonton melawat tempat-tempat menarik di bumi kenyalang dan seni bina masjid yang terdapat di negara kita.</desc>
+ </programme>
+ <programme start="20231128190000 +0800" stop="20231128193000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V1</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231128193000 +0800" stop="20231128195500 +0800" channel="113.unifi">
+  <title lang="en">Kota Warisan Ep9</title>
+  <desc lang="en">Episod ini mereka membawa krew pengambaran melihat pertempuran dan pelbagai pengaruh budaya dikota Istanbul iaitu kota dua benua.</desc>
+ </programme>
+ <programme start="20231128195500 +0800" stop="20231128200000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep7</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Waktu Itu Emas. Bersama Ustaz Hakim yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231128200000 +0800" stop="20231128203000 +0800" channel="113.unifi">
+  <title lang="en">Adab Dalam Islam Ep21</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Adab Adik Beradik. Bersama dengan Prof Madya Dato Dr. Izhar Ariff yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231128203000 +0800" stop="20231128210000 +0800" channel="113.unifi">
+  <title lang="en">Asbab Al Nuzul Ep11</title>
+  <desc lang="en">Episod ini akan menerangkan surah al-Zalzalah. Asbab Al Nuzul yang akan menjelaskan persoalan-persoalan yang menyebabkan turunnya satu-satu ayat atau beberapa ayat untuk menerangkan peristiwa dan hukumnya turunnya ayat Al- Quran. Ia berkaitan dengan beberapa ayat untuk menerangkan hal yang berhubungan dengan peristiwa tertentu atau memberikan jawapan tertentu dalam bahagian dari ilmu tafsir Qur'an.</desc>
+ </programme>
+ <programme start="20231128210000 +0800" stop="20231128213000 +0800" channel="113.unifi">
+  <title lang="en">Jom Jalan Ep11</title>
+  <desc lang="en">Jom Jalan akan membawa Selebriti tanah air ke serata pelusuk tanah air. Pada setiap episod Selebriti akan membawa penonton ke destinasi menarik yang meliputi lokasi percutian, lokasi bersejarah, membeli belah dan makanan tempatan. Pada minggu ni Jom Jalan membawa penonton ke Kelantan</desc>
+ </programme>
+ <programme start="20231128213000 +0800" stop="20231128220000 +0800" channel="113.unifi">
+  <title lang="en">Dosa Dalam Islam S2 Ep11</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Dosa Kering. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan ustaz jemputan yang akan mengupas topik ini.</desc>
+ </programme>
+ <programme start="20231128220000 +0800" stop="20231128230000 +0800" channel="113.unifi">
+  <title lang="en">Wira Yang Tak Didendang Ep1</title>
+  <desc lang="en">Episod kali ini menceritakan mengenai NGO Angkatan Sukarelawan Asas Sejahtera (ASAS). Program yang akan menceritakan tentang biografi para sukarelawan yang banyak melakukan kerja-kerja kemasyarakatan. Berkorban masa dan tenaga serta menyumbangkan wang ringgit tanpa mengira kepada siapa. Setiap sukarelawan mempunyai kekuatan mereka tersendiri seperti dalam aktiviti yang mereka suka dan mungkin ada sejarah disebalik penglibatan mereka.</desc>
+ </programme>
+ <programme start="20231128230000 +0800" stop="20231129000000 +0800" channel="113.unifi">
+  <title lang="en">Setiaku Di Sini Ep7</title>
+  <desc lang="en">Anis seolah tak percaya yang Rayyan boleh hantar Aleesa balik ke rumah. Aleesa pula marahkan Anis kerana memberitahu tentang kejadian rogol kepada Badrul. Aleesa tidak menyangka yang Anis telah mengkhianati kepercayaannya. Puas Anis cuba memujuk tetapi Aleesa tetap tidak mahu mempercayainya lagi. Sementara itu Fara yang ternampak Rayyan keluar dari klinik bersama Aleesa jadi marah kerana menyangka Rayyan menipu dirinya. Rayyan menafikan yang Aleesa adalah kekaasihnya. Untuk membeli hati Rayyan, Fara memberikannya hadiah sempena harijadi Rayyan.</desc>
+ </programme>
+ <programme start="20231129000000 +0800" stop="20231129010000 +0800" channel="113.unifi">
+  <title lang="en">Aisyah Ep46</title>
+  <desc lang="en">Setelah kehilangan Asmara, Yudi bertekad untuk membalas dendam. Serangan ke atas penduduk kampung dijalankan setelah Restu dan Bisma melarikan Aisyah. Konfrontasi yang dicetuskan oleh Yudi dapat menyatukan keluarga Rahayu dan Ningrum, namun ia berakhir dengan satu lagi tragedi yang menimpa mereka.</desc>
+ </programme>
+ <programme start="20231129010000 +0800" stop="20231129013000 +0800" channel="113.unifi">
+  <title lang="en">Adab Dalam Islam S2 Ep14</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Adab Di Pusara. Bersama dengan Prof Madya Dato Dr. Izhar Ariff yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231129013000 +0800" stop="20231129023000 +0800" channel="113.unifi">
+  <title lang="en">Kembara Muslim S4 Ep1</title>
+  <desc lang="en">Dalam episod ini Bersama Ustaz Safwan yang akan membawa para penonton ke bandar Kuching dan melawat Masjid Terapung Bandar Kuching. Kembara Muslim musim kali ini akan membawa para penonton melawat tempat-tempat menarik di bumi kenyalang dan seni bina masjid yang terdapat di negara kita.</desc>
+ </programme>
+ <programme start="20231129023000 +0800" stop="20231129030000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231129030000 +0800" stop="20231129033000 +0800" channel="113.unifi">
+  <title lang="en">Bicara Ustaz S1 Ep11</title>
+  <desc lang="en">Program tazkirah yang akan membawa perkongsian dan mengupas, analisis dan memperkatakan pelbagai topik isu agama yang menarik oleh Ustaz. Episod kali ini ustaz membawakan tajuk Tafsiran Korban.</desc>
+ </programme>
+ <programme start="20231129033000 +0800" stop="20231129033500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep6</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Masa Itu Kehidupan. Bersama Ustazah Nurul Syafiqah yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231129033500 +0800" stop="20231129040000 +0800" channel="113.unifi">
+  <title lang="en">Cerita Bintang S1 Ep10</title>
+  <desc lang="en">Cerita Bintang menampilkan artis-artis popular yang memberi peluang kepada peminat untuk lebih mengenali lebih rapat artis pujaan mereka. Episod kali ini Anis akan membawa penonton untuk menemu bual dengan Faradhiya</desc>
+ </programme>
+ <programme start="20231129040000 +0800" stop="20231129050000 +0800" channel="113.unifi">
+  <title lang="en">Kembara Muslim S3 Ep13</title>
+  <desc lang="en">Kembara Muslim musim ke 3 ini akan membawa para penonton melawat tempat-tempat menarik di Malaysia dan seni bina masjid yang terdapat di negara kita. Dalam episod ini Bersama Ustaz Safwan yang akan mengembara ke negeri Terengganu.</desc>
+ </programme>
+ <programme start="20231129050000 +0800" stop="20231129053000 +0800" channel="113.unifi">
+  <title lang="en">Diari Ustaz 2 Ep9</title>
+  <desc lang="en">Pada minggu ni Ustaz akan membincangkan tentang topik 'Suami Tak Pulang'. Diari Ustaz merupakan suatu rancangan yang akan mengenengahkan Ustaz tersohor negara didalam menyampaikan tazkirah dan panduan disertai hujah-hujah hadis dan Al Quran.</desc>
+ </programme>
+ <programme start="20231129053000 +0800" stop="20231129060000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231129060000 +0800" stop="20231129063000 +0800" channel="113.unifi">
+  <title lang="en">Pahala Dalam Islam S3 Ep25</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Pahala Anggota Keselamatan. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan panel jemputan yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231129063000 +0800" stop="20231129063500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip Sr 20 Ep9</title>
+  <desc lang="en">Dalam episod ini, topik yang di sampaikan oleh Pencetus Ummah Hilmi ialah Kejahatan Orang Tua Terhadap Anak. Ustaz mengongsikan cerita, ada seorang anak bertanyakan soalan kepada Amirul Mukminin, adakah kejahatan orang tua terhadap anaknya? Amirul Mukminin berkata, &quot;ada&quot; iaitu yang pertama dia tidak mencarikan ibu yang baik, yang kedua, tidak menamakan anak dengan nama yang baik dan yang ketiga tidak mengajar Al-Quran kepada si anak.</desc>
+ </programme>
+ <programme start="20231129063500 +0800" stop="20231129070000 +0800" channel="113.unifi">
+  <title lang="en">Dosa Dalam Islam Ep11</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Dosa Pesakit. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan ustaz jemputan yang akan mengupas topik ini.</desc>
+ </programme>
+ <programme start="20231129070000 +0800" stop="20231129080000 +0800" channel="113.unifi">
+  <title lang="en">Buletin 113 S4 Ep5</title>
+  <desc lang="en">Dalam episod kali ini bersama Keringat Di Air. Dalam episod ini Buletin 113 memaparkan kisah kaum hawa yang berani menyelam ke dasar laut untuk melakukan kerja kimpalan. Bersama pengacara anda Siti Khadijah Halim yang akan membawakan kisah-kisah menarik di sepanjang episod ini.</desc>
+ </programme>
+ <programme start="20231129080000 +0800" stop="20231129083000 +0800" channel="113.unifi">
+  <title lang="en">#ustazmasak S4 Ep9</title>
+  <desc lang="en">Cef Fendi dan Ustaz Jemputan akan mengembara ke destinasi seperti ladang dan tempat perusahaan makanan yang berasaskan bahan masakan yang sering digunakan untuk memasak. Episod kali ini bersama dengan Ustaz Ekhsan sebagai ustaz jemputan dan destinasi mereka kali ini di Selangor Fruit Valley untuk membawakan menu yang berasaskan buah jambu.</desc>
+ </programme>
+ <programme start="20231129083000 +0800" stop="20231129083500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep5</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Menginsafi Kekuasaan Allah s.w.t. Bersama Ustaz Azrin yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231129083500 +0800" stop="20231129090000 +0800" channel="113.unifi">
+  <title lang="en">In House Al Quran V1</title>
+  <desc lang="en">Bacaan ayat suci Al Quran</desc>
+ </programme>
+ <programme start="20231129090000 +0800" stop="20231129093000 +0800" channel="113.unifi">
+  <title lang="en">Ketuk Ketuk Ep11</title>
+  <desc lang="en">Ketuk-Ketuk adalah sebuah rancangan masakan menampilkan Cef Naem yang handal memasak dan episod kali ini bersama Amaris yang akan memasak Gulai Ketuk-Ketuk dan Kuih Bebola Keria. Rancangan ini secara tidak langsung akan memberikan info kepada penonton untuk mengetahui tips-tips dan petua yang betul untuk memasak pelbagai jenis masakan.</desc>
+ </programme>
+ <programme start="20231129093000 +0800" stop="20231129100000 +0800" channel="113.unifi">
+  <title lang="en">Dosa Dalam Islam Ep6</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Dosa Membazir. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan ustaz jemputan yang akan mengupas topik ini.</desc>
+ </programme>
+ <programme start="20231129100000 +0800" stop="20231129103000 +0800" channel="113.unifi">
+  <title lang="en">#ustazmasak Ep5</title>
+  <desc lang="en">Bersama menemani Cef Fendi pada episod kali ini bersama Ustaz Razi. Rancangan ini menampilkan pengacara Fendi Mohammad yang akan mengembara ke destinasi perkelahan menarik bersama seorang ustaz jemputan. Berkonsepkan 'outdoor cooking' , rancangan ini membawakan resepi ringkas namun sedap yang akan dimasak bersama Fendi Mohammad dan Ustaz jemputan. Santai namun tetap menyelitkan informasi berguna selain selitan panduan dan ajaran Islam daripada Ustaz yang hadir.</desc>
+ </programme>
+ <programme start="20231129103000 +0800" stop="20231129110000 +0800" channel="113.unifi">
+  <title lang="en">Ceritaku S2 Ep6</title>
+  <desc lang="en">Ceritaku adalah sebuah program realiti mengisahkan seorang wartawan hiburan bernama Siti Khadijah yang prihatin dengan keadaan sekeliling dan ingin membantu insan-insan yang tidak berkemampuan. Siti Khadijah yang peka dengan kesusahan mereka yang tidak bernasib baik ini akan mencari VIP dan usahawan untuk membantu meringankan beban insan-insan yang tidak berkemampuan ini.</desc>
+ </programme>
+ <programme start="20231129110000 +0800" stop="20231129113000 +0800" channel="113.unifi">
+  <title lang="en">Syukurlah Ep7</title>
+  <desc lang="en">Syukurlah memaparkan perkongsian cerita peribadi yang mampu memberi inspirasi serta mengupas topik-topik semasa bersama artis jemputan dalam setiap episod. Episod minggu ini kita akan dengarkan perkongsian daripada Mus May dan Azza Elite.</desc>
+ </programme>
+ <programme start="20231129113000 +0800" stop="20231129120000 +0800" channel="113.unifi">
+  <title lang="en">Ketuk Ketuk Ep9</title>
+  <desc lang="en">Ketuk-Ketuk adalah sebuah rancangan masakan menampilkan Cef Naem yang handal memasak dan episod kali ini bersama Faezah Elai yang akan memasak Daging Masak Gajus dan Bubur Chacha. Rancangan ini secara tidak langsung akan memberikan info kepada penonton untuk mengetahui tips-tips dan petua yang betul untuk memasak pelbagai jenis masakan.</desc>
+ </programme>
+ <programme start="20231129120000 +0800" stop="20231129123000 +0800" channel="113.unifi">
+  <title lang="en">Diari Ustaz 5 Ep12</title>
+  <desc lang="en">Pada minggu ni Ustaz akan membincangkan tentang topik Restu Ibu'. Diari Ustaz merupakan suatu rancangan yang akan mengenengahkan Ustaz tersohor negara didalam menyampaikan tazkirah dan panduan disertai hujah-hujah hadis dan Al Quran.</desc>
+ </programme>
+ <programme start="20231129123000 +0800" stop="20231129130000 +0800" channel="113.unifi">
+  <title lang="en">Air Tangan Cef Ep9</title>
+  <desc lang="en">Episod kali ini, Cef Fendi membawa penonton ke negeri Selangor untuk mendekati proses membuat Santan Sawit dan akan berkongsi resepi ringkas membuat menu sambal santan daging salai.</desc>
+ </programme>
+ <programme start="20231129130000 +0800" stop="20231129133000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V1</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231129133000 +0800" stop="20231129135500 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Kemboja Ep13</title>
+  <desc lang="en">Kembara Salam Nusantara Kemboja episod ketiga belas kali ini akan menyusur langkah perantau yang berkorban untuk membantu membangunan kemboja. Malaysia terlibat secara aktif dalam membantu kemboja di bawah program kerjasama teknikal Malaysia (MCTP). Di bawah program RD&amp;RP bersama beberapa buah negara telah membantu kemboja dalam kemahiran pertanian moden, kemahiran berbahasa inggeris, mekanikal dan pengurusan lading telah diajar kepada remaja dan penduduk kampung-kempang yang terpilih.</desc>
+ </programme>
+ <programme start="20231129135500 +0800" stop="20231129140000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep3</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Berkorban. Bersama Ustaz Syamsul Debat yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231129140000 +0800" stop="20231129150000 +0800" channel="113.unifi">
+  <title lang="en">Setia Menunggumu Ep7</title>
+  <desc lang="en">Sebelum Adi berangkat, Adi telah memberitahu kenalan rapat nya yang dia akan pergi mencari ilmu agama jauh dari sini. Adi mengambil bas dan sampai ke pekan, sampai di pekan dia cuba menahan kereta yang lalu lalang, kemudian ada sebuah lori yang baik hati memberi dia tumpang sampai ke KL. Sampai sahaja di KL, Adi tidak tahu dia mahu pergi ke mana, lalu dia jumpa sebuah masjid tetapi dia tidak solat kerana Adi tidak tahu solat. Selesai habis solat di masjid itu, dia bertanyakan dari Imam masjid tersebut tentang cara untuk mempelajari ilmu agama. Imam tersebut telah memberikan nya nombor telefon seorang pemuda.</desc>
+ </programme>
+ <programme start="20231129150000 +0800" stop="20231129153000 +0800" channel="113.unifi">
+  <title lang="en">Sahabat Sahabat Nabi Ep2</title>
+  <desc lang="en">Episod ini akan membicarakan mengenai sahabat nabi iaitu Al-Thufail Amru Al Dawasi r.a. Umat Islam yang dikenali sahabat nabi dianggap mempunyai hubungan terus dengan Nabi Muhammad s.a.w dan mereka bukanlah pendusta atau menentang ajaran Islam. Jika meraka melihatnya, mendengarnya, atau berada di hadapan baginda walau sekejap mereka dianggap sebagai sahabat nabi s.a.w.</desc>
+ </programme>
+ <programme start="20231129153000 +0800" stop="20231129160000 +0800" channel="113.unifi">
+  <title lang="en">Ketuk Ketuk Ep2</title>
+  <desc lang="en">Ketuk-Ketuk adalah sebuah rancangan masakan menampilkan Cef Naem yang handal memasak dan episod kali ini bersama Atu Zero yang akan memasak Sup Bebola Ikan dan Kuih Cara Manis.Rancangan ini secara tidak langsung akan memberikan info kepada penonton untuk mengetahui tips-tips dan petua yang betul untuk memasak pelbagai jenis masakan.</desc>
+ </programme>
+ <programme start="20231129160000 +0800" stop="20231129163000 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Kemboja Ep9</title>
+  <desc lang="en">Sewaktu pemerintahan rejim khmer rouge pemerintahan Pol Pot, Musibah yang besar telah berlaku sehingga mengorbankan umat islam dan ramai alim ulama juga telah terkorban. Di episod kembara Salam Nusantara Kemboja kali ini menunjukkan kegigihan umat islam kemboja kini untuk menghidupkan semula pengajian islam yang hampir lupus di negara kemboja sehingga islam tertanam dalam hidup masyarakat semula.</desc>
+ </programme>
+ <programme start="20231129163000 +0800" stop="20231129165500 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231129165500 +0800" stop="20231129170000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip Sr 28 Ep5</title>
+  <desc lang="en">Allah maha pengampun, Allah maha pengasih. Lautan keampunan Allah lebih besar dari pada dosa-dosa yang pernah kita lakukan. Dalam episod kali ini bersama Ustaz Akram dengan topik Keberkatan Umur.</desc>
+ </programme>
+ <programme start="20231129170000 +0800" stop="20231129173000 +0800" channel="113.unifi">
+  <title lang="en">Cerita Bintang S1 Ep5</title>
+  <desc lang="en">Cerita Bintang menampilkan artis-artis popular yang memberi peluang kepada peminat untuk lebih mengenali lebih rapat artis pujaan mereka. Episod kali ini Anis akan membawa penonton untuk menemu bual dengan Projektor Band.</desc>
+ </programme>
+ <programme start="20231129173000 +0800" stop="20231129180000 +0800" channel="113.unifi">
+  <title lang="en">Jom Masak Ep4</title>
+  <desc lang="en">Minggu ini jom masak bersama Fandi Othman &amp; Isteri untuk menampilkan resepi dari mereka. Jom Masak adalah sebuah rancangan masakan melibatkan Pemain Bola Sepak bagi setiap episod . Ia turut diselitkan dengan unsur sketsa dan komedi untuk menjadikan rancangan ini lebih menarik dan menghiburkan penonton . Rancangan ini turut memberikan tip masakan kepada penonton mengikut petua-petua dalam menyediakan masakan yang enak.</desc>
+ </programme>
+ <programme start="20231129180000 +0800" stop="20231129183000 +0800" channel="113.unifi">
+  <title lang="en">Jom Fesyen S2 Ep1</title>
+  <desc lang="en">Jom Fesyen membawa penonton mengenali dan menyaksikan kreativiti pereka tempatan yang menghasilkan busana Muslimah di pasaran.</desc>
+ </programme>
+ <programme start="20231129183000 +0800" stop="20231129190000 +0800" channel="113.unifi">
+  <title lang="en">Jom Tengok S2 Ep1</title>
+  <desc lang="en">Jom Tengok adalah sebuah rancangan masakan yang bakal menampilkan Cef Bunga yang handal membuat Kek dan dalam episod kali ini menampilkan Nafiz Muaz sebagai selebriti jemputan dan mereka akan menghasilkan Kek Coklat Brulee sempena hari lahir ibu tercinta Nafiz.</desc>
+ </programme>
+ <programme start="20231129190000 +0800" stop="20231129193000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V1</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231129193000 +0800" stop="20231129195500 +0800" channel="113.unifi">
+  <title lang="en">Kota Warisan Ep10</title>
+  <desc lang="en">Episod kali ini menziarahi Gua Azhar Bu Kahfi di perkampungan Raqim Jordan peninggalam yang pernah mengisahkan 7 pemuda beriman, yang ditidurkan Allah S.W.T selama 7 ratus tahun ini.</desc>
+ </programme>
+ <programme start="20231129195500 +0800" stop="20231129200000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep8</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Kekuatan Pemuda. Bersama Ustaz Luqman yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231129200000 +0800" stop="20231129203000 +0800" channel="113.unifi">
+  <title lang="en">Diari Ustaz S7 Ep4</title>
+  <desc lang="en">Pada minggu ni Ustaz akan membincangkan tentang topik Sutera Dan Emas Bagi Lelaki. Diari Ustaz merupakan suatu rancangan yang akan mengenengahkan Ustaz tersohor negara didalam menyampaikan tazkirah dan panduan disertai hujah-hujah hadis dan Al Quran.</desc>
+ </programme>
+ <programme start="20231129203000 +0800" stop="20231129210000 +0800" channel="113.unifi">
+  <title lang="en">Cerita Bintang S1 Ep11</title>
+  <desc lang="en">Cerita Bintang menampilkan artis-artis popular yang memberi peluang kepada peminat untuk lebih mengenali lebih rapat artis pujaan mereka. Episod kali ini Anis akan membawa penonton untuk menemu bual dengan Tajul</desc>
+ </programme>
+ <programme start="20231129210000 +0800" stop="20231129213000 +0800" channel="113.unifi">
+  <title lang="en">Diari Rumah Perlindungan Ep11</title>
+  <desc lang="en">Sebuah rancangan realiti yang mengupas isu-isu moral serta menyelami kisah hidup khusus warga rumah perlindungan serta menampilkan pengacara Nazeera Sardi. Pada episod kali ini bersama Nazeera Sardi di Pusat Transit Gelandangan Kuala Lumpur untuk mengupas kisah golongan gelandangan pada episode kali ini kali ini.</desc>
+ </programme>
+ <programme start="20231129213000 +0800" stop="20231129220000 +0800" channel="113.unifi">
+  <title lang="en">Jom Fesyen S4 Ep7</title>
+  <desc lang="en">Jom Fesyen bersama pengacara anda Nadia Brian yang akan membawa para penonton mengembara ke seluruh pelosok negeri untuk menerokai dan mengenali lebih banyak fesyen dari pereka-pereka fesyen terkenal dan terkemuka di negara kita. Episod kali ini Nadia akan membawa penonton Jom Fesyen untuk merungkai evolusi kebaya klasik dari penggunaan kain kasar sehingga rekaan kebaya terkini.</desc>
+ </programme>
+ <programme start="20231129220000 +0800" stop="20231129223000 +0800" channel="113.unifi">
+  <title lang="en">Pahala Dalam Islam Ep7</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Pahala Kebersihan. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan panel jemputan yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231129223000 +0800" stop="20231129230000 +0800" channel="113.unifi">
+  <title lang="en">Jom Tengok S2 Ep1</title>
+  <desc lang="en">Jom Tengok adalah sebuah rancangan masakan yang bakal menampilkan Cef Bunga yang handal membuat Kek dan dalam episod kali ini menampilkan Nafiz Muaz sebagai selebriti jemputan dan mereka akan menghasilkan Kek Coklat Brulee sempena hari lahir ibu tercinta Nafiz.</desc>
+ </programme>
+ <programme start="20231129230000 +0800" stop="20231130000000 +0800" channel="113.unifi">
+  <title lang="en">Setiaku Di Sini Ep8</title>
+  <desc lang="en">Aleesa menemui Rayyan dan memulangkan semula henfon itu kepada Rayyan. Dia tidak mahu menerima pemberian Rayyan. Rayyan memberitahu Aleesa yang dia telah meminta kebenaran dari bapa Aleesa untuk membawa Aleesa keluar. Pada mulanya Aleesa tidak percaya tetapi Rayyan menunjukkan bukti mesejnya dengan bapa Aleesa. Rayyan mengakui dia menyintai Aleesa. Aleesa terharu kerana tidak menyangka lelaki yang dia benci dan lelaki yang dia hina dengan kata-kata kesat rupanya mencintai dia.</desc>
+ </programme>
+ <programme start="20231130000000 +0800" stop="20231130010000 +0800" channel="113.unifi">
+  <title lang="en">Cinta Yang Abadi Ep1</title>
+  <desc lang="en">Rara, yang membuat persembahan di sebuah acara sekolah, jatuh pengsan dan harus dikejarkan ke hospital sementara menantikan kedatangan Papanya, Aryo. Pada masa yang sama, Aryo sedang bercuti dengan teman wanitanya, Dina, dan tidak mengendahkan panggilan daripada isterinya, Soraya. Penyakit Rara serius dan pertelingkahan rumah tangga ibubapanya berterusan.</desc>
+ </programme>
+ <programme start="20231130010000 +0800" stop="20231130013000 +0800" channel="113.unifi">
+  <title lang="en">Adab Dalam Islam S2 Ep15</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Adab Mendapat Zuriat. Bersama dengan Prof Madya Dato Dr. Izhar Ariff yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231130013000 +0800" stop="20231130023000 +0800" channel="113.unifi">
+  <title lang="en">Umar Hatta Ep7</title>
+  <desc lang="en">Dahlia tak habis-habis menyucuk ibunya dengan menuduh Leyla gadis murahan yang tidak layak dibawa masuk ke dalam keluarga mereka. Puan Sri sedar Dahlia hanya berkata begitu kerana masih terluka dengan penolakan Hatta ke atasnya. Lalu Puan Sri memujuk Dahlia agar meredhakan jodoh Hatta. Puan Sri berjanji akan sama-sama mencarikan jodoh yang baik untuk Dahlia pula. Kepulangan Zafran yang tiba secara mengejut membuatkan Dahlia kembali gembira. Namun kegembiraan itu tergugat dengan kemarahan Zafran yang meledak secara tiba-tiba sebaik mendengar Hatta telah bertunang tanpa memberitahunya.</desc>
+ </programme>
+ <programme start="20231130023000 +0800" stop="20231130030000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231130030000 +0800" stop="20231130033000 +0800" channel="113.unifi">
+  <title lang="en">Bicara Ustaz S1 Ep12</title>
+  <desc lang="en">Program tazkirah yang akan membawa perkongsian dan mengupas, analisis dan memperkatakan pelbagai topik isu agama yang menarik oleh Ustaz. Episod kali ini ustaz membawakan tajuk Bekalan Taqwa.</desc>
+ </programme>
+ <programme start="20231130033000 +0800" stop="20231130033500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep7</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Waktu Itu Emas. Bersama Ustaz Hakim yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231130033500 +0800" stop="20231130040000 +0800" channel="113.unifi">
+  <title lang="en">Melodi Qalbi V4</title>
+  <desc lang="en">Koleksi lagu-lagu kerohanian</desc>
+ </programme>
+ <programme start="20231130040000 +0800" stop="20231130050000 +0800" channel="113.unifi">
+  <title lang="en">Buletin 113 S4 Ep9</title>
+  <desc lang="en">Dalam episod kali ini bersama Keringat Arang Kayu. Dalam episod ini Buletin 113 memaparkan kisah pembuatan arang di Kuala Sepetang, Perak merupakan arang yang terbaik di asia tenggara. Pembuatannya yang rumit dan mencabar memerlukan kepakaran yang tinggi untuk mengendalikan asap yang tebal dan haba yang sangat panas yang dikawal selama 24 jam. Bersama pengacara anda Siti Khadijah Halim yang akan membawakan kisah-kisah menarik di sepanjang episod ini.</desc>
+ </programme>
+ <programme start="20231130050000 +0800" stop="20231130053000 +0800" channel="113.unifi">
+  <title lang="en">Doa Ep5</title>
+  <desc lang="en">Episod ini akan membincangkan doa mengenai Doa Rezeki. Doa akan membicarakan mengenai doa-doa yang dapat kita gunakan dalam seharian kita bukan sahaja doa selepas solat tetapi solat yang boleh kita amalkan agar terselamat di dunia dan akhirat.</desc>
+ </programme>
+ <programme start="20231130053000 +0800" stop="20231130060000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231130060000 +0800" stop="20231130063000 +0800" channel="113.unifi">
+  <title lang="en">Pahala Dalam Islam S3 Ep26</title>
+  <desc lang="en">Topik yang akan dibincangkan dalam episod kali ini ialah Pahala Bertabaruj. Bersama dengan Prof Madya Dato Dr. Izhar Ariff dan panel jemputan yang akan menghuraikan topik ini dengan lebih lanjut.</desc>
+ </programme>
+ <programme start="20231130063000 +0800" stop="20231130063500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip Sr 20 Ep10</title>
+  <desc lang="en">Dalam episod ini, topik yang di sampaikan oleh Ustaz Zarifi ialah Memuliakan Tetamu. Ustaz mengongsikan satu hadis iaitu barang siapa yang beriman kepada Allah SWT dan beriman kepada hari akhirat, maka mereka ini perlulah memuliakan tetamu mereka.</desc>
+ </programme>
+ <programme start="20231130063500 +0800" stop="20231130070000 +0800" channel="113.unifi">
+  <title lang="en">Cerita Bintang S1 Ep10</title>
+  <desc lang="en">Cerita Bintang menampilkan artis-artis popular yang memberi peluang kepada peminat untuk lebih mengenali lebih rapat artis pujaan mereka. Episod kali ini Anis akan membawa penonton untuk menemu bual dengan Faradhiya</desc>
+ </programme>
+ <programme start="20231130070000 +0800" stop="20231130073000 +0800" channel="113.unifi">
+  <title lang="en">Hadis Ep5</title>
+  <desc lang="en">Episod ini akan membincangkan hadis diriwayatkan daripada Abu Hurairah mengenai kelebihan bagi seseorang yang menuntut ilmu pengetahuan. Hadis akan membicarakan mengenai hadis-hadis nabi S.A.W yang menjadi panduan di dalam kehidupan kita.</desc>
+ </programme>
+ <programme start="20231130073000 +0800" stop="20231130080000 +0800" channel="113.unifi">
+  <title lang="en">Jom Jalan Ep10</title>
+  <desc lang="en">Jom Jalan akan membawa Selebriti tanah air ke serata pelusuk tanah air. Pada setiap episod Selebriti akan membawa penonton ke destinasi menarik yang meliputi lokasi percutian, lokasi bersejarah, membeli belah dan makanan tempatan. Pada minggu ni Jom Jalan membawa penonton ke Cameron Highland</desc>
+ </programme>
+ <programme start="20231130080000 +0800" stop="20231130083000 +0800" channel="113.unifi">
+  <title lang="en">Diari Ustaz S6 Ep12</title>
+  <desc lang="en">Pada minggu ni Ustaz akan membincangkan tentang topik Buli &amp; Peras Ugut. Diari Ustaz merupakan suatu rancangan yang akan mengenengahkan Ustaz tersohor negara didalam menyampaikan tazkirah dan panduan disertai hujah-hujah hadis dan Al Quran.</desc>
+ </programme>
+ <programme start="20231130083000 +0800" stop="20231130083500 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep6</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah Masa Itu Kehidupan. Bersama Ustazah Nurul Syafiqah yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231130083500 +0800" stop="20231130090000 +0800" channel="113.unifi">
+  <title lang="en">In House Al Quran V1</title>
+  <desc lang="en">Bacaan ayat suci Al Quran</desc>
+ </programme>
+ <programme start="20231130090000 +0800" stop="20231130093000 +0800" channel="113.unifi">
+  <title lang="en">Jom Fesyen S4 Ep4</title>
+  <desc lang="en">Jom Fesyen bersama pengacara anda Nadia Brian yang akan membawa para penonton mengembara ke seluruh pelosok negeri untuk menerokai dan mengenali lebih banyak fesyen dari pereka-pereka fesyen terkenal dan terkemuka di negara kita. Episod kali ini Nadia akan membawa penonton Jom Fesyen di Kuala Lumpur untuk melihat koleksi ready to wear di sekitar Kuala Lumpur.</desc>
+ </programme>
+ <programme start="20231130093000 +0800" stop="20231130100000 +0800" channel="113.unifi">
+  <title lang="en">#ustazmasak S2 Ep9</title>
+  <desc lang="en">Rancangan ini menampilkan pengacara Fendi Mohammad yang akan mengembara ke destinasi riadah menarik bersama seorang ustaz jemputan. Berkonsepkan 'outdoor cooking, rancangan ini membawakan resepi ringkas namun sedap yang akan dimasak bersama Fendi Mohammad dan Ustaz jemputan. Santai namun tetap menyelitkan informasi berguna dari Fendi dan juga Ustaz Jemputan. Bersama menemani Cef Fendi pada episod kali ini bersama Ustaz Azhar</desc>
+ </programme>
+ <programme start="20231130100000 +0800" stop="20231130103000 +0800" channel="113.unifi">
+  <title lang="en">Tanya Hassan S1 Ep5</title>
+  <desc lang="en">Dalam episod ini Ustaz Hassan menjawab soalan yang datangnya daripada penonton tentang mengaji al-quran dan mendengar ceramah mana lagi baik. Ustaz menyatakan bahawa mendengar ceramah adalah lebih baik berbanding mengaji al-quran kerana ia diibaratkan menuntut ilmu.</desc>
+ </programme>
+ <programme start="20231130103000 +0800" stop="20231130113000 +0800" channel="113.unifi">
+  <title lang="en">Cinta Yang Abadi Ep33</title>
+  <desc lang="en">Lita membuat keputusan mendadak, setelah sedar yang kandungan Dina merupakan cucunya juga. Keputusan yang dibuat itu langsung memecah-belahkan keluarganya. Soraya dipecat daripada tempat pekerjaan dan Irfan pula membuat keputusan untuk meninggalkan rumahnya.</desc>
+ </programme>
+ <programme start="20231130113000 +0800" stop="20231130123000 +0800" channel="113.unifi">
+  <title lang="en">Wira Yang Tak Didendang Ep9</title>
+  <desc lang="en">Episod kali ini menceritakan mengenai NGO yang memberikan bantuan kepada negara luar yang dilanda perang, bencana alam, dan pelarian rohingya. Berkorban masa dan tenaga serta menyumbangkan wang ringgit tanpa mengira kepada siapa. Setiap sukarelawan mempunyai kekuatan mereka tersendiri seperti dalam aktiviti yang mereka suka dan mungkin ada sejarah disebalik penglibatan mereka.</desc>
+ </programme>
+ <programme start="20231130123000 +0800" stop="20231130130000 +0800" channel="113.unifi">
+  <title lang="en">Hidayah Klip Ep7</title>
+  <desc lang="en">Hidayah Klip adalah sebuah rancangan majalah yang memaparkan penulisan lirik dalam sesebuah lagu bertemakan ketuhanan serta menyeru kearah keagamaan. Penulis lirik mencari bait-bait lirik untuk dijadikan sebuah lagu yang menyentuh hati. Episod kali ini bersama artis jemputan Lah Ahmad yang akan menemani Fakhrul Radhi dalam Hidayah Klip</desc>
+ </programme>
+ <programme start="20231130130000 +0800" stop="20231130133000 +0800" channel="113.unifi">
+  <title lang="en">Puji Pujian &amp; Kalam Allah V1</title>
+  <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
+ </programme>
+ <programme start="20231130133000 +0800" stop="20231130135500 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Pulau Jawa Ep1</title>
+  <desc lang="en">Episod ini menceritakan tentang bagaimana bermulanya peningkatan penyebaran Islam di Pulau Jawa  cara pendakwah islam menyebarkan agama islam di sini. Berikutnya juga sedikit sebanyak tentang sejarah, khazanah dan geografi di Pulau utama di Indonesia.</desc>
+ </programme>
+ <programme start="20231130135500 +0800" stop="20231130140000 +0800" channel="113.unifi">
+  <title lang="en">Religious Clip S86 Ep4</title>
+  <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah 4 Wanita Terbaik Dalam Islam. Bersama Ustazah Adibah yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
+ </programme>
+ <programme start="20231130140000 +0800" stop="20231130150000 +0800" channel="113.unifi">
+  <title lang="en">Setia Menunggumu Ep8</title>
+  <desc lang="en">Kedua-dua samseng itu meminta Adi wang, tetapi Adi tidak mempunyai wang. Lalu samseng tersebut memukulnya.Adi menahan kesakitan yang amat sangat. Kemudian Adi sampai ke sebuah madrasah dalam keaadaan sakit untuk berlindung. Keesokan pagi nya Ustaz Halim melihat Adi, lalu dia membantu Adi kerana badan Adi sangat panas dan Adi tidak sedarkan diri. Sejak itu, Adi telah belajar agama di Madrasah tersebut, Ustaz Halim dan Amir yang banyak membantunya untuk mempelajari agama. Ikram pula salah seorang pelajar di madrasah itu tidak berpuas hati dengan kehadiran Adi .</desc>
+ </programme>
+ <programme start="20231130150000 +0800" stop="20231130160000 +0800" channel="113.unifi">
+  <title lang="en">Buletin 113 S5 Ep6</title>
+  <desc lang="en">Dalam episod Buletin 113 musim ke 5 kali ini membawa penonton Rahsiah Setitik Mayang demi mendapatkan sesuap nasi dalam pekerjaan mereka yang mencabar dan bahaya malah pengorbanan mereka dalam mencari rezeki yang halal dan berkat untuk diri sendiri dan keluarga tercinta. Bersama pengacara anda Siti Khadijah Halim yang akan membawakan kisah-kisah menarik di sepanjang episod ini.</desc>
+ </programme>
+ <programme start="20231130160000 +0800" stop="20231130163000 +0800" channel="113.unifi">
+  <title lang="en">Salam Nusantara Kemboja Ep10</title>
+  <desc lang="en">Kembara Salam Nusantara Kemboja episod kali ini menziarahi sebuah keluarga di pendalaman kampung cham yang telah banyak berjasa kepada pembangunan umat islam di kampungnya. Walaupun terpencil, namun jasa mereka menghidupkan semula bara-bara islam amat membanggakan. Keluarga Talep mendidik dan menghantar anak-anaknya belajar berbahasa inggeris dari kecil walaupun dikutuk penduduk kerana takut akidah mereka akan terpesong akibat terpengaruh. Namun Talep cekal dan tetap berpendirian menghantar anak-anaknya berilmu.</desc>
+ </programme>
 </tv>
