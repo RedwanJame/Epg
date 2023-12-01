@@ -47,6 +47,8 @@
 <channel id="116.unifi"><display-name lang="en">Sensasi</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="118.unifi"><display-name>Inspirasi</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="141.unifi"><display-name lang="en">Pesona HD</display-name><url>https://playtv.unifi.com.my</url></channel>
+ <channel id="233.unifi"><display-name lang="en">Now Jelli HD</display-name><url>https://playtv.unifi.com.my</url></channel>
+ <channel id="239.unifi"><display-name lang="en">SETI</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="RCTIHD.id"><display-name>RCTI HD</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://mncvision.id</url></channel>
 <channel id="ROCKAction.id"><display-name>Rock Action</display-name><url>https://mncvision.id</url></channel>
 <channel id="ROCKEntertainment.sg"><display-name>ROCK Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://mncvision.id</url></channel>
@@ -9579,5 +9581,413 @@ terpisah dan tersesat.</desc>
  <programme start="20231203200000 +0800" stop="20231203203000 +0800" channel="113.unifi">
   <title lang="en">Jom Fesyen S4 Ep3</title>
   <desc lang="en">Jom Fesyen bersama pengacara anda Nadia Brian yang akan membawa para penonton mengembara ke seluruh pelosok negeri untuk menerokai dan mengenali lebih banyak fesyen dari pereka-pereka fesyen terkenal dan terkemuka di negara kita. Episod kali ini Nadia akan membawa penonton Jom Fesyen ke negeri Pahang untuk melihat penghasilan kain tenun Pahang dan sejarah dari mana asal usul kain tenung Pahang.</desc>
+ </programme>
+  <programme start="20231201113500 +0800" stop="20231201130500 +0800" channel="233.unifi">
+  <title lang="en">An Exciting Offer Season 4 Ep14</title>
+  <desc lang="en">The reality show of this season is to focus 10 young architectural interns to work in Beijing Institute of Architectural Design for a month. ChunYe Zhang, Nicholas Tse, Jason Zhang, Xueqin Li, Gabrielle Guan, etc. formed as cheer up team to witness their passionate growth process.</desc>
+ </programme>
+ <programme start="20231201130500 +0800" stop="20231201133500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231201133500 +0800" stop="20231201140500 +0800" channel="233.unifi">
+  <title lang="en">Travel through Jiangsu Season 2 Ep2</title>
+  <desc lang="en">Travel around the scenic spots and historic sites and the streets and alleys of the whole province of Jiangsu, look for historians, scholars, folk artisans, etc., explore a glimpse of what traditional Chinese culture and discover the unique charm of Jiangsu.</desc>
+ </programme>
+ <programme start="20231201140500 +0800" stop="20231201150500 +0800" channel="233.unifi">
+  <title lang="en">The Honorable Chef Ep13</title>
+  <desc lang="en">Four top catering masters representing diners and restaurant operators were invited to form a jury panel to evaluate the creations and outstanding culinary skills of the chef contestants. Lets see who will become the Honorable Chef!</desc>
+ </programme>
+ <programme start="20231201150500 +0800" stop="20231201163500 +0800" channel="233.unifi">
+  <title lang="en">New Chinese Dating Event Ep8</title>
+  <desc lang="en">A large-scale Chinese blind dating program which candidates are invited to the show with their family. Both candidates and parents have the opportunity to choose their best couple and spouse. Will the candidate listen to their parents decision or follow their heart?</desc>
+ </programme>
+ <programme start="20231201163500 +0800" stop="20231201180500 +0800" channel="233.unifi">
+  <title lang="en">Star Chaser Season 3 Ep9</title>
+  <desc lang="en">Nicky Wu and new members like Raymond Lam, Ryan Ding, Lin Yun and Zhao Xiaotang are invited to serve as the members of Star Chaser, letting go the trivialities and troubles of daily life and recalling the sincere and touching relationship under the starry sky. Lets share the sense of healing in the trip!</desc>
+ </programme>
+ <programme start="20231201180500 +0800" stop="20231201190500 +0800" channel="233.unifi">
+  <title lang="en">Talk To Your Boss: Friends Season Ep2</title>
+  <desc lang="en">The show undergoes a new upgrade with the theme &quot;Friends Season,&quot; focusing the observation samples on workplace comrades with stronger emotions and deeper bonds. It explores complex solutions to workplace issues through the lens of veteran co-workers.</desc>
+ </programme>
+ <programme start="20231201190500 +0800" stop="20231201193500 +0800" channel="233.unifi">
+  <title lang="en">Rendezvous with the Grand Canal Ep1</title>
+  <desc lang="en">Intangible cultural heritage seekers follow the cultural context of the canal, exploring a city, meeting a creative inheritor of intangible cultural heritage, and sharing an enduring story of the canal. It showcases the beauty of craftsmanship, intangible cultural heritage, and local culture along the Grand Canal in Jiangsu Province.</desc>
+ </programme>
+ <programme start="20231201193500 +0800" stop="20231201200500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231201200500 +0800" stop="20231201215000 +0800" channel="233.unifi">
+  <title lang="en">Aces vs Aces Season 8 (Live) Ep6</title>
+  <desc lang="en">In each episode, a specific theme is chosen, and two top-notch teams are invited to compete against each other. Led by two team captains, they guide their celebrity guests through a series of talent showcases and game competitions to determine the ultimate &quot;King of Kings.&quot; The &quot;Ace Family&quot; consisting of Shen Teng, Hua Chenyu, Gabrielle Guan, Song Yaxuan, and Shen Tao are all set and ready for the joyful party. To everyone's surprise, the &quot;Ace Friends&quot; Yang Di, Yi Sha, and Tiffany Tang join in, igniting the atmosphere of happiness! Get ready for an exciting and entertaining showdown!</desc>
+ </programme>
+ <programme start="20231201215000 +0800" stop="20231201222000 +0800" channel="233.unifi">
+  <title lang="en">The Culture Sit-down with Wang Xiaohui Season 3 Ep9</title>
+  <desc lang="en">The program takes social and cultural phenomena and hot cultural topics. Starting from the perspective of cultural initiator Wang Xiaohui, who analyzes the true connotation of Chinese culture through interviews and dialogues.</desc>
+ </programme>
+ <programme start="20231201222000 +0800" stop="20231201230500 +0800" channel="233.unifi">
+  <title lang="en">Pet Doctor Season 2 Ep4</title>
+  <desc lang="en">This program records all kinds of cute pets, showing warmth and healing and professionalism to convey warmth, easier to connect and understand with sincerity. Lets have a new understanding of pet doctors.</desc>
+ </programme>
+ <programme start="20231201230500 +0800" stop="20231202000500 +0800" channel="233.unifi">
+  <title lang="en">Study On The Island Season 2 Ep1</title>
+  <desc lang="en">The bookstore is located in the healing Dong'ao Island of Zhuhai; it mainly focuses on the relationship between a certain emotion and literature in people's daily life; through the dialogue and exchange of &quot;bookstore managers&quot;, which spiritual healing is obtained from it.</desc>
+ </programme>
+ <programme start="20231202000500 +0800" stop="20231202010500 +0800" channel="233.unifi">
+  <title lang="en">The Honorable Chef Ep13</title>
+  <desc lang="en">Four top catering masters representing diners and restaurant operators were invited to form a jury panel to evaluate the creations and outstanding culinary skills of the chef contestants. Lets see who will become the Honorable Chef!</desc>
+ </programme>
+ <programme start="20231202010500 +0800" stop="20231202020500 +0800" channel="233.unifi">
+  <title lang="en">All Reviving Ep4</title>
+  <desc lang="en">A documentary cultural program focuses on intangible cultural heritage. Yang Lan, the Chinese media proprietor &amp; journalist, brings us to visit the inheritors of 11 intangible cultural heritage skills with cultural successors, discovers the essence of Chinese excellent traditional culture.</desc>
+ </programme>
+ <programme start="20231202020500 +0800" stop="20231202033500 +0800" channel="233.unifi">
+  <title lang="en">Camping Life Season 2 Ep4</title>
+  <desc lang="en">The initiator William Chan invited his friends, Wei Daxun, Lil Ghost, Di Yang, Yin Zheng &amp; Zhang Yanqi, to complete 5 themed camps with building different kind of ideal life portraits.</desc>
+ </programme>
+ <programme start="20231202033500 +0800" stop="20231202043500 +0800" channel="233.unifi">
+  <title lang="en">Share Life Ep24</title>
+  <desc lang="en">Focusing on the life of the youngsters with Shanghai as the story background, six guests of different ages, occupations and genders would share life for 105 days because of various reasons. The observation group includes G.E.M., Li Dan, Chen Jian Bin, Wei Da Xun, Zeng Ke Ni, and Yang Li.</desc>
+ </programme>
+ <programme start="20231202043500 +0800" stop="20231202063500 +0800" channel="233.unifi">
+  <title lang="en">WOW Club Ep1</title>
+  <desc lang="en">Six comedians from Northeast China, Jian Jun Tang, Xiaoli Wang, Bing Yang, Song Wen, Tianwa and Yunpeng Zhou, are invited to join the first Northeast characteristic comedy detective variety show. They visit towns and cities from a new perspective and look for childhood memories, bringing witty real-time interaction, three-dimensional display of the amazing urban style and cultural charm of the region.</desc>
+ </programme>
+ <programme start="20231202063500 +0800" stop="20231202070500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231202070500 +0800" stop="20231202080500 +0800" channel="233.unifi">
+  <title lang="en">All Reviving Ep4</title>
+  <desc lang="en">A documentary cultural program focuses on intangible cultural heritage. Yang Lan, the Chinese media proprietor &amp; journalist, brings us to visit the inheritors of 11 intangible cultural heritage skills with cultural successors, discovers the essence of Chinese excellent traditional culture.</desc>
+ </programme>
+ <programme start="20231202080500 +0800" stop="20231202093500 +0800" channel="233.unifi">
+  <title lang="en">The Inheritors Season 2 Ep6</title>
+  <desc lang="en">Intangible Cultural Heritage refers to the behavior or performance which is important for cultural inheritance in a certain district, such as folk custom, culture, beliefs, traditions, etc. As the theme of this program, the results of protection of intangible cultural heritage could be demonstrated and promoted comprehensively.</desc>
+ </programme>
+ <programme start="20231202093500 +0800" stop="20231202100500 +0800" channel="233.unifi">
+  <title lang="en">Navigating to the Future Ep4</title>
+  <desc lang="en">The vibrant implementation of Chinese-style modernization is presented from various perspectives, utilizing vivid grassroots stories, tangible and sensory details, as well as comprehensive sets of real and objective data, with Chinese-style modernization serving as the central narrative context.</desc>
+ </programme>
+ <programme start="20231202100500 +0800" stop="20231202110500 +0800" channel="233.unifi">
+  <title lang="en">Share Life Ep24</title>
+  <desc lang="en">Focusing on the life of the youngsters with Shanghai as the story background, six guests of different ages, occupations and genders would share life for 105 days because of various reasons. The observation group includes G.E.M., Li Dan, Chen Jian Bin, Wei Da Xun, Zeng Ke Ni, and Yang Li.</desc>
+ </programme>
+ <programme start="20231202110500 +0800" stop="20231202123500 +0800" channel="233.unifi">
+  <title lang="en">Star Chaser Season 3 Ep9</title>
+  <desc lang="en">Nicky Wu and new members like Raymond Lam, Ryan Ding, Lin Yun and Zhao Xiaotang are invited to serve as the members of Star Chaser, letting go the trivialities and troubles of daily life and recalling the sincere and touching relationship under the starry sky. Lets share the sense of healing in the trip!</desc>
+ </programme>
+ <programme start="20231202123500 +0800" stop="20231202133500 +0800" channel="233.unifi">
+  <title lang="en">Cheer Up! Little Shops Ep9</title>
+  <desc lang="en">Total 6 young people, Yvonne Ching, Cary Wong, Ruan Yu, Sabrina Mendes, Oscar Tao and Randal Tsang, formed as two groups to visit various little shops by showing the better way of doing business. They want to focus closely on the theme of people's livelihood and various little shops in Shanghai.</desc>
+ </programme>
+ <programme start="20231202133500 +0800" stop="20231202143500 +0800" channel="233.unifi">
+  <title lang="en">Talk To Your Boss: Friends Season Ep2</title>
+  <desc lang="en">The show undergoes a new upgrade with the theme &quot;Friends Season,&quot; focusing the observation samples on workplace comrades with stronger emotions and deeper bonds. It explores complex solutions to workplace issues through the lens of veteran co-workers.</desc>
+ </programme>
+ <programme start="20231202143500 +0800" stop="20231202150500 +0800" channel="233.unifi">
+  <title lang="en">Rendezvous with the Grand Canal Ep1</title>
+  <desc lang="en">Intangible cultural heritage seekers follow the cultural context of the canal, exploring a city, meeting a creative inheritor of intangible cultural heritage, and sharing an enduring story of the canal. It showcases the beauty of craftsmanship, intangible cultural heritage, and local culture along the Grand Canal in Jiangsu Province.</desc>
+ </programme>
+ <programme start="20231202150500 +0800" stop="20231202153500 +0800" channel="233.unifi">
+  <title lang="en">Travel through Jiangsu Season 2 Ep2</title>
+  <desc lang="en">Travel around the scenic spots and historic sites and the streets and alleys of the whole province of Jiangsu, look for historians, scholars, folk artisans, etc., explore a glimpse of what traditional Chinese culture and discover the unique charm of Jiangsu.</desc>
+ </programme>
+ <programme start="20231202153500 +0800" stop="20231202163500 +0800" channel="233.unifi">
+  <title lang="en">Study On The Island Season 2 Ep1</title>
+  <desc lang="en">The bookstore is located in the healing Dong'ao Island of Zhuhai; it mainly focuses on the relationship between a certain emotion and literature in people's daily life; through the dialogue and exchange of &quot;bookstore managers&quot;, which spiritual healing is obtained from it.</desc>
+ </programme>
+ <programme start="20231202163500 +0800" stop="20231202170500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231202170500 +0800" stop="20231202180500 +0800" channel="233.unifi">
+  <title lang="en">All Reviving Ep4</title>
+  <desc lang="en">A documentary cultural program focuses on intangible cultural heritage. Yang Lan, the Chinese media proprietor &amp; journalist, brings us to visit the inheritors of 11 intangible cultural heritage skills with cultural successors, discovers the essence of Chinese excellent traditional culture.</desc>
+ </programme>
+ <programme start="20231202180500 +0800" stop="20231202193500 +0800" channel="233.unifi">
+  <title lang="en">An Exciting Offer Season 4 Ep14</title>
+  <desc lang="en">The reality show of this season is to focus 10 young architectural interns to work in Beijing Institute of Architectural Design for a month. ChunYe Zhang, Nicholas Tse, Jason Zhang, Xueqin Li, Gabrielle Guan, etc. formed as cheer up team to witness their passionate growth process.</desc>
+ </programme>
+ <programme start="20231202193500 +0800" stop="20231202203500 +0800" channel="233.unifi">
+  <title lang="en">Study On The Island Season 2 Ep1</title>
+  <desc lang="en">The bookstore is located in the healing Dong'ao Island of Zhuhai; it mainly focuses on the relationship between a certain emotion and literature in people's daily life; through the dialogue and exchange of &quot;bookstore managers&quot;, which spiritual healing is obtained from it.</desc>
+ </programme>
+ <programme start="20231202203500 +0800" stop="20231202220500 +0800" channel="233.unifi">
+  <title lang="en">The Inheritors Season 2 Ep6</title>
+  <desc lang="en">Intangible Cultural Heritage refers to the behavior or performance which is important for cultural inheritance in a certain district, such as folk custom, culture, beliefs, traditions, etc. As the theme of this program, the results of protection of intangible cultural heritage could be demonstrated and promoted comprehensively.</desc>
+ </programme>
+ <programme start="20231202220500 +0800" stop="20231203000500 +0800" channel="233.unifi">
+  <title lang="en">Hit It Off Ep15</title>
+  <desc lang="en">A group of actors and partners study advanced reality shows. Famous directors and stars, like Stanley Kwan, Francis Ng, and Ann Hui act as &quot;producers&quot; to give advice for them. More than a dozen participating young actors, will pair up with other actors through common life and training.</desc>
+ </programme>
+ <programme start="20231203000500 +0800" stop="20231203013500 +0800" channel="233.unifi">
+  <title lang="en">An Exciting Offer Season 4 Ep14</title>
+  <desc lang="en">The reality show of this season is to focus 10 young architectural interns to work in Beijing Institute of Architectural Design for a month. ChunYe Zhang, Nicholas Tse, Jason Zhang, Xueqin Li, Gabrielle Guan, etc. formed as cheer up team to witness their passionate growth process.</desc>
+ </programme>
+ <programme start="20231203013500 +0800" stop="20231203030500 +0800" channel="233.unifi">
+  <title lang="en">Star Chaser Season 3 Ep9</title>
+  <desc lang="en">Nicky Wu and new members like Raymond Lam, Ryan Ding, Lin Yun and Zhao Xiaotang are invited to serve as the members of Star Chaser, letting go the trivialities and troubles of daily life and recalling the sincere and touching relationship under the starry sky. Lets share the sense of healing in the trip!</desc>
+ </programme>
+ <programme start="20231203030500 +0800" stop="20231203050500 +0800" channel="233.unifi">
+  <title lang="en">Hit It Off Ep15</title>
+  <desc lang="en">A group of actors and partners study advanced reality shows. Famous directors and stars, like Stanley Kwan, Francis Ng, and Ann Hui act as &quot;producers&quot; to give advice for them. More than a dozen participating young actors, will pair up with other actors through common life and training.</desc>
+ </programme>
+ <programme start="20231203050500 +0800" stop="20231203053500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231203053500 +0800" stop="20231203070500 +0800" channel="233.unifi">
+  <title lang="en">Camping Life Season 2 Ep4</title>
+  <desc lang="en">The initiator William Chan invited his friends, Wei Daxun, Lil Ghost, Di Yang, Yin Zheng &amp; Zhang Yanqi, to complete 5 themed camps with building different kind of ideal life portraits.</desc>
+ </programme>
+ <programme start="20231203070500 +0800" stop="20231203080500 +0800" channel="233.unifi">
+  <title lang="en">Talk To Your Boss: Friends Season Ep2</title>
+  <desc lang="en">The show undergoes a new upgrade with the theme &quot;Friends Season,&quot; focusing the observation samples on workplace comrades with stronger emotions and deeper bonds. It explores complex solutions to workplace issues through the lens of veteran co-workers.</desc>
+ </programme>
+ <programme start="20231203080500 +0800" stop="20231203083500 +0800" channel="233.unifi">
+  <title lang="en">Rendezvous with the Grand Canal Ep1</title>
+  <desc lang="en">Intangible cultural heritage seekers follow the cultural context of the canal, exploring a city, meeting a creative inheritor of intangible cultural heritage, and sharing an enduring story of the canal. It showcases the beauty of craftsmanship, intangible cultural heritage, and local culture along the Grand Canal in Jiangsu Province.</desc>
+ </programme>
+ <programme start="20231203083500 +0800" stop="20231203100500 +0800" channel="233.unifi">
+  <title lang="en">Star Chaser Season 3 Ep9</title>
+  <desc lang="en">Nicky Wu and new members like Raymond Lam, Ryan Ding, Lin Yun and Zhao Xiaotang are invited to serve as the members of Star Chaser, letting go the trivialities and troubles of daily life and recalling the sincere and touching relationship under the starry sky. Lets share the sense of healing in the trip!</desc>
+ </programme>
+ <programme start="20231203100500 +0800" stop="20231203110500 +0800" channel="233.unifi">
+  <title lang="en">The Honorable Chef Ep13</title>
+  <desc lang="en">Four top catering masters representing diners and restaurant operators were invited to form a jury panel to evaluate the creations and outstanding culinary skills of the chef contestants. Lets see who will become the Honorable Chef!</desc>
+ </programme>
+ <programme start="20231203110500 +0800" stop="20231203120500 +0800" channel="233.unifi">
+  <title lang="en">Study On The Island Season 2 Ep1</title>
+  <desc lang="en">The bookstore is located in the healing Dong'ao Island of Zhuhai; it mainly focuses on the relationship between a certain emotion and literature in people's daily life; through the dialogue and exchange of &quot;bookstore managers&quot;, which spiritual healing is obtained from it.</desc>
+ </programme>
+ <programme start="20231203120500 +0800" stop="20231203123500 +0800" channel="233.unifi">
+  <title lang="en">Tour With Classics Season 2 Ep36</title>
+  <desc lang="en">The program helps to explore humanistic perception and tourism experience via outdoor visit and leads the audience to experience the beautiful scenery, spread humanities, review history, re-visit classics by feeling the soul of cultural spirit.</desc>
+ </programme>
+ <programme start="20231203123500 +0800" stop="20231203133500 +0800" channel="233.unifi">
+  <title lang="en">The Shape Of Culture Season 2 Ep4</title>
+  <desc lang="en">The cultural show invited Shan Jixiang, Yun Zhou, Yan Xiao, Niu Junfeng as &quot;youth troupe&quot; to present new wonders, new landmarks, new sights and the diversity of world heritages and civilization from multiple perspectives and to undercover the story of the World Heritage sites behind.</desc>
+ </programme>
+ <programme start="20231203133500 +0800" stop="20231203150500 +0800" channel="233.unifi">
+  <title lang="en">Camping Life Season 2 Ep4</title>
+  <desc lang="en">The initiator William Chan invited his friends, Wei Daxun, Lil Ghost, Di Yang, Yin Zheng &amp; Zhang Yanqi, to complete 5 themed camps with building different kind of ideal life portraits.</desc>
+ </programme>
+ <programme start="20231203150500 +0800" stop="20231203163500 +0800" channel="233.unifi">
+  <title lang="en">An Exciting Offer Season 4 Ep14</title>
+  <desc lang="en">The reality show of this season is to focus 10 young architectural interns to work in Beijing Institute of Architectural Design for a month. ChunYe Zhang, Nicholas Tse, Jason Zhang, Xueqin Li, Gabrielle Guan, etc. formed as cheer up team to witness their passionate growth process.</desc>
+ </programme>
+ <programme start="20231203163500 +0800" stop="20231203180500 +0800" channel="233.unifi">
+  <title lang="en">Perfect Match (2018) Ep11</title>
+  <desc lang="en">The brand new version of &quot;Perfect Match&quot;, 24 female guests will be divided into think about zone and observation zone. The male guests will not show their appearance at that moment. They will have conversation with the female guests through the &quot;second scene&quot;. All guests by two-way choice get to decide if they are the right persons to couple up.</desc>
+ </programme>
+ <programme start="20231203180500 +0800" stop="20231203183500 +0800" channel="233.unifi">
+  <title lang="en">Navigating to the Future Ep4</title>
+  <desc lang="en">The vibrant implementation of Chinese-style modernization is presented from various perspectives, utilizing vivid grassroots stories, tangible and sensory details, as well as comprehensive sets of real and objective data, with Chinese-style modernization serving as the central narrative context.</desc>
+ </programme>
+ <programme start="20231203183500 +0800" stop="20231203193500 +0800" channel="233.unifi">
+  <title lang="en">Study On The Island Season 2 Ep1</title>
+  <desc lang="en">The bookstore is located in the healing Dong'ao Island of Zhuhai; it mainly focuses on the relationship between a certain emotion and literature in people's daily life; through the dialogue and exchange of &quot;bookstore managers&quot;, which spiritual healing is obtained from it.</desc>
+ </programme>
+ <programme start="20231203193500 +0800" stop="20231203210500 +0800" channel="233.unifi">
+  <title lang="en">Camping Life Season 2 Ep4</title>
+  <desc lang="en">The initiator William Chan invited his friends, Wei Daxun, Lil Ghost, Di Yang, Yin Zheng &amp; Zhang Yanqi, to complete 5 themed camps with building different kind of ideal life portraits.</desc>
+ </programme>
+ <programme start="20231203210500 +0800" stop="20231203230500 +0800" channel="233.unifi">
+  <title lang="en">Singing With Legends Season 5 (Live) Ep9</title>
+  <desc lang="en">Celebrities from different generations like A-Lin, Wowkie Zhang, Harlem Yu, Jiaqi Ma, Michael Wong, Huiling So, Krystal Chen, Mike Tsang, Pax Congo, Momo Wu, etc., were invited to perform in a brand-new upgraded &quot;blind selection pairing&quot; mode. They broke through themselves in intergenerational inheritance and era blending, creating the warmest and most moving music feast.</desc>
+ </programme>
+  <programme start="20231201100500 +0800" stop="20231201120500 +0800" channel="239.unifi">
+  <title lang="en">In the Family (T) Ep255256</title>
+  <desc lang="en">&quot;Home&quot; as axis X and &quot;love&quot; as axis Y, this piece exquisitely depicts the ups and downs in life of an ordinary family. From touching sibling love, to the struggles and entanglement of parent-child relationship, the show elaborates on the importance of encountering the surroundings with a positive attitude. Through a bowl of beef noodle soup, Hui-wen and Chien-chin teach their four daughters, Spring, Summer, Fall, and Winter, how to behave around others. The heartwarming play is relaxing, fun, humorous, and a tearjerker.</desc>
+ </programme>
+ <programme start="20231201120500 +0800" stop="20231201130500 +0800" channel="239.unifi">
+  <title lang="en">The Tradition Story of Taiwan (T) Ep47554756</title>
+  <desc lang="en">The Tradition Story of Taiwan presents a series of tales and folktales in Taiwan that have been pass down from one generation to another generation</desc>
+ </programme>
+ <programme start="20231201130500 +0800" stop="20231201140500 +0800" channel="239.unifi">
+  <title lang="en">Hot Door Night (M) Ep2119</title>
+  <desc lang="en">Different in age, generation, and hosting style, these three hosts not only can sing, act, dance, and imitate, but are also skilled in cross-talk! With this unique combination, we hope to attract viewers of all ages and spark great entertainment.</desc>
+ </programme>
+ <programme start="20231201140500 +0800" stop="20231201150500 +0800" channel="239.unifi">
+  <title lang="en">Stylish Man-The Chef (M) Ep3717</title>
+  <desc lang="en">&lt;Stylish Man  The Chef&gt; is co-hosted by the Golden Bell Awards winner Sam Tseng, Bernice Tsai and Genie Chuo, together with two professional chefs, A-Chi and James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. &lt;Stylish Man  The Chef&gt; containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
+ </programme>
+ <programme start="20231201150500 +0800" stop="20231201170500 +0800" channel="239.unifi">
+  <title lang="en">New Taiwan Go (M) Ep2777</title>
+  <desc lang="en">Depth analysis of the day breaking news headlines to restore the truth inside</desc>
+ </programme>
+ <programme start="20231201170500 +0800" stop="20231201180500 +0800" channel="239.unifi">
+  <title lang="en">Stylish Man-The Chef (M) Ep3717</title>
+  <desc lang="en">&lt;Stylish Man  The Chef&gt; is co-hosted by the Golden Bell Awards winner Sam Tseng, Bernice Tsai and Genie Chuo, together with two professional chefs, A-Chi and James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. &lt;Stylish Man  The Chef&gt; containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
+ </programme>
+ <programme start="20231201180500 +0800" stop="20231201190500 +0800" channel="239.unifi">
+  <title lang="en">The Tradition Story of Taiwan (T) Ep47564757</title>
+  <desc lang="en">The Tradition Story of Taiwan presents a series of tales and folktales in Taiwan that have been pass down from one generation to another generation</desc>
+ </programme>
+ <programme start="20231201190500 +0800" stop="20231201210500 +0800" channel="239.unifi">
+  <title lang="en">In the Family (T) Ep257258</title>
+  <desc lang="en">&quot;Home&quot; as axis X and &quot;love&quot; as axis Y, this piece exquisitely depicts the ups and downs in life of an ordinary family. From touching sibling love, to the struggles and entanglement of parent-child relationship, the show elaborates on the importance of encountering the surroundings with a positive attitude. Through a bowl of beef noodle soup, Hui-wen and Chien-chin teach their four daughters, Spring, Summer, Fall, and Winter, how to behave around others. The heartwarming play is relaxing, fun, humorous, and a tearjerker.</desc>
+ </programme>
+ <programme start="20231201210500 +0800" stop="20231201220500 +0800" channel="239.unifi">
+  <title lang="en">Hot Door Night (M) Ep1867</title>
+  <desc lang="en">Different in age, generation, and hosting style, these three hosts not only can sing, act, dance, and imitate, but are also skilled in cross-talk! With this unique combination, we hope to attract viewers of all ages and spark great entertainment.</desc>
+ </programme>
+ <programme start="20231201220500 +0800" stop="20231201230500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231201230500 +0800" stop="20231202000500 +0800" channel="239.unifi">
+  <title lang="en">Stylish Man-The Chef (M) Ep3400</title>
+  <desc lang="en">&lt;Stylish Man  The Chef&gt; is co-hosted by the Golden Bell Awards winner Sam Tseng, Bernice Tsai and Genie Chuo, together with two professional chefs, A-Chi and James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. &lt;Stylish Man  The Chef&gt; containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
+ </programme>
+ <programme start="20231202000500 +0800" stop="20231202010500 +0800" channel="239.unifi">
+  <title lang="en">The Tradition Story of Taiwan (T) Ep47564757</title>
+  <desc lang="en">The Tradition Story of Taiwan presents a series of tales and folktales in Taiwan that have been pass down from one generation to another generation</desc>
+ </programme>
+ <programme start="20231202010500 +0800" stop="20231202020500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231202020500 +0800" stop="20231202040500 +0800" channel="239.unifi">
+  <title lang="en">In the Family (T) Ep257258</title>
+  <desc lang="en">&quot;Home&quot; as axis X and &quot;love&quot; as axis Y, this piece exquisitely depicts the ups and downs in life of an ordinary family. From touching sibling love, to the struggles and entanglement of parent-child relationship, the show elaborates on the importance of encountering the surroundings with a positive attitude. Through a bowl of beef noodle soup, Hui-wen and Chien-chin teach their four daughters, Spring, Summer, Fall, and Winter, how to behave around others. The heartwarming play is relaxing, fun, humorous, and a tearjerker.</desc>
+ </programme>
+ <programme start="20231202040500 +0800" stop="20231202050500 +0800" channel="239.unifi">
+  <title lang="en">The Tradition Story of Taiwan (T) Ep47564757</title>
+  <desc lang="en">The Tradition Story of Taiwan presents a series of tales and folktales in Taiwan that have been pass down from one generation to another generation</desc>
+ </programme>
+ <programme start="20231202050500 +0800" stop="20231202060500 +0800" channel="239.unifi">
+  <title lang="en">Hot Door Night (M) Ep1867</title>
+  <desc lang="en">Different in age, generation, and hosting style, these three hosts not only can sing, act, dance, and imitate, but are also skilled in cross-talk! With this unique combination, we hope to attract viewers of all ages and spark great entertainment.</desc>
+ </programme>
+ <programme start="20231202060500 +0800" stop="20231202070500 +0800" channel="239.unifi">
+  <title lang="en">Stylish Man-The Chef (M) Ep3400</title>
+  <desc lang="en">&lt;Stylish Man  The Chef&gt; is co-hosted by the Golden Bell Awards winner Sam Tseng, Bernice Tsai and Genie Chuo, together with two professional chefs, A-Chi and James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. &lt;Stylish Man  The Chef&gt; containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
+ </programme>
+ <programme start="20231202070500 +0800" stop="20231202090500 +0800" channel="239.unifi">
+  <title lang="en">New Taiwan Go (M) Ep2778</title>
+  <desc lang="en">Depth analysis of the day breaking news headlines to restore the truth inside</desc>
+ </programme>
+ <programme start="20231202090500 +0800" stop="20231202100500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231202100500 +0800" stop="20231202120500 +0800" channel="239.unifi">
+  <title lang="en">In the Family (T) Ep257258</title>
+  <desc lang="en">&quot;Home&quot; as axis X and &quot;love&quot; as axis Y, this piece exquisitely depicts the ups and downs in life of an ordinary family. From touching sibling love, to the struggles and entanglement of parent-child relationship, the show elaborates on the importance of encountering the surroundings with a positive attitude. Through a bowl of beef noodle soup, Hui-wen and Chien-chin teach their four daughters, Spring, Summer, Fall, and Winter, how to behave around others. The heartwarming play is relaxing, fun, humorous, and a tearjerker.</desc>
+ </programme>
+ <programme start="20231202120500 +0800" stop="20231202130500 +0800" channel="239.unifi">
+  <title lang="en">The Tradition Story of Taiwan (T) Ep47564757</title>
+  <desc lang="en">The Tradition Story of Taiwan presents a series of tales and folktales in Taiwan that have been pass down from one generation to another generation</desc>
+ </programme>
+ <programme start="20231202130500 +0800" stop="20231202140500 +0800" channel="239.unifi">
+  <title lang="en">Hot Door Night (M) Ep1867</title>
+  <desc lang="en">Different in age, generation, and hosting style, these three hosts not only can sing, act, dance, and imitate, but are also skilled in cross-talk! With this unique combination, we hope to attract viewers of all ages and spark great entertainment.</desc>
+ </programme>
+ <programme start="20231202140500 +0800" stop="20231202150500 +0800" channel="239.unifi">
+  <title lang="en">Stylish Man-The Chef (M) Ep3400</title>
+  <desc lang="en">&lt;Stylish Man  The Chef&gt; is co-hosted by the Golden Bell Awards winner Sam Tseng, Bernice Tsai and Genie Chuo, together with two professional chefs, A-Chi and James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. &lt;Stylish Man  The Chef&gt; containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
+ </programme>
+ <programme start="20231202150500 +0800" stop="20231202170500 +0800" channel="239.unifi">
+  <title lang="en">New Taiwan Go (M) Ep2778</title>
+  <desc lang="en">Depth analysis of the day breaking news headlines to restore the truth inside</desc>
+ </programme>
+ <programme start="20231202170500 +0800" stop="20231202180500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231202180500 +0800" stop="20231202190500 +0800" channel="239.unifi">
+  <title lang="en">Have A Nice Dream (M) Ep123</title>
+  <desc lang="en">Five young professionals with different life skills, team up for two days and one night trip, leading the audiance to explore the good life of nature and the beauty of the land of Taiwan.</desc>
+ </programme>
+ <programme start="20231202190500 +0800" stop="20231202200500 +0800" channel="239.unifi">
+  <title lang="en">Way to Health(M) Ep237238</title>
+  <desc lang="en">This show invites top medical professionals from different fields to answer questions from the audience. Approved by the medical world, this show is an influential, as well as reliable place to understand more about ones health.</desc>
+ </programme>
+ <programme start="20231202200500 +0800" stop="20231202220500 +0800" channel="239.unifi">
+  <title lang="en">Mr.Player (M) Ep474</title>
+  <desc lang="en">Depending on the locations of the missions, Jacky Wu, the leader of the home team, invites various celebrities to take on challenges and bring you excitement every week.</desc>
+ </programme>
+ <programme start="20231202220500 +0800" stop="20231203000500 +0800" channel="239.unifi">
+  <title lang="en">Lost Romance(M) Ep2829</title>
+  <desc lang="en">Xiao-En Zheng is an ordinary editor for romance novels who always dreams that one day a rich hunk would come and save her. One of her enjoyable times is to peek out the window to see Tian-Xing He, who is a CEO working in the next building.
+Her world changes completely when an accident occurs. She time travels into her novel. Not knowing where she is, she sees Tian-Xing He walking towards her.</desc>
+ </programme>
+ <programme start="20231203000500 +0800" stop="20231203010500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231203010500 +0800" stop="20231203020500 +0800" channel="239.unifi">
+  <title lang="en">Have A Nice Dream (M) Ep123</title>
+  <desc lang="en">Five young professionals with different life skills, team up for two days and one night trip, leading the audiance to explore the good life of nature and the beauty of the land of Taiwan.</desc>
+ </programme>
+ <programme start="20231203020500 +0800" stop="20231203030500 +0800" channel="239.unifi">
+  <title lang="en">Taichung Player(M) Ep237238</title>
+  <desc lang="en">Chin-Lan Chang &amp; Top Social Media Infulencer travel &amp; explore Taichong!</desc>
+ </programme>
+ <programme start="20231203030500 +0800" stop="20231203050500 +0800" channel="239.unifi">
+  <title lang="en">Mr.Player (M) Ep474</title>
+  <desc lang="en">Depending on the locations of the missions, Jacky Wu, the leader of the home team, invites various celebrities to take on challenges and bring you excitement every week.</desc>
+ </programme>
+ <programme start="20231203050500 +0800" stop="20231203070500 +0800" channel="239.unifi">
+  <title lang="en">Lost Romance(M) Ep2829</title>
+  <desc lang="en">Xiao-En Zheng is an ordinary editor for romance novels who always dreams that one day a rich hunk would come and save her. One of her enjoyable times is to peek out the window to see Tian-Xing He, who is a CEO working in the next building.
+Her world changes completely when an accident occurs. She time travels into her novel. Not knowing where she is, she sees Tian-Xing He walking towards her.</desc>
+ </programme>
+ <programme start="20231203070500 +0800" stop="20231203080500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231203080500 +0800" stop="20231203090500 +0800" channel="239.unifi">
+  <title lang="en">Have A Nice Dream (M) Ep123</title>
+  <desc lang="en">Five young professionals with different life skills, team up for two days and one night trip, leading the audiance to explore the good life of nature and the beauty of the land of Taiwan.</desc>
+ </programme>
+ <programme start="20231203090500 +0800" stop="20231203100500 +0800" channel="239.unifi">
+  <title lang="en">Way to Health(M) Ep237238</title>
+  <desc lang="en">This show invites top medical professionals from different fields to answer questions from the audience. Approved by the medical world, this show is an influential, as well as reliable place to understand more about ones health.</desc>
+ </programme>
+ <programme start="20231203100500 +0800" stop="20231203120500 +0800" channel="239.unifi">
+  <title lang="en">Mr.Player (M) Ep474</title>
+  <desc lang="en">Depending on the locations of the missions, Jacky Wu, the leader of the home team, invites various celebrities to take on challenges and bring you excitement every week.</desc>
+ </programme>
+ <programme start="20231203120500 +0800" stop="20231203140500 +0800" channel="239.unifi">
+  <title lang="en">Lost Romance(M) Ep2829</title>
+  <desc lang="en">Xiao-En Zheng is an ordinary editor for romance novels who always dreams that one day a rich hunk would come and save her. One of her enjoyable times is to peek out the window to see Tian-Xing He, who is a CEO working in the next building.
+Her world changes completely when an accident occurs. She time travels into her novel. Not knowing where she is, she sees Tian-Xing He walking towards her.</desc>
+ </programme>
+ <programme start="20231203140500 +0800" stop="20231203150500 +0800" channel="239.unifi">
+  <title lang="en">Way to Health(M) Ep237238</title>
+  <desc lang="en">This show invites top medical professionals from different fields to answer questions from the audience. Approved by the medical world, this show is an influential, as well as reliable place to understand more about ones health.</desc>
+ </programme>
+ <programme start="20231203150500 +0800" stop="20231203160500 +0800" channel="239.unifi">
+  <title lang="en">Have A Nice Dream (M) Ep123</title>
+  <desc lang="en">Five young professionals with different life skills, team up for two days and one night trip, leading the audiance to explore the good life of nature and the beauty of the land of Taiwan.</desc>
+ </programme>
+ <programme start="20231203160500 +0800" stop="20231203170500 +0800" channel="239.unifi">
+  <title lang="en">Stories In Taiwan (T) Ep1017</title>
+  <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
+ </programme>
+ <programme start="20231203170500 +0800" stop="20231203180500 +0800" channel="239.unifi">
+  <title lang="en">Battle Tour(M) Ep27</title>
+  <desc lang="en">Brand new concept of a travelogue show! Hosts will be using a different perspectives and knowledge to show you the latest tourist spots to check in!</desc>
+ </programme>
+ <programme start="20231203180500 +0800" stop="20231203190500 +0800" channel="239.unifi">
+  <title lang="en">Show Biz (M) Ep886887</title>
+  <desc lang="en">Every second counts in &quot;Show Biz&quot; to bring you with the most High Speed star news, exciting live shows and performers interviews.</desc>
+ </programme>
+ <programme start="20231203190500 +0800" stop="20231203200500 +0800" channel="239.unifi">
+  <title lang="en">The Borderless World (M) Ep699</title>
+  <desc lang="en">Journalist with an infallible nose for a story is leading the audience to explore the world. Exploring how people from different cultures overcome the challenges with collective wisdom.</desc>
+ </programme>
+ <programme start="20231203200500 +0800" stop="20231203220500 +0800" channel="239.unifi">
+  <title lang="en">Mr.Player (M) Ep475</title>
+  <desc lang="en">Depending on the locations of the missions, Jacky Wu, the leader of the home team, invites various celebrities to take on challenges and bring you excitement every week.</desc>
+ </programme>
+ <programme start="20231203220500 +0800" stop="20231204000500 +0800" channel="239.unifi">
+  <title lang="en">Happy Enemy(M) Ep3031</title>
+  <desc lang="en">Pei-Pei Wu and Yu-Hsuan Lee have been comparing with each other since childhood. They had a crush on each other but later became rivals because of an accident. They both wished each other would disappear from their lives; however, they are neighbors.
+Pei-Pei and Yu-Hsuan have been fighting, yet they inevitably fell into the destined love with each other. If fighting against each other is a way of communication and caring, then these quarrelsome lovers are getting closer and growing together. When they gradually start to let go of their competitive attitude that is full of hostility, they even start to click with each other!</desc>
  </programme>
 </tv>
