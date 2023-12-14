@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231213">
+	<channel id="flix.in"><display-name>&FLIX HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="prive.in"><display-name>&Prive HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="sonypix.in"><display-name>SONY PIX HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="ten1.in"><display-name>SONY SPORTS TEN 1 HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="ten2.in"><display-name>SONY SPORTS TEN 2 HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="ten3.in"><display-name>SONY SPORTS TEN 3 HD</display-name><url>https://dishtv.in</url></channel>
+<channel id="ten5.in"><display-name>SONY SPORTS TEN 5 HD</display-name><url>https://dishtv.in</url></channel>
 <channel id="ANTVHD.id"><display-name>ANTV</display-name><url>https://mncvision.id</url></channel>
 <channel id="ArirangHD.id"><display-name>Arirang</display-name><url>https://mncvision.id</url></channel>
 <channel id="BBCNewsAsia"><display-name>BBC News Asia</display-name><url>https://mncvision.id</url></channel>
@@ -8791,4 +8798,625 @@ This program showcases folk culture regardless of race or religion, and presents
   <title lang="en">Stories In Taiwan (T) Ep1019</title>
   <desc lang="en">In a playful and relaxed style, the host went deep into the corners of various towns and villages in Taiwan, looking for the uniqueness, introduced the special local customs and traditions.</desc>
  </programme>
+<programme start="20231213190000 +0000" stop="20231213205900 +0000" channel="flix.in"><title lang="en">Vanguard</title></programme>
+<programme start="20231213205900 +0000" stop="20231213225900 +0000" channel="flix.in"><title lang="en">Peninsula</title></programme>
+<programme start="20231213225900 +0000" stop="20231214004200 +0000" channel="flix.in"><title lang="en">Bermuda Tentacles</title></programme>
+<programme start="20231214004200 +0000" stop="20231214022300 +0000" channel="flix.in"><title lang="en">Fight To the Finish</title></programme>
+<programme start="20231214022300 +0000" stop="20231214035800 +0000" channel="flix.in"><title lang="en">Hailey Dean Mystery: Dating Is Murder</title></programme>
+<programme start="20231214035800 +0000" stop="20231214054000 +0000" channel="flix.in"><title lang="en">Lake Placid: Legacy</title></programme>
+<programme start="20231214054000 +0000" stop="20231214071600 +0000" channel="flix.in"><title lang="en">The Animal</title></programme>
+<programme start="20231214071600 +0000" stop="20231214084700 +0000" channel="flix.in"><title lang="en">Beverly Hills Ninja</title></programme>
+<programme start="20231214084700 +0000" stop="20231214102900 +0000" channel="flix.in"><title lang="en">Goosebumps</title></programme>
+<programme start="20231214102900 +0000" stop="20231214120300 +0000" channel="flix.in"><title lang="en">Daddy Day Care</title></programme>
+<programme start="20231214120300 +0000" stop="20231214135300 +0000" channel="flix.in"><title lang="en">The Exorcist III</title></programme>
+<programme start="20231214135300 +0000" stop="20231214153000 +0000" channel="flix.in"><title lang="en">Evolution</title></programme>
+<programme start="20231214153000 +0000" stop="20231214174700 +0000" channel="flix.in"><title lang="en">The Woman King</title></programme>
+<programme start="20231214174700 +0000" stop="20231214192000 +0000" channel="flix.in"><title lang="en">Sniper: Assassin&apos;s End</title></programme>
+<programme start="20231214192000 +0000" stop="20231214200000 +0000" channel="flix.in"><title lang="en">TBA</title></programme>
+<programme start="20231214200000 +0000" stop="20231214214000 +0000" channel="flix.in"><title lang="en">Peninsula</title></programme>
+<programme start="20231214214000 +0000" stop="20231214231000 +0000" channel="flix.in"><title lang="en">Fight To the Finish</title></programme>
+<programme start="20231214231000 +0000" stop="20231215002500 +0000" channel="flix.in"><title lang="en">Hailey Dean Mystery: Dating Is Murder</title></programme>
+<programme start="20231215002500 +0000" stop="20231215014000 +0000" channel="flix.in"><title lang="en">Bermuda Tentacles</title></programme>
+<programme start="20231215014000 +0000" stop="20231215033500 +0000" channel="flix.in"><title lang="en">Legion</title></programme>
+<programme start="20231215033500 +0000" stop="20231215053000 +0000" channel="flix.in"><title lang="en">Matilda</title></programme>
+<programme start="20231215053000 +0000" stop="20231215073500 +0000" channel="flix.in"><title lang="en">Lyle, Lyle, Crocodile</title></programme>
+<programme start="20231215073500 +0000" stop="20231215091500 +0000" channel="flix.in"><title lang="en">Here Comes The Boom</title></programme>
+<programme start="20231215091500 +0000" stop="20231215111000 +0000" channel="flix.in"><title lang="en">Rescue Dawn</title></programme>
+<programme start="20231215111000 +0000" stop="20231215125000 +0000" channel="flix.in"><title lang="en">Vacancy</title></programme>
+<programme start="20231215125000 +0000" stop="20231215153000 +0000" channel="flix.in"><title lang="en">The Equalizer</title></programme>
+<programme start="20231215153000 +0000" stop="20231215171500 +0000" channel="flix.in"><title lang="en">Counterattack</title></programme>
+<programme start="20231215171500 +0000" stop="20231215192000 +0000" channel="flix.in"><title lang="en">Miss Bala</title></programme>
+<programme start="20231215192000 +0000" stop="20231215205000 +0000" channel="flix.in"><title lang="en">Fight To the Finish</title></programme>
+<programme start="20231215205000 +0000" stop="20231215224500 +0000" channel="flix.in"><title lang="en">Hotel Mumbai</title></programme>
+<programme start="20231215224500 +0000" stop="20231216001000 +0000" channel="flix.in"><title lang="en">Bermuda Tentacles</title></programme>
+<programme start="20231216001000 +0000" stop="20231216014500 +0000" channel="flix.in"><title lang="en">Vanguard</title></programme>
+<programme start="20231216014500 +0000" stop="20231216025500 +0000" channel="flix.in"><title lang="en">Hailey Dean Mystery: A Marriage Made for Murder</title></programme>
+<programme start="20231216025500 +0000" stop="20231216044000 +0000" channel="flix.in"><title lang="en">3 Ninjas Knuckle Up</title></programme>
+<programme start="20231216044000 +0000" stop="20231216064500 +0000" channel="flix.in"><title lang="en">Pixels</title></programme>
+<programme start="20231216064500 +0000" stop="20231216084000 +0000" channel="flix.in"><title lang="en">After Earth</title></programme>
+<programme start="20231216084000 +0000" stop="20231216101500 +0000" channel="flix.in"><title lang="en">Resident Evil</title></programme>
+<programme start="20231216101500 +0000" stop="20231216115000 +0000" channel="flix.in"><title lang="en">Resident Evil: Apocalypse</title></programme>
+<programme start="20231216115000 +0000" stop="20231216133500 +0000" channel="flix.in"><title lang="en">Resident Evil: Extinction</title></programme>
+<programme start="20231216133500 +0000" stop="20231216153000 +0000" channel="flix.in"><title lang="en">Resident Evil: Afterlife</title></programme>
+<programme start="20231216153000 +0000" stop="20231216172500 +0000" channel="flix.in"><title lang="en">Resident Evil: The Final Chapter</title></programme>
+<programme start="20231216172500 +0000" stop="20231216191000 +0000" channel="flix.in"><title lang="en">Guardians The Superheroes</title></programme>
+<programme start="20231216191000 +0000" stop="20231216205000 +0000" channel="flix.in"><title lang="en">Vanguard</title></programme>
+<programme start="20231216205000 +0000" stop="20231216220500 +0000" channel="flix.in"><title lang="en">Hailey Dean Mystery: A Marriage Made for Murder</title></programme>
+<programme start="20231216220500 +0000" stop="20231216234500 +0000" channel="flix.in"><title lang="en">Peninsula</title></programme>
+<programme start="20231216234500 +0000" stop="20231217010500 +0000" channel="flix.in"><title lang="en">Bermuda Tentacles</title></programme>
+<programme start="20231217010500 +0000" stop="20231217021500 +0000" channel="flix.in"><title lang="en">Fight To the Finish</title></programme>
+<programme start="20231217021500 +0000" stop="20231217040500 +0000" channel="flix.in"><title lang="en">Double Team</title></programme>
+<programme start="20231217040500 +0000" stop="20231217063000 +0000" channel="flix.in"><title lang="en">The 6th Day</title></programme>
+<programme start="20231217063000 +0000" stop="20231217082000 +0000" channel="flix.in"><title lang="en">65</title></programme>
+<programme start="20231217082000 +0000" stop="20231217103000 +0000" channel="flix.in"><title lang="en">Terminator 3: Rise Of The Machines</title></programme>
+<programme start="20231217103000 +0000" stop="20231217114000 +0000" channel="flix.in"><title lang="en">The One</title></programme>
+<programme start="20231217114000 +0000" stop="20231217133000 +0000" channel="flix.in"><title lang="en">Passengers</title></programme>
+<programme start="20231217133000 +0000" stop="20231217153000 +0000" channel="flix.in"><title lang="en">Blade Runner 2049</title></programme>
+<programme start="20231217153000 +0000" stop="20231217173000 +0000" channel="flix.in"><title lang="en">65</title></programme>
+<programme start="20231217173000 +0000" stop="20231217183000 +0000" channel="flix.in"><title lang="en">Chappie</title></programme>
+<programme start="20231217183000 +0000" stop="20231217213000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217213000 +0000" stop="20231218003000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218003000 +0000" stop="20231218033000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218033000 +0000" stop="20231218063000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218063000 +0000" stop="20231218093000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218093000 +0000" stop="20231218123000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218123000 +0000" stop="20231218153000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218153000 +0000" stop="20231218213000 +0000" channel="flix.in"><title lang="en">Movie</title></programme>
+<programme start="20231213184800 +0000" stop="20231213202200 +0000" channel="prive.in"><title lang="en">Delhi Belly</title></programme>
+<programme start="20231213202200 +0000" stop="20231213215200 +0000" channel="prive.in"><title lang="en">Peninsula</title></programme>
+<programme start="20231213215200 +0000" stop="20231213232200 +0000" channel="prive.in"><title lang="en">Boa Vs. Python</title></programme>
+<programme start="20231213232200 +0000" stop="20231214015500 +0000" channel="prive.in"><title lang="en">Cocktail</title></programme>
+<programme start="20231214015500 +0000" stop="20231214041300 +0000" channel="prive.in"><title lang="en">Daddy</title></programme>
+<programme start="20231214041300 +0000" stop="20231214070200 +0000" channel="prive.in"><title lang="en">A Flying Jatt</title></programme>
+<programme start="20231214070200 +0000" stop="20231214092700 +0000" channel="prive.in"><title lang="en">URI: The Surgical Strike</title></programme>
+<programme start="20231214092700 +0000" stop="20231214113500 +0000" channel="prive.in"><title lang="en">Mr. &amp; Mrs. Khiladi</title></programme>
+<programme start="20231214113500 +0000" stop="20231214143000 +0000" channel="prive.in"><title lang="en">Simmba</title></programme>
+<programme start="20231214143000 +0000" stop="20231214170200 +0000" channel="prive.in"><title lang="en">Sonchiriya</title></programme>
+<programme start="20231214170200 +0000" stop="20231214190800 +0000" channel="prive.in"><title lang="en">Virgin Bhanupriya</title></programme>
+<programme start="20231214190800 +0000" stop="20231214212800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231214212800 +0000" stop="20231214235800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231214235800 +0000" stop="20231215012800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215012800 +0000" stop="20231215035400 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215035400 +0000" stop="20231215062400 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215062400 +0000" stop="20231215085500 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215085500 +0000" stop="20231215113500 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215113500 +0000" stop="20231215143100 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215143100 +0000" stop="20231215164000 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215164000 +0000" stop="20231215190700 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215190700 +0000" stop="20231215220200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231215220200 +0000" stop="20231216002800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216002800 +0000" stop="20231216032200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216032200 +0000" stop="20231216045500 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216045500 +0000" stop="20231216064600 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216064600 +0000" stop="20231216085800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216085800 +0000" stop="20231216121400 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216121400 +0000" stop="20231216143000 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216143000 +0000" stop="20231216172200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216172200 +0000" stop="20231216195400 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216195400 +0000" stop="20231216215700 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216215700 +0000" stop="20231216231600 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231216231600 +0000" stop="20231217010600 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217010600 +0000" stop="20231217034200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217034200 +0000" stop="20231217051200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217051200 +0000" stop="20231217064200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217064200 +0000" stop="20231217091200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217091200 +0000" stop="20231217115200 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217115200 +0000" stop="20231217143600 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217143600 +0000" stop="20231217165300 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217165300 +0000" stop="20231217203000 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217203000 +0000" stop="20231217220500 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231217220500 +0000" stop="20231218002500 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218002500 +0000" stop="20231218024400 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218024400 +0000" stop="20231218054800 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218054800 +0000" stop="20231218083100 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218083100 +0000" stop="20231218112600 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218112600 +0000" stop="20231218143000 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218143000 +0000" stop="20231218170100 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231218170100 +0000" stop="20231218203000 +0000" channel="prive.in"><title lang="en">Movie</title></programme>
+<programme start="20231213191200 +0000" stop="20231213210900 +0000" channel="sonypix.in"><title lang="en">The Intern</title></programme>
+<programme start="20231213210900 +0000" stop="20231213225000 +0000" channel="sonypix.in"><title lang="en">Welcome To The Jungle</title></programme>
+<programme start="20231213225000 +0000" stop="20231214002800 +0000" channel="sonypix.in"><title lang="en">Broken Horses</title></programme>
+<programme start="20231214002800 +0000" stop="20231214021000 +0000" channel="sonypix.in"><title lang="en">Jumanji</title></programme>
+<programme start="20231214021000 +0000" stop="20231214040900 +0000" channel="sonypix.in"><title lang="en">xXx</title></programme>
+<programme start="20231214040900 +0000" stop="20231214055700 +0000" channel="sonypix.in"><title lang="en">Drunken Master</title></programme>
+<programme start="20231214055700 +0000" stop="20231214074300 +0000" channel="sonypix.in"><title lang="en">The Water Horse</title></programme>
+<programme start="20231214074300 +0000" stop="20231214093200 +0000" channel="sonypix.in"><title lang="en">Uncharted</title></programme>
+<programme start="20231214093200 +0000" stop="20231214110400 +0000" channel="sonypix.in"><title lang="en">Journey 2: The Mysterious Island</title></programme>
+<programme start="20231214110400 +0000" stop="20231214130200 +0000" channel="sonypix.in"><title lang="en">Hellboy</title></programme>
+<programme start="20231214130200 +0000" stop="20231214150000 +0000" channel="sonypix.in"><title lang="en">Vertical Limit</title></programme>
+<programme start="20231214150000 +0000" stop="20231214173400 +0000" channel="sonypix.in"><title lang="en">2012</title></programme>
+<programme start="20231214173400 +0000" stop="20231214191300 +0000" channel="sonypix.in"><title lang="en">Charlie&apos;s Angels: Full Throttle</title></programme>
+<programme start="20231214191300 +0000" stop="20231214210500 +0000" channel="sonypix.in"><title lang="en">S.W.A.T.</title></programme>
+<programme start="20231214210500 +0000" stop="20231215003000 +0000" channel="sonypix.in"><title lang="en">The Walk</title></programme>
+<programme start="20231215003000 +0000" stop="20231215041500 +0000" channel="sonypix.in"><title lang="en">Never Back Down 2: The Beatdown</title></programme>
+<programme start="20231215041500 +0000" stop="20231215062500 +0000" channel="sonypix.in"><title lang="en">Jumanji: The Next Level</title></programme>
+<programme start="20231215062500 +0000" stop="20231215083100 +0000" channel="sonypix.in"><title lang="en">Spider-Man</title></programme>
+<programme start="20231215083100 +0000" stop="20231215104000 +0000" channel="sonypix.in"><title lang="en">Suicide Squad</title></programme>
+<programme start="20231215104000 +0000" stop="20231215122000 +0000" channel="sonypix.in"><title lang="en">Anacondas: The Hunt For The Blood Orchid</title></programme>
+<programme start="20231215122000 +0000" stop="20231215134600 +0000" channel="sonypix.in"><title lang="en">Brightburn</title></programme>
+<programme start="20231215134600 +0000" stop="20231215153000 +0000" channel="sonypix.in"><title lang="en">The Pope&apos;s Exorcist</title></programme>
+<programme start="20231215153000 +0000" stop="20231215173500 +0000" channel="sonypix.in"><title lang="en">It</title></programme>
+<programme start="20231215173500 +0000" stop="20231215192700 +0000" channel="sonypix.in"><title lang="en">Ghost Rider</title></programme>
+<programme start="20231215192700 +0000" stop="20231215213200 +0000" channel="sonypix.in"><title lang="en">Concussion</title></programme>
+<programme start="20231215213200 +0000" stop="20231216003000 +0000" channel="sonypix.in"><title lang="en">Sherlock Holmes: A Game Of Shadows</title></programme>
+<programme start="20231216003000 +0000" stop="20231216033000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216033000 +0000" stop="20231216063000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216063000 +0000" stop="20231216093000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216093000 +0000" stop="20231216123000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216123000 +0000" stop="20231216153000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216153000 +0000" stop="20231216213000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231216213000 +0000" stop="20231217003000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217003000 +0000" stop="20231217033000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217033000 +0000" stop="20231217063000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217063000 +0000" stop="20231217093000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217093000 +0000" stop="20231217123000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217123000 +0000" stop="20231217153000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217153000 +0000" stop="20231217213000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231217213000 +0000" stop="20231218003000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218003000 +0000" stop="20231218033000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218033000 +0000" stop="20231218063000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218063000 +0000" stop="20231218093000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218093000 +0000" stop="20231218123000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218123000 +0000" stop="20231218153000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231218153000 +0000" stop="20231218213000 +0000" channel="sonypix.in"><title lang="en">Movie</title></programme>
+<programme start="20231213183000 +0000" stop="20231213190000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023</title></programme>
+<programme start="20231213190000 +0000" stop="20231213200000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231213200000 +0000" stop="20231213220000 +0000" channel="ten1.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213220000 +0000" stop="20231213223000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231213223000 +0000" stop="20231213233000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231213233000 +0000" stop="20231214000000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231214000000 +0000" stop="20231214010000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023 HLs</title></programme>
+<programme start="20231214010000 +0000" stop="20231214013000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214013000 +0000" stop="20231214033000 +0000" channel="ten1.in"><title lang="en">WWE Blockbusters HLs</title></programme>
+<programme start="20231214033000 +0000" stop="20231214040000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214040000 +0000" stop="20231214043000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214043000 +0000" stop="20231214063000 +0000" channel="ten1.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214063000 +0000" stop="20231214073000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214073000 +0000" stop="20231214093000 +0000" channel="ten1.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214093000 +0000" stop="20231214103000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214103000 +0000" stop="20231214123000 +0000" channel="ten1.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214123000 +0000" stop="20231214133000 +0000" channel="ten1.in"><title lang="en">WWE Main Event</title></programme>
+<programme start="20231214133000 +0000" stop="20231214140000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231214140000 +0000" stop="20231214180000 +0000" channel="ten1.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231214180000 +0000" stop="20231214200000 +0000" channel="ten1.in"><title lang="en">Saudi Pro League 2023/24 Live</title></programme>
+<programme start="20231214200000 +0000" stop="20231214220000 +0000" channel="ten1.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214220000 +0000" stop="20231214223000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231214223000 +0000" stop="20231214233000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231214233000 +0000" stop="20231215000000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231215000000 +0000" stop="20231215010000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023 HLs</title></programme>
+<programme start="20231215010000 +0000" stop="20231215013000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231215013000 +0000" stop="20231215033000 +0000" channel="ten1.in"><title lang="en">WWE Blockbusters HLs</title></programme>
+<programme start="20231215033000 +0000" stop="20231215043000 +0000" channel="ten1.in"><title lang="en">WWE Main Event</title></programme>
+<programme start="20231215043000 +0000" stop="20231215083000 +0000" channel="ten1.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215083000 +0000" stop="20231215090000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215090000 +0000" stop="20231215130000 +0000" channel="ten1.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215130000 +0000" stop="20231215133000 +0000" channel="ten1.in"><title lang="en">Beyond The Finish Line: Vedanta Delhi Half Marathon 2023</title></programme>
+<programme start="20231215133000 +0000" stop="20231215140000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215140000 +0000" stop="20231215143000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215143000 +0000" stop="20231215183000 +0000" channel="ten1.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215183000 +0000" stop="20231215190000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023</title></programme>
+<programme start="20231215190000 +0000" stop="20231215200000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="ten1.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231215220000 +0000" stop="20231215223000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231215223000 +0000" stop="20231215233000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231215233000 +0000" stop="20231216000000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231216000000 +0000" stop="20231216010000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023 HLs</title></programme>
+<programme start="20231216010000 +0000" stop="20231216030000 +0000" channel="ten1.in"><title lang="en">WWE Smackdown Live</title></programme>
+<programme start="20231216030000 +0000" stop="20231216033000 +0000" channel="ten1.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231216033000 +0000" stop="20231216040000 +0000" channel="ten1.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231216040000 +0000" stop="20231216043000 +0000" channel="ten1.in"><title lang="en">Beyond The Finish Line: Vedanta Delhi Half Marathon 2023</title></programme>
+<programme start="20231216043000 +0000" stop="20231216063000 +0000" channel="ten1.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216063000 +0000" stop="20231216073000 +0000" channel="ten1.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231216073000 +0000" stop="20231216093000 +0000" channel="ten1.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216093000 +0000" stop="20231216103000 +0000" channel="ten1.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231216103000 +0000" stop="20231216123000 +0000" channel="ten1.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216123000 +0000" stop="20231216133000 +0000" channel="ten1.in"><title lang="en">WWE NXT</title></programme>
+<programme start="20231216133000 +0000" stop="20231216140000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216140000 +0000" stop="20231216143000 +0000" channel="ten1.in"><title lang="en">Beyond The Finish Line: Vedanta Delhi Half Marathon 2023</title></programme>
+<programme start="20231216143000 +0000" stop="20231216163000 +0000" channel="ten1.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216163000 +0000" stop="20231216173000 +0000" channel="ten1.in"><title lang="en">WWE NXT</title></programme>
+<programme start="20231216173000 +0000" stop="20231216193000 +0000" channel="ten1.in"><title lang="en">WWE Specials Survivor Series 2023 HLs</title></programme>
+<programme start="20231216193000 +0000" stop="20231216203000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231216203000 +0000" stop="20231216213000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023 HLs</title></programme>
+<programme start="20231216213000 +0000" stop="20231216220000 +0000" channel="ten1.in"><title lang="en">Beyond The Finish Line: Vedanta Delhi Half Marathon 2023</title></programme>
+<programme start="20231216220000 +0000" stop="20231216223000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231216223000 +0000" stop="20231216233000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231216233000 +0000" stop="20231217000000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231217000000 +0000" stop="20231217010000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023 HLs</title></programme>
+<programme start="20231217010000 +0000" stop="20231217050000 +0000" channel="ten1.in"><title lang="en">TATA Steel Kolkata 25K Marathon 2023 Live</title></programme>
+<programme start="20231217050000 +0000" stop="20231217053000 +0000" channel="ten1.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217053000 +0000" stop="20231217063000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231217063000 +0000" stop="20231217073000 +0000" channel="ten1.in"><title lang="en">WWE NXT</title></programme>
+<programme start="20231217073000 +0000" stop="20231217093000 +0000" channel="ten1.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231217093000 +0000" stop="20231217103000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231217103000 +0000" stop="20231217110000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217110000 +0000" stop="20231217113000 +0000" channel="ten1.in"><title lang="en">TATA Steel Kolkata 25K Marathon 2023 HLs</title></programme>
+<programme start="20231217113000 +0000" stop="20231217133000 +0000" channel="ten1.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231217133000 +0000" stop="20231217140000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217140000 +0000" stop="20231217143000 +0000" channel="ten1.in"><title lang="en">TATA Steel Kolkata 25K Marathon 2023 HLs</title></programme>
+<programme start="20231217143000 +0000" stop="20231217163000 +0000" channel="ten1.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231217163000 +0000" stop="20231217173000 +0000" channel="ten1.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231217173000 +0000" stop="20231217180000 +0000" channel="ten1.in"><title lang="en">TATA Steel Kolkata 25K Marathon 2023 HLs</title></programme>
+<programme start="20231217180000 +0000" stop="20231217183000 +0000" channel="ten1.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217183000 +0000" stop="20231217190000 +0000" channel="ten1.in"><title lang="en">Extreme E 2023</title></programme>
+<programme start="20231217190000 +0000" stop="20231217200000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231217200000 +0000" stop="20231217220000 +0000" channel="ten1.in"><title lang="en">Medal Of Glory</title></programme>
+<programme start="20231217220000 +0000" stop="20231217223000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231217223000 +0000" stop="20231217230000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217230000 +0000" stop="20231217233000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231217233000 +0000" stop="20231218000000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218000000 +0000" stop="20231218010000 +0000" channel="ten1.in"><title lang="en">Strongman Champions League 2022</title></programme>
+<programme start="20231218010000 +0000" stop="20231218030000 +0000" channel="ten1.in"><title lang="en">Medal Of Glory</title></programme>
+<programme start="20231218030000 +0000" stop="20231218033000 +0000" channel="ten1.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231218033000 +0000" stop="20231218040000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218040000 +0000" stop="20231218043000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218043000 +0000" stop="20231218063000 +0000" channel="ten1.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231218063000 +0000" stop="20231218070000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218070000 +0000" stop="20231218073000 +0000" channel="ten1.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231218073000 +0000" stop="20231218093000 +0000" channel="ten1.in"><title lang="en">WWE Blockbusters HLs</title></programme>
+<programme start="20231218093000 +0000" stop="20231218100000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218100000 +0000" stop="20231218103000 +0000" channel="ten1.in"><title lang="en">Mobil 1 The Grid 2023</title></programme>
+<programme start="20231218103000 +0000" stop="20231218113000 +0000" channel="ten1.in"><title lang="en">This Is Awesome</title></programme>
+<programme start="20231218113000 +0000" stop="20231218133000 +0000" channel="ten1.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231218133000 +0000" stop="20231218140000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218140000 +0000" stop="20231218143000 +0000" channel="ten1.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218143000 +0000" stop="20231218183000 +0000" channel="ten1.in"><title lang="en">WWE Blockbusters HLs</title></programme>
+<programme start="20231213183000 +0000" stop="20231213184500 +0000" channel="ten2.in"><title lang="en">Studio Show Live</title></programme>
+<programme start="20231213184500 +0000" stop="20231213193000 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213193000 +0000" stop="20231213200000 +0000" channel="ten2.in"><title lang="en">Studio Show Live</title></programme>
+<programme start="20231213200000 +0000" stop="20231213204500 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213204500 +0000" stop="20231213210000 +0000" channel="ten2.in"><title lang="en">Studio Show Live</title></programme>
+<programme start="20231213210000 +0000" stop="20231213214500 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213214500 +0000" stop="20231213220000 +0000" channel="ten2.in"><title lang="en">Studio Show Live</title></programme>
+<programme start="20231213220000 +0000" stop="20231213223000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 Magazine</title></programme>
+<programme start="20231213223000 +0000" stop="20231214003000 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24</title></programme>
+<programme start="20231214003000 +0000" stop="20231214013000 +0000" channel="ten2.in"><title lang="en">UFC 296 Countdown 2023</title></programme>
+<programme start="20231214013000 +0000" stop="20231214020000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214020000 +0000" stop="20231214023000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24</title></programme>
+<programme start="20231214023000 +0000" stop="20231214030000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231214030000 +0000" stop="20231214033000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231214033000 +0000" stop="20231214053000 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24</title></programme>
+<programme start="20231214053000 +0000" stop="20231214063000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214063000 +0000" stop="20231214070000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231214070000 +0000" stop="20231214073000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231214073000 +0000" stop="20231214080000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214080000 +0000" stop="20231214083000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214083000 +0000" stop="20231214093000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214093000 +0000" stop="20231214100000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214100000 +0000" stop="20231214103000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214103000 +0000" stop="20231214110000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231214110000 +0000" stop="20231214123000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231214123000 +0000" stop="20231214134500 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231214134500 +0000" stop="20231214150000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231214150000 +0000" stop="20231214163000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231214163000 +0000" stop="20231214170000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24</title></programme>
+<programme start="20231214170000 +0000" stop="20231214174500 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214174500 +0000" stop="20231214194500 +0000" channel="ten2.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214194500 +0000" stop="20231214200000 +0000" channel="ten2.in"><title lang="en">Filler</title></programme>
+<programme start="20231214200000 +0000" stop="20231214220000 +0000" channel="ten2.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214220000 +0000" stop="20231214223000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231214223000 +0000" stop="20231215003000 +0000" channel="ten2.in"><title lang="en">UEFA Champions League 2023/24</title></programme>
+<programme start="20231215003000 +0000" stop="20231215013000 +0000" channel="ten2.in"><title lang="en">UFC Fight Night</title></programme>
+<programme start="20231215013000 +0000" stop="20231215020000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215020000 +0000" stop="20231215023000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215023000 +0000" stop="20231215030000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231215030000 +0000" stop="20231215033000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231215033000 +0000" stop="20231215053000 +0000" channel="ten2.in"><title lang="en">UEFA Europa League 2023/24</title></programme>
+<programme start="20231215053000 +0000" stop="20231215063000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215063000 +0000" stop="20231215070000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231215070000 +0000" stop="20231215073000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231215073000 +0000" stop="20231215080000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215080000 +0000" stop="20231215083000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215083000 +0000" stop="20231215093000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215093000 +0000" stop="20231215100000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215100000 +0000" stop="20231215103000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215103000 +0000" stop="20231215110000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231215110000 +0000" stop="20231215123000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231215123000 +0000" stop="20231215134500 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231215134500 +0000" stop="20231215150000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231215150000 +0000" stop="20231215163000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231215163000 +0000" stop="20231215170000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24</title></programme>
+<programme start="20231215170000 +0000" stop="20231215173000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231215173000 +0000" stop="20231215180000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 Magazine</title></programme>
+<programme start="20231215180000 +0000" stop="20231215200000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 Live</title></programme>
+<programme start="20231215200000 +0000" stop="20231215210000 +0000" channel="ten2.in"><title lang="en">Supercar C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215210000 +0000" stop="20231215220000 +0000" channel="ten2.in"><title lang="en">Supercar C&apos;ship 2024 HLs</title></programme>
+<programme start="20231215220000 +0000" stop="20231215223000 +0000" channel="ten2.in"><title lang="en">UEL 2023/24 HLs</title></programme>
+<programme start="20231215223000 +0000" stop="20231216003000 +0000" channel="ten2.in"><title lang="en">UEFA Europa League 2023/24</title></programme>
+<programme start="20231216003000 +0000" stop="20231216013000 +0000" channel="ten2.in"><title lang="en">UFC 296 Countdown 2023</title></programme>
+<programme start="20231216013000 +0000" stop="20231216020000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231216020000 +0000" stop="20231216023000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231216023000 +0000" stop="20231216030000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231216030000 +0000" stop="20231216033000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231216033000 +0000" stop="20231216053000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24</title></programme>
+<programme start="20231216053000 +0000" stop="20231216063000 +0000" channel="ten2.in"><title lang="en">UFC 296 Countdown 2023</title></programme>
+<programme start="20231216063000 +0000" stop="20231216070000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231216070000 +0000" stop="20231216073000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231216073000 +0000" stop="20231216080000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231216080000 +0000" stop="20231216083000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231216083000 +0000" stop="20231216093000 +0000" channel="ten2.in"><title lang="en">Supercar C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216093000 +0000" stop="20231216100000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231216100000 +0000" stop="20231216103000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231216103000 +0000" stop="20231216110000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231216110000 +0000" stop="20231216123000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231216123000 +0000" stop="20231216134500 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231216134500 +0000" stop="20231216150000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231216150000 +0000" stop="20231216163000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231216163000 +0000" stop="20231216170000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231216170000 +0000" stop="20231216173000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231216173000 +0000" stop="20231216193000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231216193000 +0000" stop="20231216223000 +0000" channel="ten2.in"><title lang="en">UFC Reloaded 2023</title></programme>
+<programme start="20231216223000 +0000" stop="20231217003000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24</title></programme>
+<programme start="20231217003000 +0000" stop="20231217010000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231217010000 +0000" stop="20231217020000 +0000" channel="ten2.in"><title lang="en">UFC 296 Countdown 2023</title></programme>
+<programme start="20231217020000 +0000" stop="20231217030000 +0000" channel="ten2.in"><title lang="en">Ultimate Guide To UFC 296 Live</title></programme>
+<programme start="20231217030000 +0000" stop="20231217070000 +0000" channel="ten2.in"><title lang="en">UFC 296 Live</title></programme>
+<programme start="20231217070000 +0000" stop="20231217073000 +0000" channel="ten2.in"><title lang="en">Ultimate Guide To UFC 296 Live</title></programme>
+<programme start="20231217073000 +0000" stop="20231217080000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217080000 +0000" stop="20231217083000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217083000 +0000" stop="20231217090000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231217090000 +0000" stop="20231217093000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231217093000 +0000" stop="20231217100000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231217100000 +0000" stop="20231217103000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231217103000 +0000" stop="20231217110000 +0000" channel="ten2.in"><title lang="en">TPL 2023 HLs</title></programme>
+<programme start="20231217110000 +0000" stop="20231217123000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231217123000 +0000" stop="20231217140000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231217140000 +0000" stop="20231217160000 +0000" channel="ten2.in"><title lang="en">Tennis Premier League 2023 Live</title></programme>
+<programme start="20231217160000 +0000" stop="20231217163000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217163000 +0000" stop="20231217170000 +0000" channel="ten2.in"><title lang="en">Saudi Pro League 2023/24 HLs</title></programme>
+<programme start="20231217170000 +0000" stop="20231217173000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231217173000 +0000" stop="20231217180000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217180000 +0000" stop="20231217183000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231217183000 +0000" stop="20231217203000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231217203000 +0000" stop="20231217213000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231217213000 +0000" stop="20231217223000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231217223000 +0000" stop="20231218003000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24</title></programme>
+<programme start="20231218003000 +0000" stop="20231218013000 +0000" channel="ten2.in"><title lang="en">UFC - Breaking Ground</title></programme>
+<programme start="20231218013000 +0000" stop="20231218020000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231218020000 +0000" stop="20231218023000 +0000" channel="ten2.in"><title lang="en">AO Classic Match 2004</title></programme>
+<programme start="20231218023000 +0000" stop="20231218030000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231218030000 +0000" stop="20231218033000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231218033000 +0000" stop="20231218053000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24</title></programme>
+<programme start="20231218053000 +0000" stop="20231218060000 +0000" channel="ten2.in"><title lang="en">Archery 2023 HLs</title></programme>
+<programme start="20231218060000 +0000" stop="20231218063000 +0000" channel="ten2.in"><title lang="en">AO Classic Match 2004</title></programme>
+<programme start="20231218063000 +0000" stop="20231218100000 +0000" channel="ten2.in"><title lang="en">UFC 296</title></programme>
+<programme start="20231218100000 +0000" stop="20231218103000 +0000" channel="ten2.in"><title lang="en">Ultimate Guide to UFC 296</title></programme>
+<programme start="20231218103000 +0000" stop="20231218110000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231218110000 +0000" stop="20231218113000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 HLs</title></programme>
+<programme start="20231218113000 +0000" stop="20231218123000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231218123000 +0000" stop="20231218130000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231218130000 +0000" stop="20231218133000 +0000" channel="ten2.in"><title lang="en">AO Classic Match 2004</title></programme>
+<programme start="20231218133000 +0000" stop="20231218143000 +0000" channel="ten2.in"><title lang="en">UFC - Breaking Ground</title></programme>
+<programme start="20231218143000 +0000" stop="20231218150000 +0000" channel="ten2.in"><title lang="en">Kick Off Live</title></programme>
+<programme start="20231218150000 +0000" stop="20231218153000 +0000" channel="ten2.in"><title lang="en">UCL 2023/24 Magazine Programme</title></programme>
+<programme start="20231218153000 +0000" stop="20231218163000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231218163000 +0000" stop="20231218173000 +0000" channel="ten2.in"><title lang="en">UFC 296</title></programme>
+<programme start="20231218173000 +0000" stop="20231218180000 +0000" channel="ten2.in"><title lang="en">Kick Off</title></programme>
+<programme start="20231218180000 +0000" stop="20231218183000 +0000" channel="ten2.in"><title lang="en">Bundesliga 2023/24 HLs</title></programme>
+<programme start="20231213183000 +0000" stop="20231213190000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231213190000 +0000" stop="20231213200000 +0000" channel="ten3.in"><title lang="en">UFC Fight Night HLs</title></programme>
+<programme start="20231213200000 +0000" stop="20231213220000 +0000" channel="ten3.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213220000 +0000" stop="20231213223000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231213223000 +0000" stop="20231213230000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2021 T20I HLs</title></programme>
+<programme start="20231213230000 +0000" stop="20231214000000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2017 ODI HLs</title></programme>
+<programme start="20231214000000 +0000" stop="20231214030000 +0000" channel="ten3.in"><title lang="en">UFC 294</title></programme>
+<programme start="20231214030000 +0000" stop="20231214040000 +0000" channel="ten3.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231214040000 +0000" stop="20231214043000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231214043000 +0000" stop="20231214063000 +0000" channel="ten3.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214063000 +0000" stop="20231214070000 +0000" channel="ten3.in"><title lang="en">Best Of The T20Is</title></programme>
+<programme start="20231214070000 +0000" stop="20231214073000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231214073000 +0000" stop="20231214093000 +0000" channel="ten3.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214093000 +0000" stop="20231214100000 +0000" channel="ten3.in"><title lang="en">Festival Of WWE</title></programme>
+<programme start="20231214100000 +0000" stop="20231214103000 +0000" channel="ten3.in"><title lang="en">Best Of The T20Is</title></programme>
+<programme start="20231214103000 +0000" stop="20231214123000 +0000" channel="ten3.in"><title lang="en">WWE Raw</title></programme>
+<programme start="20231214123000 +0000" stop="20231214133000 +0000" channel="ten3.in"><title lang="en">Compaq Cup 2009 HLs</title></programme>
+<programme start="20231214133000 +0000" stop="20231214174500 +0000" channel="ten3.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231214174500 +0000" stop="20231214194500 +0000" channel="ten3.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214194500 +0000" stop="20231214200000 +0000" channel="ten3.in"><title lang="en">WWE Fillers</title></programme>
+<programme start="20231214200000 +0000" stop="20231214220000 +0000" channel="ten3.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214220000 +0000" stop="20231214223000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231214223000 +0000" stop="20231214230000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2021 T20I HLs</title></programme>
+<programme start="20231214230000 +0000" stop="20231215000000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2017 ODI HLs</title></programme>
+<programme start="20231215000000 +0000" stop="20231215030000 +0000" channel="ten3.in"><title lang="en">UFC 295 HLs</title></programme>
+<programme start="20231215030000 +0000" stop="20231215040000 +0000" channel="ten3.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231215040000 +0000" stop="20231215043000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215043000 +0000" stop="20231215083000 +0000" channel="ten3.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215083000 +0000" stop="20231215090000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215090000 +0000" stop="20231215130000 +0000" channel="ten3.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215130000 +0000" stop="20231215133000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215133000 +0000" stop="20231215140000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215140000 +0000" stop="20231215143000 +0000" channel="ten3.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231215143000 +0000" stop="20231215183000 +0000" channel="ten3.in"><title lang="en">WWE BlockBusters</title></programme>
+<programme start="20231215183000 +0000" stop="20231215190000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215190000 +0000" stop="20231215220000 +0000" channel="ten3.in"><title lang="en">UFC Fight Night HLs</title></programme>
+<programme start="20231215220000 +0000" stop="20231215223000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231215223000 +0000" stop="20231215230000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2021 T20I HLs</title></programme>
+<programme start="20231215230000 +0000" stop="20231216000000 +0000" channel="ten3.in"><title lang="en">England vs India 2007 ODI</title></programme>
+<programme start="20231216000000 +0000" stop="20231216010000 +0000" channel="ten3.in"><title lang="en">England vs India 2007 ODI HLs</title></programme>
+<programme start="20231216010000 +0000" stop="20231216030000 +0000" channel="ten3.in"><title lang="en">WWE Smackdown Live</title></programme>
+<programme start="20231216030000 +0000" stop="20231216040000 +0000" channel="ten3.in"><title lang="en">England vs India 2007 ODI</title></programme>
+<programme start="20231216040000 +0000" stop="20231216043000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216043000 +0000" stop="20231216063000 +0000" channel="ten3.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216063000 +0000" stop="20231216070000 +0000" channel="ten3.in"><title lang="en">Best Of The ODIs</title></programme>
+<programme start="20231216070000 +0000" stop="20231216073000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216073000 +0000" stop="20231216093000 +0000" channel="ten3.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216093000 +0000" stop="20231216100000 +0000" channel="ten3.in"><title lang="en">Festival Of WWE</title></programme>
+<programme start="20231216100000 +0000" stop="20231216103000 +0000" channel="ten3.in"><title lang="en">Phenom: 30 Years Of The Undertaker</title></programme>
+<programme start="20231216103000 +0000" stop="20231216123000 +0000" channel="ten3.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216123000 +0000" stop="20231216133000 +0000" channel="ten3.in"><title lang="en">WWE NXT</title></programme>
+<programme start="20231216133000 +0000" stop="20231216140000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216140000 +0000" stop="20231216143000 +0000" channel="ten3.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231216143000 +0000" stop="20231216163000 +0000" channel="ten3.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231216163000 +0000" stop="20231216173000 +0000" channel="ten3.in"><title lang="en">WWE NXT</title></programme>
+<programme start="20231216173000 +0000" stop="20231216183000 +0000" channel="ten3.in"><title lang="en">England vs India 2007 ODI</title></programme>
+<programme start="20231216183000 +0000" stop="20231216190000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216190000 +0000" stop="20231216220000 +0000" channel="ten3.in"><title lang="en">UFC 295 HLs</title></programme>
+<programme start="20231216220000 +0000" stop="20231216223000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231216223000 +0000" stop="20231216230000 +0000" channel="ten3.in"><title lang="en">Best Of The T20</title></programme>
+<programme start="20231216230000 +0000" stop="20231217000000 +0000" channel="ten3.in"><title lang="en">England vs India 2007 ODI</title></programme>
+<programme start="20231217000000 +0000" stop="20231217010000 +0000" channel="ten3.in"><title lang="en">Compaq Cup 2009 HLs</title></programme>
+<programme start="20231217010000 +0000" stop="20231217013000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217013000 +0000" stop="20231217023000 +0000" channel="ten3.in"><title lang="en">UFC 295 HLs</title></programme>
+<programme start="20231217023000 +0000" stop="20231217030000 +0000" channel="ten3.in"><title lang="en">UFC 296 Pre Show Live</title></programme>
+<programme start="20231217030000 +0000" stop="20231217063000 +0000" channel="ten3.in"><title lang="en">UFC 296 Live</title></programme>
+<programme start="20231217063000 +0000" stop="20231217070000 +0000" channel="ten3.in"><title lang="en">UFC 296 Post Show Live</title></programme>
+<programme start="20231217070000 +0000" stop="20231217073000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217073000 +0000" stop="20231217093000 +0000" channel="ten3.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231217093000 +0000" stop="20231217100000 +0000" channel="ten3.in"><title lang="en">Festival Of WWE</title></programme>
+<programme start="20231217100000 +0000" stop="20231217133000 +0000" channel="ten3.in"><title lang="en">UFC 296</title></programme>
+<programme start="20231217133000 +0000" stop="20231217140000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217140000 +0000" stop="20231217143000 +0000" channel="ten3.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231217143000 +0000" stop="20231217163000 +0000" channel="ten3.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231217163000 +0000" stop="20231217173000 +0000" channel="ten3.in"><title lang="en">WWE SmackDown</title></programme>
+<programme start="20231217173000 +0000" stop="20231217183000 +0000" channel="ten3.in"><title lang="en">Natwest Series 2002 HLs</title></programme>
+<programme start="20231217183000 +0000" stop="20231217220000 +0000" channel="ten3.in"><title lang="en">UFC 296</title></programme>
+<programme start="20231217220000 +0000" stop="20231217223000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231217223000 +0000" stop="20231217233000 +0000" channel="ten3.in"><title lang="en">Sri Lanka vs India 2017 ODI HLs</title></programme>
+<programme start="20231217233000 +0000" stop="20231218003000 +0000" channel="ten3.in"><title lang="en">ZIM vs IND 2022 ODI HLs</title></programme>
+<programme start="20231218003000 +0000" stop="20231218010000 +0000" channel="ten3.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218010000 +0000" stop="20231218020000 +0000" channel="ten3.in"><title lang="en">UFC 295 HLs</title></programme>
+<programme start="20231218020000 +0000" stop="20231218030000 +0000" channel="ten3.in"><title lang="en">UFC 294</title></programme>
+<programme start="20231218030000 +0000" stop="20231218040000 +0000" channel="ten3.in"><title lang="en">UFC 296 HLs</title></programme>
+<programme start="20231218040000 +0000" stop="20231218043000 +0000" channel="ten3.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218043000 +0000" stop="20231218063000 +0000" channel="ten3.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231218063000 +0000" stop="20231218070000 +0000" channel="ten3.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218070000 +0000" stop="20231218073000 +0000" channel="ten3.in"><title lang="en">Volleyball Men&apos;s Club World C&apos;ship 2023 HLs</title></programme>
+<programme start="20231218073000 +0000" stop="20231218110000 +0000" channel="ten3.in"><title lang="en">UFC 296</title></programme>
+<programme start="20231218110000 +0000" stop="20231218113000 +0000" channel="ten3.in"><title lang="en">Best Of The ODIs</title></programme>
+<programme start="20231218113000 +0000" stop="20231218133000 +0000" channel="ten3.in"><title lang="en">WWE Super Dhamaal</title></programme>
+<programme start="20231218133000 +0000" stop="20231218140000 +0000" channel="ten3.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218140000 +0000" stop="20231218143000 +0000" channel="ten3.in"><title lang="en">UKK 2022 HLs</title></programme>
+<programme start="20231218143000 +0000" stop="20231218183000 +0000" channel="ten3.in"><title lang="en">WWE Blockbusters HLs</title></programme>
+<programme start="20231213194500 +0000" stop="20231213200000 +0000" channel="ten5.in"><title lang="en">Filler</title></programme>
+<programme start="20231213200000 +0000" stop="20231213220000 +0000" channel="ten5.in"><title lang="en">UEFA Champions League 2023/24 Live</title></programme>
+<programme start="20231213220000 +0000" stop="20231213223000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs Afghanistan 2023 ODI HLs</title></programme>
+<programme start="20231213223000 +0000" stop="20231213233000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231213233000 +0000" stop="20231214003000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231214003000 +0000" stop="20231214013000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231214013000 +0000" stop="20231214020000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2022</title></programme>
+<programme start="20231214020000 +0000" stop="20231214023000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 T20I HLs</title></programme>
+<programme start="20231214023000 +0000" stop="20231214043000 +0000" channel="ten5.in"><title lang="en">England vs Australia 2023 Test HLs</title></programme>
+<programme start="20231214043000 +0000" stop="20231214053000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231214053000 +0000" stop="20231214063000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231214063000 +0000" stop="20231214073000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231214073000 +0000" stop="20231214080000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2022</title></programme>
+<programme start="20231214080000 +0000" stop="20231214083000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231214083000 +0000" stop="20231214093000 +0000" channel="ten5.in"><title lang="en">ENG vs IND 2022 T20I HLs</title></programme>
+<programme start="20231214093000 +0000" stop="20231214103000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231214103000 +0000" stop="20231214113000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231214113000 +0000" stop="20231214120000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2022</title></programme>
+<programme start="20231214120000 +0000" stop="20231214123000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2021 T20I HLs</title></programme>
+<programme start="20231214123000 +0000" stop="20231214130000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 T20I HLs</title></programme>
+<programme start="20231214130000 +0000" stop="20231214140000 +0000" channel="ten5.in"><title lang="en">England vs India Natwest 2002 HLs</title></programme>
+<programme start="20231214140000 +0000" stop="20231214150000 +0000" channel="ten5.in"><title lang="en">England vs India 2021 Test HLs</title></programme>
+<programme start="20231214150000 +0000" stop="20231214160000 +0000" channel="ten5.in"><title lang="en">England vs India 2018 T20I HLs</title></programme>
+<programme start="20231214160000 +0000" stop="20231214163000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231214163000 +0000" stop="20231214173000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231214173000 +0000" stop="20231214174500 +0000" channel="ten5.in"><title lang="en">Filler</title></programme>
+<programme start="20231214174500 +0000" stop="20231214194500 +0000" channel="ten5.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214194500 +0000" stop="20231214200000 +0000" channel="ten5.in"><title lang="en">Filler</title></programme>
+<programme start="20231214200000 +0000" stop="20231214220000 +0000" channel="ten5.in"><title lang="en">UEFA Europa League 2023/24 Live</title></programme>
+<programme start="20231214220000 +0000" stop="20231214223000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231214223000 +0000" stop="20231214233000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231214233000 +0000" stop="20231215003000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231215003000 +0000" stop="20231215013000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231215013000 +0000" stop="20231215020000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231215020000 +0000" stop="20231215023000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 T20I HLs</title></programme>
+<programme start="20231215023000 +0000" stop="20231215043000 +0000" channel="ten5.in"><title lang="en">England vs Australia 2023 Test HLs</title></programme>
+<programme start="20231215043000 +0000" stop="20231215053000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231215053000 +0000" stop="20231215063000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231215063000 +0000" stop="20231215073000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231215073000 +0000" stop="20231215080000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231215080000 +0000" stop="20231215083000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231215083000 +0000" stop="20231215093000 +0000" channel="ten5.in"><title lang="en">England vs India Natwest 2002 HLs</title></programme>
+<programme start="20231215093000 +0000" stop="20231215103000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231215103000 +0000" stop="20231215113000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231215113000 +0000" stop="20231215120000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231215120000 +0000" stop="20231215130000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2021 ODI HLs</title></programme>
+<programme start="20231215130000 +0000" stop="20231215133000 +0000" channel="ten5.in"><title lang="en">Best of the Test</title></programme>
+<programme start="20231215133000 +0000" stop="20231215143000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231215143000 +0000" stop="20231215150000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2021 T20I HLs</title></programme>
+<programme start="20231215150000 +0000" stop="20231215160000 +0000" channel="ten5.in"><title lang="en">England vs India 2018 T20I HLs</title></programme>
+<programme start="20231215160000 +0000" stop="20231215163000 +0000" channel="ten5.in"><title lang="en">Best of the Test</title></programme>
+<programme start="20231215163000 +0000" stop="20231215173000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231215173000 +0000" stop="20231215193000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2008 ODI HLs</title></programme>
+<programme start="20231215193000 +0000" stop="20231215203000 +0000" channel="ten5.in"><title lang="en">England vs India 2014 ODI HLs</title></programme>
+<programme start="20231215203000 +0000" stop="20231215213000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231215213000 +0000" stop="20231215220000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 ODI HLs</title></programme>
+<programme start="20231215220000 +0000" stop="20231215223000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231215223000 +0000" stop="20231215233000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231215233000 +0000" stop="20231216003000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216003000 +0000" stop="20231216013000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231216013000 +0000" stop="20231216020000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231216020000 +0000" stop="20231216023000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 T20I HLs</title></programme>
+<programme start="20231216023000 +0000" stop="20231216033000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216033000 +0000" stop="20231216043000 +0000" channel="ten5.in"><title lang="en">Coca-Cola Cup 1998 HLs</title></programme>
+<programme start="20231216043000 +0000" stop="20231216053000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231216053000 +0000" stop="20231216063000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216063000 +0000" stop="20231216073000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231216073000 +0000" stop="20231216080000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231216080000 +0000" stop="20231216083000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231216083000 +0000" stop="20231216093000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216093000 +0000" stop="20231216103000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231216103000 +0000" stop="20231216113000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231216113000 +0000" stop="20231216120000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231216120000 +0000" stop="20231216130000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2021 ODI HLs</title></programme>
+<programme start="20231216130000 +0000" stop="20231216133000 +0000" channel="ten5.in"><title lang="en">Best of the Test</title></programme>
+<programme start="20231216133000 +0000" stop="20231216143000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216143000 +0000" stop="20231216163000 +0000" channel="ten5.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231216163000 +0000" stop="20231216173000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231216173000 +0000" stop="20231216193000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2008 ODI HLs</title></programme>
+<programme start="20231216193000 +0000" stop="20231216203000 +0000" channel="ten5.in"><title lang="en">England vs India 2014 ODI HLs</title></programme>
+<programme start="20231216203000 +0000" stop="20231216213000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231216213000 +0000" stop="20231216220000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 ODI HLs</title></programme>
+<programme start="20231216220000 +0000" stop="20231216223000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231216223000 +0000" stop="20231216233000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231216233000 +0000" stop="20231217003000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231217003000 +0000" stop="20231217013000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231217013000 +0000" stop="20231217020000 +0000" channel="ten5.in"><title lang="en">Best of the Test</title></programme>
+<programme start="20231217020000 +0000" stop="20231217023000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 T20I HLs</title></programme>
+<programme start="20231217023000 +0000" stop="20231217033000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231217033000 +0000" stop="20231217043000 +0000" channel="ten5.in"><title lang="en">Coca-Cola Cup 1998 HLs</title></programme>
+<programme start="20231217043000 +0000" stop="20231217053000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231217053000 +0000" stop="20231217063000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231217063000 +0000" stop="20231217073000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231217073000 +0000" stop="20231217080000 +0000" channel="ten5.in"><title lang="en">Best of the Test</title></programme>
+<programme start="20231217080000 +0000" stop="20231217083000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231217083000 +0000" stop="20231217093000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231217093000 +0000" stop="20231217103000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231217103000 +0000" stop="20231217113000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231217113000 +0000" stop="20231217123000 +0000" channel="ten5.in"><title lang="en">England vs India 2021 Test HLs</title></programme>
+<programme start="20231217123000 +0000" stop="20231217133000 +0000" channel="ten5.in"><title lang="en">England vs India 2021 Test HLs</title></programme>
+<programme start="20231217133000 +0000" stop="20231217140000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231217140000 +0000" stop="20231217143000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2023</title></programme>
+<programme start="20231217143000 +0000" stop="20231217163000 +0000" channel="ten5.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231217163000 +0000" stop="20231217183000 +0000" channel="ten5.in"><title lang="en">Bundesliga 2023/24 Live</title></programme>
+<programme start="20231217183000 +0000" stop="20231217193000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231217193000 +0000" stop="20231217203000 +0000" channel="ten5.in"><title lang="en">England vs India 2014 ODI HLs</title></programme>
+<programme start="20231217203000 +0000" stop="20231217213000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231217213000 +0000" stop="20231217220000 +0000" channel="ten5.in"><title lang="en">England Women vs Australia Women 2023 ODI HLs</title></programme>
+<programme start="20231217220000 +0000" stop="20231217223000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231217223000 +0000" stop="20231217233000 +0000" channel="ten5.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231217233000 +0000" stop="20231218003000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231218003000 +0000" stop="20231218013000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231218013000 +0000" stop="20231218023000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231218023000 +0000" stop="20231218033000 +0000" channel="ten5.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231218033000 +0000" stop="20231218043000 +0000" channel="ten5.in"><title lang="en">Zimbabwe vs India 2022 ODI HLs</title></programme>
+<programme start="20231218043000 +0000" stop="20231218053000 +0000" channel="ten5.in"><title lang="en">The Ashes - Eng vs Aus 2005 Test HLs</title></programme>
+<programme start="20231218053000 +0000" stop="20231218063000 +0000" channel="ten5.in"><title lang="en">England vs India 2018 T20I HLs</title></programme>
+<programme start="20231218063000 +0000" stop="20231218073000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231218073000 +0000" stop="20231218083000 +0000" channel="ten5.in"><title lang="en">SL vs IND 2017 ODI HLs</title></programme>
+<programme start="20231218083000 +0000" stop="20231218090000 +0000" channel="ten5.in"><title lang="en">England vs New Zealand 2023 ODI HLs</title></programme>
+<programme start="20231218090000 +0000" stop="20231218093000 +0000" channel="ten5.in"><title lang="en">Sri Lanka vs India 2021 ODI HLs</title></programme>
+<programme start="20231218093000 +0000" stop="20231218103000 +0000" channel="ten5.in"><title lang="en">The Ashes - Eng vs Aus 2005 Test HLs</title></programme>
+<programme start="20231218103000 +0000" stop="20231218113000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231218113000 +0000" stop="20231218123000 +0000" channel="ten5.in"><title lang="en">England vs India 2022 ODI HLs</title></programme>
+<programme start="20231218123000 +0000" stop="20231218133000 +0000" channel="ten5.in"><title lang="en">Cricket Classics</title></programme>
+<programme start="20231218133000 +0000" stop="20231218140000 +0000" channel="ten5.in"><title lang="en">AO Classic Match 2004</title></programme>
+<programme start="20231218140000 +0000" stop="20231218143000 +0000" channel="ten5.in"><title lang="en">The Hundred 2023 HLs</title></programme>
+<programme start="20231218143000 +0000" stop="20231218153000 +0000" channel="ten5.in"><title lang="en">The Ashes - Eng vs Aus 2005 Test HLs</title></programme>
+<programme start="20231218153000 +0000" stop="20231218163000 +0000" channel="ten5.in"><title lang="en">AO 2023 Game Set History</title></programme>
+<programme start="20231218163000 +0000" stop="20231218173000 +0000" channel="ten5.in"><title lang="en">Strongman Champions League 2020/21</title></programme>
+<programme start="20231218173000 +0000" stop="20231218180000 +0000" channel="ten5.in"><title lang="en">The Hundred 2023 HLs</title></programme>
+<programme start="20231218180000 +0000" stop="20231218190000 +0000" channel="ten5.in"><title lang="en">The Ashes - Eng vs Aus 2005 Test HLs</title></programme>
 </tv>
