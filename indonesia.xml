@@ -78,9 +78,9 @@
  <channel id="233.unifi"><display-name lang="en">Now Jelli HD</display-name><url>https://playtv.unifi.com.my</url></channel>
  <channel id="239.unifi"><display-name lang="en">SETI</display-name><url>https://playtv.unifi.com.my</url></channel>
 <channel id="oktolidays.sg"><display-name>oktolidays</display-name><icon src="https://i.imgur.com/hOLzYPc.png"/><url>https://mewatch.sg</url></channel>
-<channel id="NKM.nz"><display-name>NKMOV</display-name><url>https://i.mjh.nz</url></channel>
-<channel id="NKpop.nz"><display-name>NKPOP</display-name><url>https://i.mjh.nz</url></channel>
-<channel id="RViki.nz"><display-name>RViki</display-name><url>https://i.mjh.nz</url></channel>
+<channel id="NKM.nz"><display-name>New K movies</display-name><url>https://i.mjh.nz</url></channel>
+<channel id="NKpop.nz"><display-name>New Kpop</display-name><url>https://i.mjh.nz</url></channel>
+<channel id="RViki.nz"><display-name>Rakuten Viki PLEX</display-name><url>https://i.mjh.nz</url></channel>
 <channel id="sonysab.in"><display-name>SONY SAB HD</display-name><url>https://dishtv.in</url></channel>
 <programme start="20231215190000 +0000" stop="20231215193000 +0000" channel="sonysab.in"><title lang="en">Taarak Mehta Ka Ooltah Chashmah</title></programme>
 <programme start="20231215193000 +0000" stop="20231215200000 +0000" channel="sonysab.in"><title lang="en">Aangan Aapno Kaa</title></programme>
