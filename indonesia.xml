@@ -80,7 +80,7 @@
 <channel id="ten2.in"><display-name>SONY SPORTS TEN 2 HD</display-name><url>https://dishtv.in</url></channel>
 <channel id="ten3.in"><display-name>SONY SPORTS TEN 3 HD</display-name><url>https://dishtv.in</url></channel>
 <channel id="ten5.in"><display-name>SONY SPORTS TEN 5 HD</display-name><url>https://dishtv.in</url></channel>
-<channel id="AstroSensasi.sg"><display-name>Astro Sensasi</display-name><icon src="https://i.imgur.com/BVbyCAo.png"/><url>https://starhubtvplus.com</url></channel>
+<channel id="AstroSensasi.sg"><display-name>Astro Sensasi HD</display-name><icon src="https://i.imgur.com/BVbyCAo.png"/><url>https://starhubtvplus.com</url></channel>
 <programme start="20231230150000 +0000" stop="20231230160000 +0000" channel="AstroSensasi.sg"><title lang="en">Lockdown</title><desc lang="en">Lockdown mengisahkan kehidupan masyarakat tempatan semasa PKP diumumkan. Pelbagai kisah menarik dan menghayat hati yang berlaku kepada sesetengah keluarga dan bersama-sama mengharungi suka duka semasa PKP.</desc><category lang="en">Entertainment</category></programme>
 <programme start="20231230160000 +0000" stop="20231230163000 +0000" channel="AstroSensasi.sg"><title lang="en">Carta 10</title><desc lang="en">Carta 10 merupakan sebuah program majalah berbentuk carta mengenai perkara yang menarik di bumi Malaysia.</desc><category lang="en">Entertainment</category></programme>
 <programme start="20231230163000 +0000" stop="20231230170000 +0000" channel="AstroSensasi.sg"><title lang="en">Unplugged 2018</title><desc lang="en">Unplugged bakal menyaksikan persembahan santai dari artis-artis popular Malaysia.</desc><category lang="en">Entertainment</category></programme>
