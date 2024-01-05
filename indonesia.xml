@@ -66,7 +66,7 @@
 <channel id="NKpop.nz"><display-name>New Kpop</display-name><url>https://i.mjh.nz</url></channel>
 <channel id="RViki.nz"><display-name>Rakuten Viki</display-name><url>https://i.mjh.nz</url></channel>
 <channel id="YGtv.nz"><display-name>YG TV</display-name><url>https://i.mjh.nz</url></channel>
-<channel id="AstroSensasi.sg"><display-name>Astro Sensasi</display-name><icon src="https://i.imgur.com/BVbyCAo.png"/><url>https://starhubtvplus.com</url></channel>
+<channel id="AstroSensasi.sg"><display-name>Astro Sensasi HD</display-name><icon src="https://i.imgur.com/BVbyCAo.png"/><url>https://starhubtvplus.com</url></channel>
 <channel id="oktolidays.sg"><display-name>oktolidays</display-name><icon src="https://i.imgur.com/hOLzYPc.png"/><url>https://mewatch.sg</url></channel>
 <channel id="TNTSports1.uk"><display-name>TNT Sports 1</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true"/><url>https://virginmedia.com</url></channel>
 <channel id="TNTSports2.uk"><display-name>TNT Sports 2</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true"/><url>https://virginmedia.com</url></channel>
