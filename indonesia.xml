@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 <channel id="AEC HD.my"><display-name>AEC HD.my</display-name></channel>
 <channel id="Al Jazeera English HD.my"><display-name>Al Jazeera English HD.my</display-name></channel>
 <channel id="ARENA BOLA 2.my"><display-name>ARENA BOLA 2.my</display-name></channel>
