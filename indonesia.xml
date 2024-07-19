@@ -24,11 +24,11 @@
 <channel id="CGTN HD.my"><display-name>CGTN HD.my</display-name></channel>
 <channel id="CNA HD.my"><display-name>CNA HD.my</display-name></channel>
 <channel id="CTI Asia HD.my"><display-name>CTI Asia HD.my</display-name></channel>
-<channel id="Drama Hebat.my"><display-name>Drama Hebat.my</display-name></channel>
-<channel id="Drama Hotpot.my"><display-name>Drama Hotpot.my</display-name></channel>
+<channel id="DramaHebat"><display-name>Drama Hebat.my</display-name></channel>
+<channel id="DramaHotpot"><display-name>Drama Hotpot.my</display-name></channel>
 <channel id="Dreamworks.my"><display-name>Dreamworks.my</display-name></channel>
 <channel id="EUROSPORT.my"><display-name>EUROSPORT.my</display-name></channel>
-<channel id="Filem Mantap.my"><display-name>Filem Mantap.my</display-name></channel>
+<channel id="FilemMantap"><display-name>Filem Mantap.my</display-name></channel>
 <channel id="Global Trekker.my"><display-name>Global Trekker.my</display-name></channel>
 <channel id="Gusto TV.my"><display-name>Gusto TV.my</display-name></channel>
 <channel id="HITS HD.my"><display-name>HITS HD.my</display-name></channel>
@@ -39,7 +39,7 @@
 <channel id="Jom Ngaji.my"><display-name>Jom Ngaji.my</display-name></channel>
 <channel id="KBS WORLD.my"><display-name>KBS WORLD.my</display-name></channel>
 <channel id="KPLUS.my"><display-name>KPLUS.my</display-name></channel>
-<channel id="Lawak Sentral.my"><display-name>Lawak Sentral.my</display-name></channel>
+<channel id="LawakSentral"><display-name>Lawak Sentral.my</display-name></channel>
 <channel id="Love Nature HD.my"><display-name>Love Nature HD.my</display-name></channel>
 <channel id="MTRSPT1.my"><display-name>MTRSPT1.my</display-name></channel>
 <channel id="OASIS HD.my"><display-name>OASIS HD.my</display-name></channel>
@@ -54,7 +54,7 @@
 <channel id="SPOTV2.my"><display-name>SPOTV2.my</display-name></channel>
 <channel id="Tastemade.my"><display-name>Tastemade.my</display-name></channel>
 <channel id="TAYO+.my"><display-name>TAYO+.my</display-name></channel>
-<channel id="TravelandTaste.my"><display-name>TravelandTaste.my</display-name></channel>
+<channel id="TravelandTaste"><display-name>TravelandTaste.my</display-name></channel>
 <channel id="TV 1.my"><display-name>TV 1.my</display-name></channel>
 <channel id="TV 2.my"><display-name>TV 2.my</display-name></channel>
 <channel id="TV OKEY.my"><display-name>TV OKEY.my</display-name></channel>
